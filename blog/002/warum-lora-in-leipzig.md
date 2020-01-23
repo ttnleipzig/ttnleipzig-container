@@ -1,11 +1,11 @@
 # Warum LoRa in Leipzig
 
-Warum? Aus meiner Sicht bietet diese Technologie die Möglichkeit den vielen Buzz-Words der Gegenwart wie Industrie 4.0, OpenData, Big Data und jetzt neu: Smart Cities kostengünstig, mit Mehrwert für Privatpersonen und der Wirtschaft, Leben einzuhauchen. (Der hat gesessen oder? :-)
+**Warum?** Aus meiner Sicht bietet diese Technologie die Möglichkeit den vielen *Buzz-Words* der Gegenwart wie Industrie 4.0, OpenData, Big Data und jetzt neu: Smart Cities kostengünstig, mit Mehrwert für Privatpersonen und der Wirtschaft, Leben einzuhauchen. (Der hat gesessen oder? :-)
 
 ## Was ist LoRa / LoRaWAN
 
-LoRaWAN steht für Long Range Wide Area Network und beschreibt eine Technik zum energie-effizienten und kosten-günstigen Transfer von Sensordaten, ideal für das Internet der Dinge. Die Technik erlaubt dabei Reichweiten größer 10km unter idealen Bedingungen und 2km im Stadtgebiet.
-Die Sensoren, auch Nodes genannt, kommunizieren dabei mit den Basisstationen, den Gateways. Diese stellen die Brücke ins Internet dar. Durch den Low-Poweransatz können die Batterien der Nodes eine Lebensdauer zwischen einigen Monaten bis hin zu mehreren Jahren erreichen.
+*LoRaWAN* steht für Long Range Wide Area Network und beschreibt eine Technik zum energie-effizienten und kosten-günstigen Transfer von Sensordaten, ideal für das Internet der Dinge. Die Technik erlaubt dabei Reichweiten größer 10km unter idealen Bedingungen und 2km im Stadtgebiet.
+Die Sensoren, auch Nodes genannt, kommunizieren dabei mit den Basisstationen, den *Gateways*. Diese stellen die Brücke ins Internet dar. Durch den Low-Poweransatz können die Batterien der Nodes eine Lebensdauer zwischen einigen Monaten bis hin zu mehreren Jahren erreichen.
 
 ## Was ist LoRaWAN nicht
 
@@ -32,7 +32,7 @@ Die Sende-Geräte sind so klein und kostengünstig, dass die Möglichkeiten der 
 - Ortung von entlaufenen Tieren
 - Umweltdaten aus dem eigenen Schrebergarten (Temperatur, Feuchtigkeit)
 - Einbruchsmelder (Garage, Garten, Haus) mit Meldung aufs Handy
-- Messung der Luftqualität <https://twitter.com/axello/status/794823284168724480>
+- Messung der Luftqualität <https://deutschland.maps.sensor.community/#12/51.3318/12.3893>
 
 ### Wirtschaft
 
