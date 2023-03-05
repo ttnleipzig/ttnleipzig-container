@@ -53,4 +53,7 @@ André
 ---
 
 ## Vorbereitung
-- https://www.youtube.com/watch?v=KawRd5evHyY
+
+- TheGuyWithTheSwissAcent https://www.youtube.com/watch?v=KawRd5evHyY
+- Hardware
+	- https://de.aliexpress.com/item/32872078587.html?spm=a2g0o.detail.1000060.3.5118264dYNxOSL&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.291025.0&scm_id=1007.13339.291025.0&scm-url=1007.13339.291025.0&pvid=1a70793e-198c-41d6-ac9d-67872fa949c9&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.291025.0%2Cpvid%3A1a70793e-198c-41d6-ac9d-67872fa949c9%2Ctpp_buckets%3A668%232846%238108%231977&pdp_ext_f=%7B%22sku_id%22%3A%2212000031557075306%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=3%40dis%21EUR%2119.41%2119.41%21%21%21%21%21%400b0a23b116780138190612580e975f%2112000031557075306%21rec%21DE%211892850761&gatewayAdapt=glo2deu
