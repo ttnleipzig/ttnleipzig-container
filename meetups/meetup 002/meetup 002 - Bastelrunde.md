@@ -56,8 +56,9 @@ Bis dahin!
 
 ## Twitter
 
-Wir bauen eine smarte Regentonne! Diese #Meetup Reihe ist als Mitmach-Workshop gedacht. Im Idealfall bringst Du Deine eigene Hardware und Dein Werkzeug mit. Du kannst auch einfach zuschauen kommen.
+Wir bauen eine smarte Regentonne! Dieses #Meetup der #LoRaWAN  #UserGroup #Leipzig ist als Mitmach-Workshop gedacht. Im Idealfall bringst Du Deine eigene Hardware und Dein Werkzeug mit. Du kannst auch einfach zuschauen kommen.
 
+#Leipzig
 
 ## Vorbereitung
 
