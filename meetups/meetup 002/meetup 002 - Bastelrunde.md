@@ -6,7 +6,7 @@ https://www.meetup.com/de-DE/lorawan-leipzig-usergroup/events/291145374/
 
 ## Details
 
-Wir bauen eine Smarte Regentonne!
+Wir bauen eine smarte Regentonne für Deinen Garten, oder Deinen Balkon!
 
 Ein LoRaWAN Meetup ist eine Gelegenheit für alle Interessierten, sich über LoRaWAN, ein drahtloses Netzwerkprotokoll für den Internet of Things (IoT), zu informieren und zu vernetzen.
 
@@ -56,7 +56,7 @@ Bis dahin!
 
 ## Twitter
 
-Wir bauen eine smarte Regentonne! Dieses #Meetup der #LoRaWAN  #UserGroup #Leipzig ist als Mitmach-Workshop gedacht. Im Idealfall bringst Du Deine eigene Hardware und Dein Werkzeug mit. Du kannst auch einfach zuschauen kommen.
+Wir bauen eine smarte Regentonne für Deinen #Garten, oder Deinen Balkon! Dieses #Meetup der #LoRaWAN  #UserGroup #Leipzig ist als Mitmach-Workshop gedacht. Im Idealfall bringst Du Deine eigene Hardware und Dein Werkzeug mit. Du kannst auch einfach zuschauen kommen.
 
 #Leipzig
 
