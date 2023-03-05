@@ -11,11 +11,9 @@
             "id": "ed3ca23b57315c69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/hardware/ultraschall.jpg"
               }
             }
           },
@@ -31,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+                "file": "assets/hardware/ultraschall.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+                "file": "assets/hardware/ultraschall.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md"
+                "file": "assets/hardware/ultraschall.jpg"
               }
             }
           }
@@ -161,7 +158,10 @@
   },
   "active": "eb23514f1d68fa25",
   "lastOpenFiles": [
+    "assets/hardware",
+    "assets/hardware/ttgo-lora.jpg",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+    "assets/hardware/ultraschall.jpg",
     "meetups/meetup 002/assets/Meetup #002 - TTN.png",
     "presentation/E-Mail Footer.md",
     "meetups/assets/ai/vergissberlin_microcontroller_on_a_office_desk_meetup_situation_3effda75-1977-4787-8368-e07d922137e3.png",
@@ -175,8 +175,6 @@
     "meetups/meetup 002/assets/LoRaWan Meetup #002 - TTN.png",
     "meetups/meetup 002/assets/LoRaWan Meetup.md",
     "meetups/assets/ai/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__fd24b15d-f8e8-4dcb-a4dc-00318d40ac60.png",
-    "meetups/meetup 002/assets/vergissberlin_person_with_a_soldering_iron_and_a_microcontrolle_19c6f28f-1786-4127-b40f-71767713efc3.png",
-    "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png",
     "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png.crdownload",
     "meetups/assets/ai",
     "meetups/meetup 010/assets",
