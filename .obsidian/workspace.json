@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f81089a3f2c03e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed3ca23b57315c69",
+  "active": "5f81089a3f2c03e5",
   "lastOpenFiles": [
+    "presentation/E-Mail Footer.md",
+    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/assets/ai/vergissberlin_microcontroller_on_a_office_desk_meetup_situation_3effda75-1977-4787-8368-e07d922137e3.png",
     "meetups/assets/ai/vergissberlin_IoT_smart_city_vector_graphic_a40b7348-c9fe-429b-8994-c7e3790a3224.png",
     "meetups/assets/ai/vergissberlin_Sportive_boy_holding_a_computer_in_his_hand_while_6b07ebb4-0f7c-4610-b8d3-631b8279c6e9.png",
     "meetups/assets/ai/vergissberlin_vector_graphic_for_a_meetup_relaxed_atmosphere_so_1c968e9b-148b-430e-b7f4-6ae9523ab300.png",
-    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/assets/MeetUp.png",
     "assets/LoRaWan Meetup.md",
     "assets",
@@ -164,7 +178,6 @@
     "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png",
     "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png.crdownload",
     "meetups/assets/ai/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__9a090293-b275-4872-b621-37b0b0d7b202.png",
-    "meetups/assets/ai/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png",
     "meetups/assets/ai",
     "meetups/meetup 010/assets",
     "meetups/meetup 010",
