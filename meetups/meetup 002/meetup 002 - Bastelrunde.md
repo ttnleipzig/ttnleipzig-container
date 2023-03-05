@@ -60,6 +60,8 @@ Wir bauen eine smarte Regentonne! Dieses #Meetup der #LoRaWAN  #UserGroup #Leipz
 
 #Leipzig
 
+https://www.meetup.com/de-DE/lorawan-leipzig-usergroup/events/291390375/
+
 ## Vorbereitung
 
 - TheGuyWithTheSwissAcent https://www.youtube.com/watch?v=KawRd5evHyY
