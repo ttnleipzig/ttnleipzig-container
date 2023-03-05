@@ -3,7 +3,6 @@
 Donnerstag, 9. Februar 2023 um 19:00 bis Donnerstag, 9. Februar 2023 um 21:00 CET
 https://www.meetup.com/de-DE/lorawan-leipzig-usergroup/events/291145374/
 
-
 ## Details
 
 Wir bauen eine smarte Regentonne für Deinen Garten, oder Deinen Balkon!
