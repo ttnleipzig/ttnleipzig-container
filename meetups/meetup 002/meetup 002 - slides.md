@@ -43,16 +43,7 @@ slideOptions:
 ## Recap - Ideensammlung
 
 
-1. Walk Through - Wo fange ich an?
-2. Signale aufs Handy zu übertragen<!-- element class="fragment" -->
-3. Prototypen bauen - Löten vs. Stecken<!-- element class="fragment" -->
-4. Wie ist die Abdeckung z.B. auf dem Dorf?<!-- element class="fragment" -->
-5. Checksum?<!-- element class="fragment" -->
-6. Der eigene Gateway<!-- element class="fragment" -->
-7. TTN aktueller Stand v3?<!-- element class="fragment" -->
-8. LoRaWAN Limitierungen<!-- element class="fragment" -->
-9. Was sind eure Zukunfviosionen zu LoraWAN?<!-- element class="fragment" -->
-10. Projektideen <small>(Briefkasten, Regentonne, Bodenfeuchte)</small><!-- element class="fragment" -->
+
 
 <!--
 	1. Briefkasteneinwurf

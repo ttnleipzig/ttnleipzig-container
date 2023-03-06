@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "7f8704b154fc2ab0",
+        "id": "ca01b78efd61183f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e09f02ac43ea9f4",
+            "id": "c52135dc926be123",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 200
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eb23514f1d68fa25",
+  "active": "490f77132a24744d",
   "lastOpenFiles": [
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure.png",
