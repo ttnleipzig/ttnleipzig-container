@@ -11,8 +11,12 @@
             "id": "c39128e0b34c4425",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb23514f1d68fa25",
+  "active": "c39128e0b34c4425",
   "lastOpenFiles": [
     "assets/projects/smart mirror/IMG_4523.jpg",
     "assets/projects/smart mirror/IMG_4512.jpg",
