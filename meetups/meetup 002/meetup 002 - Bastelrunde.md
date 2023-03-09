@@ -59,6 +59,15 @@ Wir bauen eine smarte Regentonne für Deinen #Garten, oder Deinen Balkon! Dieses
 
 #Leipzig
 
+
+### LinkedIn
+
+An alle in **#leipzig** und Umgebung:
+
+Wir bauen eine smarte Regentonne 🌧️ für Deinen **#Garten** 🌻, oder Deinen Balkon! Dieses **#Meetup** der **#LoRaWAN** **#UserGroup** **#Leipzig** ist als Mitmach-Workshop gedacht. Im Idealfall bringst Du Deine eigene Hardware 👩‍💻 und Dein Werkzeug 🛠️ mit. Du kannst auch einfach zuschauen kommen. 🥸 Wann? Nächsten Donnerstag um 19 Uhr. Bis dahin!
+
+
+
 https://www.meetup.com/de-DE/lorawan-leipzig-usergroup/events/291390375/
 
 ## Vorbereitung
