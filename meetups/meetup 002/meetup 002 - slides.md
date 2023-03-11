@@ -77,7 +77,6 @@ slideOptions:
 
 --
 
-<!-- slide bg="white" -->
 ## Hardware
 ### Stromversorgung
 
@@ -85,7 +84,6 @@ slideOptions:
 
 
 --
-<!-- slide bg="white" -->
 
 ## Hardware
 ### Mikrocontroller mit LoRa-Chip
@@ -93,15 +91,14 @@ slideOptions:
 ![[hardware-controller-removebg-preview.png]]
 
 --
-<!-- slide bg="white" -->
+
 ## Hardware
 ### Sensor
 
-
-<split even gap="2">
-![[hardware-sensor-removebg-preview.png|200]]
-![[hardware-sensor-weight-removebg-preview.png|200]]
-![[hardware-sensor-pressure-removebg-preview.png|200]]
+<split even gap="1">
+![[hardware-sensor-removebg-preview.png|240]]
+![[hardware-sensor-weight-removebg-preview.png|240]]
+![[hardware-sensor-pressure-removebg-preview.png|240]]
 </split>
 
 ---
