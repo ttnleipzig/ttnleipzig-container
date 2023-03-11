@@ -1,9 +1,8 @@
 ---
 
-title: Smarte Wassertonne - #002 
+title: Bastelrunde - #002 Hardware & Software
 description: Einfluss von KIs auf die Gegenwart und Zukunft der Software-Entwicklung.
 tags: slide,programming
-robots: noindex, nofollow
 type: slide
 
 slideOptions:
@@ -14,28 +13,33 @@ slideOptions:
 ---
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+h1, h2 {
+	font-family: 'Permanent Marker', cursive !important;
+	text-shadow: 12px 2px 12px #00000099 !important;
+}
     li, p {
         text-align: left;
     }
-    /* .slides {
-        background: #0005;
-        backdrop-filter: blur(6px);
-        border-radius: 3rem;
-    } */
     .reveal section img {
         border: 0;
     }
 </style>
 
-# #002 - Bastelrunde
+<!-- element class="red" style="color: pink !important" -->
+# #002 Bastelrunde
 ## Hardware & Software
+<!-- element -->
 
+<!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
 
 ---
 
-### Winter
+## Winter
+Winter
 
-----
+---
 
 ## Things to learn
 
