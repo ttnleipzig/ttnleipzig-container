@@ -1,3 +1,43 @@
+---
+
+title: Smarte Wassertonne - #002 
+description: Einfluss von KIs auf die Gegenwart und Zukunft der Software-Entwicklung.
+tags: slide,programming
+robots: noindex, nofollow
+type: slide
+
+slideOptions:
+  theme: black
+  transition: 'fade'
+
+  
+---
+
+<style>
+    li, p {
+        text-align: left;
+    }
+    /* .slides {
+        background: #0005;
+        backdrop-filter: blur(6px);
+        border-radius: 3rem;
+    } */
+    .reveal section img {
+        border: 0;
+    }
+</style>
+
+# #002 - Bastelrunde
+## Hardware & Software
+
+
+---
+
+### Winter
+
+----
+
+## Things to learn
 
 1. Titelbild
 2. Projektübersicht
