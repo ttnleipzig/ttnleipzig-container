@@ -98,7 +98,6 @@ slideOptions:
 ### Sensor
 
 
-
 <split even gap="2">
 ![[hardware-sensor-removebg-preview.png|200]]
 ![[hardware-sensor-weight-removebg-preview.png|200]]
@@ -106,6 +105,18 @@ slideOptions:
 </split>
 
 ---
+
+## Werkzeug
+
+1. Lötkolben, Lötzinn, Flußmittel, Helping Hand
+2. Breadboard, Steckkabel
+3. Multimeter
+4. Notebook, USB Kabel
+5. Kabel
+
+---
+
+<!--
 1. Titelbild
 2. Projektübersicht
 	1. Planung
@@ -124,7 +135,7 @@ slideOptions:
 		3. Breadboard + Kabel
 	2. Werkzeug
 		1. Lötkolben + Lötzinn
-
+-->
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
