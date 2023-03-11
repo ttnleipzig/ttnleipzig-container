@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e3fd9af7fde3b3af",
+        "id": "ef165ab19f462f06",
         "type": "tabs",
-        "dimension": 24.850299401197603,
         "children": [
           {
-            "id": "c39128e0b34c4425",
+            "id": "490f77132a24744d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "meetups/meetup 002/meetup 002 - slides.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "407b8ce7cfa69f50",
+        "id": "ec6cbc31f1dff985",
         "type": "tabs",
-        "dimension": 75.1497005988024,
         "children": [
           {
-            "id": "ba78a12910b908f9",
+            "id": "55503228823c94f6",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -163,25 +163,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c39128e0b34c4425",
+  "active": "eb23514f1d68fa25",
   "lastOpenFiles": [
-    "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png",
-    "meetups/meetup 002/assets/vergissberlin_person_with_a_soldering_iron_and_a_microcontrolle_19c6f28f-1786-4127-b40f-71767713efc3.png",
-    "meetups/meetup 002/assets/Meetup.md",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-pressure.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-weight-removebg-preview.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
+    "meetups/meetup 002/assets/slides/slide-recap-ideensammlung.png",
+    "meetups/meetup 002/assets/slides/slide-recap-001.png",
     "meetups/meetup 002/meetup 002 - slides.md",
-    "meetups/meetup 002/assets/Meetup-002.png",
+    "meetups/meetup 001/assets/image.png",
+    "meetups/meetup 001/assets/MeetUp 001.png",
+    "meetups/meetup 001/assets/MeetUp 001 - TTN.png",
+    "meetups/meetup 002/assets/slides",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor.png",
+    "meetups/meetup 002/assets/raw",
+    "meetups/meetup 002/assets/some",
+    "meetups/meetup 002/assets/hardware",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
-    "meetups/meetup 002/assets/Meetup #002 - LinkedIn Events.png",
-    "meetups/meetup 002/assets/LoRaWan Meetup #002 - TTN.png",
+    "meetups/meetup 002/assets/Meetup.md",
     "meetups/meetup 002/test slide.md",
-    "assets/projects/smart mirror/IMG_4523.jpg",
-    "assets/projects/smart mirror/IMG_4512.jpg",
-    "assets/projects/smart mirror/IMG_4511.jpg",
-    "assets/projects/smart mirror/IMG_4489.jpg",
     "assets/projects/smart mirror",
     "assets/projects",
-    "assets/hardware/htb11tyrkf5tbunjsspmq6ydrvxal_YsJmYYdBqg.jpg",
-    "assets/hardware/ultraschall.jpg",
     "presentation/E-Mail Footer.md",
     "assets/hardware",
     "assets/LoRaWan Meetup.md",
@@ -190,10 +194,6 @@
     "meetups/meetup 002/assets/LoRaWan Meetup.md",
     "meetups/meetup 002/assets/vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png.crdownload",
     "meetups/assets/ai",
-    "meetups/meetup 010/assets",
-    "meetups/meetup 010",
-    "meetups/meetup 009/assets",
-    "meetups/meetup 009",
     "politics/meetings/001.md"
   ]
 }

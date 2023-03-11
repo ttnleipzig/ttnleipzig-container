@@ -8,41 +8,104 @@ type: slide
 slideOptions:
   theme: black
   transition: 'fade'
-
   
 ---
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-
-h1, h2 {
-	font-family: 'Permanent Marker', cursive !important;
-	text-shadow: 12px 2px 12px #00000099 !important;
-}
-    li, p {
-        text-align: left;
-    }
-    .reveal section img {
-        border: 0;
-    }
-</style>
-
-<!-- element class="red" style="color: pink !important" -->
-# #002 Bastelrunde
-## Hardware & Software
-<!-- element -->
-
 <!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
 
+# #002 Bastelrunde
+<!-- element style="padding-top: 30%" -->
+## Hardware & Software
+
+
+---
+## Projektübersicht
+
+1. Hardware Prototyp
+3. Verbindung mit TTN<!-- element class="fragment" -->
+4. Datenverarbeitung in NodeRED<!-- element class="fragment" -->
+5. Datenmonitoring und Visualisierung<!-- element class="fragment" -->
+	1. Handy Notification
+	2. Dashboard
+6. Veröffentlichung<!-- element class="fragment" -->
+
+
 ---
 
-## Winter
-Winter
+## Recap
+### Ideensammlung
+
+![[slide-recap-ideensammlung.png|600]]
+
+--
+
+
+## Recap - Ideensammlung
+
+
+1. Walk Through - Wo fange ich an?
+2. Signale aufs Handy zu übertragen<!-- element class="fragment" -->
+3. Prototypen bauen - Löten vs. Stecken<!-- element class="fragment" -->
+4. Wie ist die Abdeckung z.B. auf dem Dorf?<!-- element class="fragment" -->
+5. Checksum?<!-- element class="fragment" -->
+6. Der eigene Gateway<!-- element class="fragment" -->
+7. TTN aktueller Stand v3?<!-- element class="fragment" -->
+8. LoRaWAN Limitierungen<!-- element class="fragment" -->
+9. Was sind eure Zukunfviosionen zu LoraWAN?<!-- element class="fragment" -->
+10. Projektideen <small>(Briefkasten, Regentonne, Bodenfeuchte)</small><!-- element class="fragment" -->
+
+<!--
+	1. Briefkasteneinwurf
+	2. Smarte Regentonne
+	3. Bodenfeuchte-Sensor
+-->
+
+--
+## Recap
+### #001 Planung
+
+
+![[slide-recap-001.png]]
+
+
 
 ---
 
-## Things to learn
+## Hardware
 
+![[hardware-regentonne-removebg.png]]
+
+--
+
+<!-- slide bg="white" -->
+## Hardware
+### Stromversorgung
+
+![[hardware-battery-removebg-preview.png]]
+
+
+--
+<!-- slide bg="white" -->
+
+## Hardware
+### Mikrocontroller mit LoRa-Chip
+
+![[hardware-controller-removebg-preview.png]]
+
+--
+<!-- slide bg="white" -->
+## Hardware
+### Sensor
+
+
+
+<split even gap="2">
+![[hardware-sensor-removebg-preview.png|200]]
+![[hardware-sensor-weight-removebg-preview.png|200]]
+![[hardware-sensor-pressure-removebg-preview.png|200]]
+</split>
+
+---
 1. Titelbild
 2. Projektübersicht
 	1. Planung
@@ -61,4 +124,25 @@ Winter
 		3. Breadboard + Kabel
 	2. Werkzeug
 		1. Lötkolben + Lötzinn
-  
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+h1, h2 {
+	font-family: 'Permanent Marker', cursive !important;
+	text-shadow: 12px 2px 12px #00000099 !important;
+}
+ol, ul {
+	margin-left: 12px !important;
+	padding-left: 12px;
+}
+li, p {
+	text-align: left;
+}
+li {
+	margin-left: 12px !important;
+}
+.reveal section img {
+	border: 0;
+}
+</style>
