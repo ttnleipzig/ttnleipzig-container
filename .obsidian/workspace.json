@@ -20,22 +20,21 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "ca01b78efd61183f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c52135dc926be123",
+            "id": "aca22dc6368a3117",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "490f77132a24744d",
+  "active": "aca22dc6368a3117",
   "lastOpenFiles": [
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure.png",
