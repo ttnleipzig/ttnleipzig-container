@@ -25,16 +25,26 @@
             "id": "aca22dc6368a3117",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "presentation/assets/logo/ttnle-logo-500.png"
+              }
+            }
+          },
+          {
+            "id": "49dae3899e5bae8b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "presentation/Cooperate Identity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "presentation/Cooperate Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "presentation/Cooperate Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md"
+                "file": "presentation/Cooperate Identity.md"
               }
             }
           }
@@ -161,21 +171,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aca22dc6368a3117",
+  "active": "49dae3899e5bae8b",
   "lastOpenFiles": [
+    "presentation/assets/logo/ttnle-logo-500.png",
+    "presentation/Cooperate Identity.md",
+    "README.md",
+    "meetups/meetup 005/assets/MeetUp 005 1.png",
+    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-weight-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
     "meetups/meetup 002/assets/slides/slide-recap-ideensammlung.png",
     "meetups/meetup 002/assets/slides/slide-recap-001.png",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 001/assets/image.png",
     "meetups/meetup 001/assets/MeetUp 001.png",
     "meetups/meetup 001/assets/MeetUp 001 - TTN.png",
     "meetups/meetup 002/assets/slides",
-    "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
-    "meetups/meetup 002/assets/hardware/hardware-sensor.png",
     "meetups/meetup 002/assets/raw",
     "meetups/meetup 002/assets/some",
     "meetups/meetup 002/assets/hardware",
