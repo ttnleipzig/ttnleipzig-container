@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+            "file": "meetups/meetup 002/meetup 002 - slides.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+            "file": "meetups/meetup 002/meetup 002 - slides.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "meetups/meetup 002/meetup 002 - Bastelrunde.md"
+            "file": "meetups/meetup 002/meetup 002 - slides.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "7f1feefc076339c2",
   "lastOpenFiles": [
+    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 002/assets/hardware/hardware-regentonne-removebg.png",
     "meetups/meetup 002/assets/slides/slide-recap-ideensammlung.png",
     "meetups/meetup 002/assets/hardware/hardware-controller-removebg-preview.png",
@@ -144,14 +145,12 @@
     "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-controller.png",
     "assets/projects/ideas.md",
-    "meetups/meetup 002/assets/some/Meetup #002 - LinkedIn Events.png",
     "README.md",
     "FUNDING.yml",
     "politics/meetings/001.md",
     "blog/blog 001/2020-01 Oberbürgermeister.md",
     "politics/networking/sophia-kraft.md",
     "presentation/E-Mail Footer.md",
-    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "politics/networking/spinlab.md",
     "meetups/meetup 001/meetup 001 - Kickoff.md"
   ]
