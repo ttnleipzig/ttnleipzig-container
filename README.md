@@ -4,5 +4,5 @@ This is a content repository for [TTN Leipzig](https://www.thethingsnetwork.org/
 
 ## Targets
 
-1. Enable andd connect people to use LoRa
+1. Enable and connect people to use LoRa
 2. Create LoRa network for Leipzig, Germany
