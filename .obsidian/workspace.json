@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 477.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -195,8 +195,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fbe75d72d02e638f",
+  "active": "eb23514f1d68fa25",
   "lastOpenFiles": [
+    "meetups/meetup 002/assets/hardware/board-heltec-esp32.png",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/Bauanleitung.md",
     "assets/projects/ideas.md",
