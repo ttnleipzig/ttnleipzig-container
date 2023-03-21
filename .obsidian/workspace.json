@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81ef3c0cdb6150c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets/projects/regenfass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "assets/projects/regenfass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "assets/projects/regenfass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md"
+                "file": "assets/projects/regenfass.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eb23514f1d68fa25",
+  "active": "81ef3c0cdb6150c8",
   "lastOpenFiles": [
-    "meetups/meetup 002/assets/hardware/board-heltec-esp32.png",
     "meetups/meetup 002/meetup 002 - slides.md",
+    "assets/projects/regenfass.md",
+    "meetups/meetup 002/assets/hardware/board-heltec-esp32.png",
     "meetups/meetup 002/Bauanleitung.md",
     "assets/projects/ideas.md",
     "presentation/Cooperate Identity.md",
@@ -212,7 +225,6 @@
     "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
     "meetups/meetup 002/assets/slides/slide-recap-ideensammlung.png",
     "meetups/meetup 002/assets/slides/slide-recap-001.png",
-    "meetups/meetup 001/assets/image.png",
     "meetups/meetup 002/assets/slides",
     "meetups/meetup 002/assets/raw",
     "meetups/meetup 002/assets/some",
