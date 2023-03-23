@@ -15,24 +15,13 @@
               "type": "markdown",
               "state": {
                 "file": "meetups/meetup 002/meetup 002 - slides.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fbe75d72d02e638f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/drawings/regenfass.excalidraw"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw",
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw",
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw"
+                "file": "meetups/meetup 002/meetup 002 - slides.md"
               }
             }
           }
@@ -161,10 +150,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbe75d72d02e638f",
+  "active": "490f77132a24744d",
   "lastOpenFiles": [
-    "assets/drawings/regenfass.png",
     "assets/drawings/regenfass.excalidraw",
+    "assets/drawings/regenfass.png",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "Pasted image 20230323181604.png",
