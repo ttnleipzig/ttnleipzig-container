@@ -20,8 +20,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6ba52265f1a0dfc9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/drawings/regenfass.excalidraw"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,11 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "490f77132a24744d",
+  "active": "0ac02882f14e73b0",
   "lastOpenFiles": [
+    "meetups/meetup 002/meetup 002 - slides.md",
     "assets/drawings/regenfass.excalidraw",
     "assets/drawings/regenfass.png",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "Pasted image 20230323181604.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
