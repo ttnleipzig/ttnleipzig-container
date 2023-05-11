@@ -36,17 +36,33 @@
           {
             "id": "c602ef7dc3fdf2f5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 003/Einladung.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "7d0e9ad8a324edb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0590c1552c56a704",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,12 +107,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d9967d27d90cdf4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -112,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/drawings/regenfass.excalidraw"
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md"
               }
             }
           }
@@ -175,15 +200,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ba52265f1a0dfc9",
+  "active": "c602ef7dc3fdf2f5",
   "lastOpenFiles": [
+    "assets/drawings/regenfass.excalidraw",
+    "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+    "meetups/meetup 002/meetup 002 - slides.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
+    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+    "meetups/meetup 002/Bauanleitung.md",
+    "meetups/meetup 002/assets/some/LoRaWan Meetup #002 - TTN.png",
+    "meetups/meetup 004/Slides.md",
+    "meetups/meetup 000/Vorlagen",
+    "meetups/meetup 000",
+    "meetups/meetup 004/Meetup #004 - Twitter.png",
+    "meetups/meetup 004/Meetup #004 - TTN.jpg",
+    "meetups/meetup 004/Meetup #004 - TTN.png",
     "meetups/meetup 003/Einladung.md",
     "meetups/meetup 003/assets/Meetup #003 - Twitter.png",
     "meetups/meetup 003/assets/Meetup #003 - TTN.png",
-    "assets/drawings/regenfass.excalidraw",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "assets/drawings/regenfass.png",
-    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "Pasted image 20230323181604.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
@@ -191,23 +226,16 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "assets/drawings/regenfass.svg",
-    "meetups/meetup 002/Bauanleitung.md",
-    "presentation/assets/logo/ttnle-logo-500.png",
     "presentation/Cooperate Identity.md",
     "assets/projects/regenfass.md",
-    "meetups/meetup 002/assets/hardware/board-heltec-esp32.png",
     "assets/projects/ideas.md",
-    "presentation/assets/panorama.png",
     "README.md",
-    "meetups/meetup 005/assets/MeetUp 005 1.png",
     "meetups/meetup 002/assets/slides",
     "meetups/meetup 002/assets/raw",
     "meetups/meetup 002/assets/some",
     "meetups/meetup 002/assets/hardware",
     "meetups/meetup 002/assets/Meetup.md",
     "meetups/meetup 002/test slide.md",
-    "assets/projects/smart mirror",
-    "assets/projects",
     "presentation/E-Mail Footer.md",
     "assets/LoRaWan Meetup.md",
     "meetups/meetup 001/meetup 001 - Kickoff.md",

@@ -29,7 +29,6 @@ slideOptions:
 	2. Dashboard
 6. Veröffentlichung<!-- element class="fragment" -->
 
-
 ---
 
 ## Recap
@@ -39,10 +38,7 @@ slideOptions:
 
 --
 
-
 ## Recap - Ideensammlung
-
-
 
 
 <!--
@@ -55,10 +51,7 @@ slideOptions:
 ## Recap
 ### #001 Planung
 
-
 ![[slide-recap-001.png]]
-
-
 
 ---
 
