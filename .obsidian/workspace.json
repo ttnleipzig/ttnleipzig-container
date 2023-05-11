@@ -46,16 +46,28 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1d4026c10f47ebac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 005/meet 006 - slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
-        "id": "2e0916edf90e7c41",
+        "id": "e501669a69803868",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e6032f4cadc32a",
+            "id": "12281659cc11d71f",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -120,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -137,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+                "file": "meetups/meetup 005/meet 006 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+                "file": "meetups/meetup 005/meet 006 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md"
+                "file": "meetups/meetup 005/meet 006 - slides.md"
               }
             }
           }
@@ -200,12 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c602ef7dc3fdf2f5",
+  "active": "1d4026c10f47ebac",
   "lastOpenFiles": [
-    "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
+    "meetups/meetup 005/meet 006 - slides.md",
+    "assets/drawings/regenfass.excalidraw",
+    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 002/Bauanleitung.md",
     "meetups/meetup 002/assets/some/LoRaWan Meetup #002 - TTN.png",

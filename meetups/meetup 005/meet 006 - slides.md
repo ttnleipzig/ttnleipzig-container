@@ -1,6 +1,6 @@
 ---
 
-title: Bastelrunde - #005 Hardware & Software
+title: Bastelrunde - #006 Hardware & Software
 description: Senden der Daten zum TTN
 tags: slide,programming,lorawan
 type: slide
@@ -13,8 +13,17 @@ type: slide
 <!-- element style="padding-top: 30%" -->
 ## Regenfass
 
+---
+
+## Onbording
+
+- Was ist LoRaWAN Leipzig
+- Wo wir uns befinden <!-- element class="fragment" -->
+- Wo die Toiletten sind<!-- element class="fragment" -->
+- Wo gibt es Getränke?<!-- element class="fragment" -->
 
 ---
+
 ## Projektübersicht
 
 1. Hardware Prototyp
