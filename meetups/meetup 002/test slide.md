@@ -1,4 +1,4 @@
----
+👀---
 
 title: GitHub Copilot
 description: Einfluss von KIs auf die Gegenwart und Zukunft der Software-Entwicklung.
