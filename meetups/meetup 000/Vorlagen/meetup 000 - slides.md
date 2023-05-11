@@ -47,24 +47,24 @@ type: slide
 
 ## Werkzeug
 
-1. Lötkolben, Lötzinn, Flußmittel, Helping Hand
-2. Breadboard, Steckkabel
-3. Multimeter
-4. Notebook, USB Kabel
-5. Kabel
+1. Lötkolben, Lötzinn, Flußmittel, Helping Hand<!-- element class="fragment" -->
+2. Breadboard, Steckkabel<!-- element class="fragment" -->
+3. Multimeter<!-- element class="fragment" -->
+4. Notebook, USB Kabel<!-- element class="fragment" -->
+5. Kabel<!-- element class="fragment" -->
 
 ---
 
 ## Software
 
-- Platform.io
-- C, C++
-- Libraries
-- GitHub & GitHub Actions
-- TTN Platform
-- Node-RED
-- Grafana
+1. ✅ Platform.io<!-- element class="fragment" -->
+1. ✅ C, C++<!-- element class="fragment" -->
+1. ✅ Libraries<!-- element class="fragment" -->
+1. TTN Platform<!-- element class="fragment" -->
+1. Node-RED<!-- element class="fragment" -->
+1. Grafana<!-- element class="fragment" -->
+1. GitHub & GitHub Actions<!-- element class="fragment" -->
 
 ---
 
-
+Let's go
