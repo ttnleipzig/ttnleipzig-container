@@ -53,14 +53,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 005/meet 005 - slides.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "45bfe6794f6d4418",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md"
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md"
               }
             }
           }
@@ -211,12 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c602ef7dc3fdf2f5",
+  "active": "329acba53f856900",
   "lastOpenFiles": [
-    "meetups/meetup 005/meet 005 - slides.md",
-    "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
-    "meetups/meetup 002/test slide.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+    "meetups/meetup 005/meet 005 - slides.md",
+    "meetups/meetup 002/test slide.md",
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
