@@ -10,8 +10,10 @@ type: slide
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&display=swap');
 h1, h2 {
 	font-family: 'Permanent Marker', cursive !important;
+	text-shadow: 0 0 12px #000 !important;
 }
 </style>
+
 
 <!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
 
