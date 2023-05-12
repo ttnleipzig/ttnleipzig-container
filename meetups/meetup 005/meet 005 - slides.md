@@ -77,6 +77,14 @@ h1, h2 {
 - ✅ LoRaWAN Chip<!-- element class="fragment" -->
 - ✅ Energieversorgung<!-- element class="fragment" -->
 
+--
+
+### Hardware - Aktuell
+#### Boards
+
+| Bezeichnung| Chip |
+| –––– | –––– |
+
 ---
 
 ## Software

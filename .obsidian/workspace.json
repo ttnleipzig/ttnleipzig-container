@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meet 005 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meet 005 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meet 005 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md"
+                "file": "meetups/meetup 005/meet 005 - slides.md"
               }
             }
           }
@@ -213,8 +213,8 @@
   },
   "active": "329acba53f856900",
   "lastOpenFiles": [
-    "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
     "meetups/meetup 005/meet 005 - slides.md",
     "meetups/meetup 002/test slide.md",
