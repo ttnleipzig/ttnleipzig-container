@@ -15,9 +15,10 @@ h1, h2 {
 
 <!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
 
-# Bastelrunde
-<!-- element style="padding-top: 30%" -->
-## Regenfass
+# Bastelrunde 
+<!-- element style="padding-top: 30%; text-shadow: 4px 4px 2px 2px #000;" -->
+## #005 Regenfass
+<!-- element style="text-shadow: 4px 4px 2px 2px #000" -->
 
 ---
 
@@ -42,17 +43,17 @@ h1, h2 {
 ## Hausregeln 
 ### Basislager
 
-- So verlassen wie vorgefunden
-- Getränke gegen Spende in die Box
-- Nicht löten
-- Keine sexistischen Zeichnungen an den Wänden
+- So verlassen wie vorgefunden<!-- element class="fragment" -->
+- Getränke gegen Spende in die Box<!-- element class="fragment" -->
+- Nicht löten<!-- element class="fragment" -->
+- Keine sexistischen Zeichnungen an den Wänden<!-- element class="fragment" -->
 
 --
 
 ## Hausregeln 
 ### Glühende Kohlen
 
-- So verlassen wie vorgefunden
+- So verlassen wie vorgefunden<!-- element class="fragment" -->
 
 ---
 

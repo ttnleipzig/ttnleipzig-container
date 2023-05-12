@@ -75,11 +75,11 @@
         "currentTab": 3
       },
       {
-        "id": "186aaea96bbf9f9d",
+        "id": "f53bbc839bd10cd4",
         "type": "tabs",
         "children": [
           {
-            "id": "cd36d178908a9066",
+            "id": "6465035ea69315d1",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "meetups/meetup 005/meet 005 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "file": "meetups/meetup 005/meet 005 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md"
+                "file": "meetups/meetup 005/meet 005 - slides.md"
               }
             }
           }
@@ -223,8 +223,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb23514f1d68fa25",
+  "active": "38635a848a721ef4",
   "lastOpenFiles": [
+    "meetups/meetup 002/meetup 002 - slides.md",
     "Pasted image 20230323181604.png",
     "meetups/meetup 005/meet 005 - slides.md",
     "Pasted image 20230512125929.png",
@@ -236,8 +237,6 @@
     "meetups/assets/ai-01/vergissberlin_microcontroller_on_a_office_desk_meetup_situation_1d762389-25b2-499f-8a7f-0f06c071dd91.png",
     "meetups/assets/ai-01/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_c4d44b6c-daa3-46de-a4f6-25c183600289.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
-    "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
