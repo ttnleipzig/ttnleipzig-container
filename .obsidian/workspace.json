@@ -60,6 +60,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c51cd5864f3dbeea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230323181604.png"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -215,9 +225,11 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
+    "Pasted image 20230323181604.png",
+    "meetups/meetup 005/meet 005 - slides.md",
+    "Pasted image 20230512125929.png",
     "meetups/assets/ai/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png",
     "meetups/assets/ai/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__9a090293-b275-4872-b621-37b0b0d7b202.png",
-    "meetups/meetup 005/meet 005 - slides.md",
     "meetups/assets/ai/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__fd24b15d-f8e8-4dcb-a4dc-00318d40ac60.png",
     "meetups/assets/ai/vergissberlin_Frau_sitzt_mit_einem_Ltkolben_an_einem_Tisch_und__ea176288-f28f-411b-86be-3a631b7e711b.png",
     "meetups/assets/ai/vergissberlin_IoT_smart_city_vector_graphic_a40b7348-c9fe-429b-8994-c7e3790a3224.png",
@@ -225,7 +237,6 @@
     "meetups/assets/ai/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_c4d44b6c-daa3-46de-a4f6-25c183600289.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
     "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
-    "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",

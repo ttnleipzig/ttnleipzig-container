@@ -37,6 +37,23 @@ h1, h2 {
 - [ ] Wo gibt es Getränke?
 -->
 
+--
+
+## Hausregeln 
+### Basislager
+
+- So verlassen wie vorgefunden
+- Getränke gegen Spende in die Box
+- Nicht löten
+- Keine sexistischen Zeichnungen an den Wänden
+
+--
+
+## Hausregeln 
+### Glühende Kohlen
+
+- So verlassen wie vorgefunden
+
 ---
 
 ## Projektübersicht
