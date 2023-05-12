@@ -62,12 +62,12 @@
             }
           },
           {
-            "id": "c51cd5864f3dbeea",
+            "id": "5928d0ffc5d8361c",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230323181604.png"
+                "file": "assets/hardware/board/hardware-board-ttgo-lora32-display.png"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hardware-controller-removebg-preview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 469.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -225,18 +225,25 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
-    "meetups/meetup 002/meetup 002 - slides.md",
-    "Pasted image 20230323181604.png",
+    "assets/hardware/board/hardware-board-heltec-esp32lora.png",
+    "assets/hardware/board/hardware-board-heltec-lora32-removebg-preview.png",
+    "assets/hardware/board/hardware-board-esp32 copy.png",
+    "assets/hardware/board/hardware-board-SX1262.png",
+    "assets/hardware/board/hardware-board-esp32.png",
+    "assets/hardware/board/hardware-board-ttgo-lora32-display.png",
+    "assets/hardware/board/hardware-board-ttgo-lora32.png",
+    "assets/hardware/board/hardware-board-ttgo-lora.jpg",
+    "assets/hardware/board/hardware-board-heltec-esp32lora-pinout.png",
+    "assets/hardware/board/hardware-board-heltec-esp32lora.jpg",
     "meetups/meetup 005/meet 005 - slides.md",
-    "Pasted image 20230512125929.png",
-    "meetups/assets/ai-01/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png",
-    "meetups/assets/ai-01/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__9a090293-b275-4872-b621-37b0b0d7b202.png",
-    "meetups/assets/ai-01/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__fd24b15d-f8e8-4dcb-a4dc-00318d40ac60.png",
-    "meetups/assets/ai-01/vergissberlin_Frau_sitzt_mit_einem_Ltkolben_an_einem_Tisch_und__ea176288-f28f-411b-86be-3a631b7e711b.png",
-    "meetups/assets/ai-01/vergissberlin_IoT_smart_city_vector_graphic_a40b7348-c9fe-429b-8994-c7e3790a3224.png",
-    "meetups/assets/ai-01/vergissberlin_microcontroller_on_a_office_desk_meetup_situation_1d762389-25b2-499f-8a7f-0f06c071dd91.png",
-    "meetups/assets/ai-01/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_c4d44b6c-daa3-46de-a4f6-25c183600289.png",
-    "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
+    "assets/hardware/board/hardware-board-removebg.png",
+    "assets/hardware/things",
+    "assets/hardware/sensors",
+    "assets/hardware/power",
+    "assets/hardware/displays",
+    "assets/hardware/board",
+    "assets/hardware/batteries",
+    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
@@ -250,16 +257,10 @@
     "meetups/meetup 003/Einladung.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
     "presentation/Cooperate Identity.md",
     "assets/projects/regenfass.md",
     "assets/projects/ideas.md",
     "README.md",
-    "meetups/meetup 002/assets/slides",
-    "meetups/meetup 002/assets/raw",
-    "meetups/meetup 002/assets/some",
-    "meetups/meetup 002/assets/hardware",
     "meetups/meetup 002/assets/Meetup.md",
     "presentation/E-Mail Footer.md",
     "assets/LoRaWan Meetup.md",

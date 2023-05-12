@@ -14,7 +14,6 @@ h1, h2 {
 }
 </style>
 
-
 <!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
 
 # Bastelrunde 
@@ -26,10 +25,10 @@ h1, h2 {
 
 ## Onbording
 
-- Was ist LoRaWAN Leipzig
-- Wo wir uns befinden <!-- element class="fragment" -->
-- Wo die Toiletten sind<!-- element class="fragment" -->
-- Wo gibt es Getränke?<!-- element class="fragment" -->
+1) Was ist LoRaWAN Leipzig
+2) Wo wir uns befinden
+3) Wo die Toiletten sind
+4) Wo gibt es Getränke?
 
 <!--
 - [ ] Was ist LoRaWAN Leipzig
@@ -45,10 +44,10 @@ h1, h2 {
 ## Hausregeln 
 ### Basislager
 
-- So verlassen wie vorgefunden<!-- element class="fragment" -->
-- Getränke gegen Spende in die Box<!-- element class="fragment" -->
-- Nicht löten<!-- element class="fragment" -->
-- Keine sexistischen Zeichnungen an den Wänden<!-- element class="fragment" -->
+1) So verlassen wie vorgefunden
+2) Getränke gegen Spende in die Box
+3) Nicht löten
+4) Keine sexistischen Zeichnungen an den Wänden
 
 --
 
@@ -61,11 +60,11 @@ h1, h2 {
 
 ## Projektübersicht
 
-1. ✅ Hardware Prototyp
-2. Verbindung mit TTN<!-- element class="fragment" -->
-3. Datenverarbeitung in NodeRED<!-- element class="fragment" -->
-4. Datenmonitoring und Visualisierung<!-- element class="fragment" -->
-5. Veröffentlichung<!-- element class="fragment" -->
+1) ✅ Hardware Prototyp
+2) Verbindung mit TTN
+3) Datenverarbeitung in NodeRED
+4) Datenmonitoring und Visualisierung
+5) Veröffentlichung
 
 <!--
 1. Planung
@@ -82,41 +81,120 @@ h1, h2 {
 
 ## Werkzeug
 
-1. Lötkolben, Lötzinn, Flußmittel, Helping Hand<!-- element class="fragment" -->
-2. Breadboard, Steckkabel<!-- element class="fragment" -->
-3. Multimeter<!-- element class="fragment" -->
-4. Notebook, USB Kabel<!-- element class="fragment" -->
-5. Kabel<!-- element class="fragment" -->
+1) Lötkolben, Lötzinn, Flußmittel, Helping Hand
+2) Breadboard, Steckkabel
+3) Multimeter
+4) Notebook, USB Kabel
+5) Kabel
 
 ---
 
 ## Hardware
 
-- ✅ Sensor<!-- element class="fragment" -->
-- ✅ Microcontroller<!-- element class="fragment" -->
-- ✅ LoRaWAN Chip<!-- element class="fragment" -->
-- ✅ Energieversorgung<!-- element class="fragment" -->
+1) ✅ Sensor
+1) ✅ Microcontroller
+1) ✅ LoRaWAN Chip
+1) ✅ Energieversorgung
+1) 🤷‍♂️ OLED Display
 
 --
-
 
 <grid drag="100 10" drop="0 0" bg="#111"  >
  Hardware aktuell - *Boards*
 </grid>
 
 <grid drag="20 90" drop="0 10" bg="#222"  >
-
 ![[hardware-controller-removebg-preview.png|200]]
-
 </grid>
+
 <grid drag="80 90" drop="20 10" bg="#333">
-
-
 | Bezeichnung | Chip        |
 | ----------- | ----------- |
-| Heltec      | ESP32       |
-| Paragraph   | Text        |
+| Heltec         | ESP32        |
+| Paragraph   | Text           |
+</grid>
 
+--
+
+<grid drag="100 10" drop="0 0" bg="#111"  >
+ Hardware aktuell - *Boards*
+</grid>
+
+<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="100 30" drop="0 0" pad="4px">
+![[hardware-board-ttgo-lora32.png]]
+</grid>
+
+<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
+**[TTGO LORA32](https://amzn.to/3W2Zi6W)**
+
+**Controller:** ESP32
+**Preis:** 30,99 €
+</grid>
+</grid>
+
+
+<grid  drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-board-ttgo-lora32-display.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
+**[LILYGO T-Beam](https://amzn.to/41w2BV1)**
+
+**Controller:** ESP32
+**Preis:** 38 €
+
+**Extra Features:**<br>
+OLED display
+</grid>
+</grid>
+
+
+<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="100 30" drop="0 0" pad="18px">
+![[hardware-board-heltec-esp32lora.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
+**[Heltec LORA32](https://amzn.to/3o08Vqf)**
+
+**Controller:** ESP32
+**Preis:** 29,99 €
+
+**Extra Features:**<br>
+OLED display
+Batterie Management
+</grid>
+</grid>
+
+<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-board-esp32.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
+**[NodeMCU ESP-32](https://amzn.to/3nQV05Y)**
+
+**Controller:** ESP32
+**Preis:** 11,49 € + Lora
+
+**Extra Features:**<br>
+LoRaWAN not included
+</grid>
+</grid>
+
+<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-board-SX1262.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
+**[SX1262 LoRa](https://amzn.to/3o08Vqf)**
+
+**Controller:** ASR6501
+**Preis:** 25,99 €
+
+**Extra Features:**<br>
+OLED display
+Batterie Management
+</grid>
 </grid>
 
 --
@@ -182,7 +260,7 @@ HXXX
 
 <!-- slide bg="[[vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png]]" data-auto-animate     -->
 
-<grid drag="60 30" bg="#000000cc" style="border-radius: 12px" pad="1em 2em 1em 1em">
+<grid drag="60 30" bg="#000000cc" style="border-radius: 12px;backdrop-filter: blur(10px);" pad="1em 2em 1em 1em">
 ## Today
 👩‍💻🧑🏼‍💻👨🏻‍💻
 

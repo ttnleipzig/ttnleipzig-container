@@ -13,4 +13,4 @@
 	2. HelTec LoRa
 
 
-![[board-heltec-esp32.png]]
+![[hardware-board-heltec-esp32lora-pinout.png]]

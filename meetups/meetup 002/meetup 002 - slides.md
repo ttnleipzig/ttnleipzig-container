@@ -72,7 +72,7 @@ slideOptions:
 ## Hardware
 ### Mikrocontroller mit LoRa-Chip
 
-![[hardware-controller-removebg-preview.png]]
+![[hardware-controller-removebg.png]]
 
 --
 
