@@ -127,11 +127,11 @@ asdasd
 
 --
 
-<grid drag="100 10" drop="0 0" bg="#111"  >
+<grid drag="100 10" drop="0 0" bg="#111"  border="1px #aaa solid"   >
  Hardware aktuell - *Sensoren*
 </grid>
 
-<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  >
+<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px" border="1px #aaa solid"   >
 ![[hardware-sensor-removebg-preview.png|200]]
 HXXX
 
@@ -139,7 +139,7 @@ HXXX
 2. Preis: 12 €
 </grid>
 
-<grid drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  >
+<grid drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px" border="1px #aaa solid"   >
 ![[hardware-sensor-removebg-preview.png|200]]
 HXXX
 
@@ -147,7 +147,7 @@ Ultraschall
 Preis: 12 €
 </grid>
 
-<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  >
+<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px" border="1px #aaa solid"   >
 ![[hardware-sensor-removebg-preview.png|200]]
 HXXX
 
@@ -156,7 +156,7 @@ Preis: 12 €
 </grid>
 
 
-<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  >
+<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px" border="1px #aaa solid"   >
 ![[hardware-sensor-removebg-preview.png|200]]
 HXXX
 
@@ -164,7 +164,7 @@ Ultraschall
 Preis: 12 €
 </grid>
 
-<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  >
+<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px" border="1px #aaa solid"   >
 ![[hardware-sensor-removebg-preview.png|200]]
 HXXX
 
@@ -187,6 +187,23 @@ Preis: 12 €
 1. GitHub & GitHub Actions<!-- element class="fragment" -->
 
 ---
+
+
+<!-- slide bg="[[vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png]]" data-auto-animate     -->
+
+<grid drag="60 30" bg="#000000cc" style="border-radius: 12px" pad="1em 2em 1em 1em">
+## Today
+👩‍💻🧑🏼‍💻👨🏻‍💻
+
+1. Teams bilden
+2. Probleme lösen
+3. Ergebnisse teilen
+
+</grid>
+
+
+---
+
 
 Let's go!
 
