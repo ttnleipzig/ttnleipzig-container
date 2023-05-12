@@ -82,8 +82,12 @@ h1, h2 {
 ### Hardware - Aktuell
 #### Boards
 
-| Bezeichnung| Chip |
-| –––– | –––– |
+| Bezeichnung | Chip    |
+| --------–––– | –--––– |
+| Dirk                | ESP32 |
+
+
+
 
 ---
 
