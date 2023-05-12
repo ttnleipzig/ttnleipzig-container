@@ -79,13 +79,98 @@ h1, h2 {
 
 --
 
-### Hardware - Aktuell
-#### Boards
 
-| Bezeichnung | Chip    |
-| --------–––– | –--––– |
-| Dirk                | ESP32 |
+<grid drag="100 10" drop="0 0" bg="#111"  >
+ Hardware aktuell - *Boards*
+</grid>
 
+<grid drag="20 90" drop="0 10" bg="#222"  >
+
+![[hardware-controller-removebg-preview.png|200]]
+
+</grid>
+<grid drag="80 90" drop="20 10" bg="#333">
+
+
+| Bezeichnung | Chip        |
+| ----------- | ----------- |
+| Heltec      | ESP32       |
+| Paragraph   | Text        |
+
+</grid>
+
+
+--
+
+<grid drag="100 10" drop="0 0" bg="#111"  >
+ Hardware aktuell - *Sensoren*
+</grid>
+
+<grid drag="20 90" drop="0 10" bg="#222"  >
+![[hardware-sensor-removebg-preview.png|200]]
+<small>
+Ultraschall
+asdasd
+asdasd
+asdasd
+</small>
+</grid>
+
+<grid drag="80 90" drop="20 10" bg="#333">
+| Technologie | Bezeichnung |
+| ----------- | ----------- |
+| Ultraschall | HXXX        |
+| Laser       | LXXXX       |
+</grid>
+
+
+
+--
+
+<grid drag="100 10" drop="0 0" bg="#111"  >
+ Hardware aktuell - *Sensoren*
+</grid>
+
+<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  >
+![[hardware-sensor-removebg-preview.png|200]]
+HXXX
+
+1. Ultraschall
+2. Preis: 12 €
+</grid>
+
+<grid drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  >
+![[hardware-sensor-removebg-preview.png|200]]
+HXXX
+
+Ultraschall
+Preis: 12 €
+</grid>
+
+<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  >
+![[hardware-sensor-removebg-preview.png|200]]
+HXXX
+
+Ultraschall
+Preis: 12 €
+</grid>
+
+
+<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  >
+![[hardware-sensor-removebg-preview.png|200]]
+HXXX
+
+Ultraschall
+Preis: 12 €
+</grid>
+
+<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  >
+![[hardware-sensor-removebg-preview.png|200]]
+HXXX
+
+Ultraschall
+Preis: 12 €
+</grid>
 
 
 

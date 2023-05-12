@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "c602ef7dc3fdf2f5",
+            "id": "329acba53f856900",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
                 "mode": "source",
                 "source": false
               },
@@ -48,14 +48,26 @@
             }
           },
           {
-            "id": "329acba53f856900",
+            "id": "38635a848a721ef4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "meetups/meetup 005/meet 005 - slides.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "18d945294a707a41",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png"
               }
             }
           }
@@ -211,16 +223,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "329acba53f856900",
+  "active": "38635a848a721ef4",
   "lastOpenFiles": [
+    "meetups/meetup 002/assets/hardware/hardware-sensor-removebg-preview.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-weight.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-pressure-removebg-preview.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor-pressure.png",
+    "meetups/meetup 002/assets/hardware/hardware-sensor.png",
+    "meetups/meetup 002/meetup 002 - slides.md",
+    "meetups/meetup 005/meet 005 - slides.md",
+    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
-    "meetups/meetup 005/meet 005 - slides.md",
     "meetups/meetup 002/test slide.md",
     "assets/drawings/regenfass.excalidraw",
-    "meetups/meetup 002/meetup 002 - slides.md",
-    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 002/Bauanleitung.md",
     "meetups/meetup 002/assets/some/LoRaWan Meetup #002 - TTN.png",
     "meetups/meetup 004/Slides.md",
@@ -232,14 +249,10 @@
     "meetups/meetup 003/Einladung.md",
     "meetups/meetup 003/assets/Meetup #003 - Twitter.png",
     "meetups/meetup 003/assets/Meetup #003 - TTN.png",
-    "assets/drawings/regenfass.png",
-    "Pasted image 20230323181604.png",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "assets/drawings/regenfass.svg",
     "presentation/Cooperate Identity.md",
     "assets/projects/regenfass.md",
     "assets/projects/ideas.md",
