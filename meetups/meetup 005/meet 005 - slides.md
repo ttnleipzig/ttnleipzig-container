@@ -251,8 +251,16 @@ Wasserfest
 </grid>
 
 <grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="12px"></grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px"></grid>
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-sensor-XKCY25NPN.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
+**[XKC Y25 NPN](https://amzn.to/3Mli4TM)**
+**Preis:** 10,39 €
+
+**Features:**
+
+</grid>
 </grid>
 
 ---

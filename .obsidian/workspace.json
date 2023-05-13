@@ -61,6 +61,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "98f1876501b94a0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -217,8 +227,9 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
-    "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
+    "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png",
     "meetups/meetup 005/meet 005 - slides.md",
+    "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
     "assets/hardware/sensors/hardware-sensor-weight.png",
     "assets/hardware/sensors/hardware-sensor-pressure.png",
     "assets/hardware/sensors/hardware-sensor-HCSR04 .png",
@@ -230,7 +241,6 @@
     "meetups/meetup 001/meetup 001 - Kickoff.md",
     "assets/hardware/board/hardware-board-ttgo-lora32.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-moo.png",
-    "assets/hardware/board/hardware-board-ttgo-lora32-.png",
     "assets/hardware/things",
     "assets/hardware/sensors",
     "assets/hardware/power",
