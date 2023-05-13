@@ -6,6 +6,7 @@
       {
         "id": "ef165ab19f462f06",
         "type": "tabs",
+        "dimension": 63.771186440677965,
         "children": [
           {
             "id": "490f77132a24744d",
@@ -77,6 +78,7 @@
       {
         "id": "07f0bfaab7f19267",
         "type": "tabs",
+        "dimension": 36.228813559322035,
         "children": [
           {
             "id": "a18d157866bb796d",
@@ -144,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 210.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -225,18 +227,18 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
+    "assets/hardware/board/hardware-board-ttgo-lora32.png",
+    "assets/hardware/board/hardware-board-ttgo-lora32-moo.png",
+    "assets/hardware/board/hardware-board-ttgo-lora32-.png",
+    "assets/hardware/board/hardware-board-ttgo-lora32-removebg-preview.png",
     "assets/hardware/board/hardware-board-heltec-esp32lora.png",
     "assets/hardware/board/hardware-board-heltec-lora32-removebg-preview.png",
     "assets/hardware/board/hardware-board-esp32 copy.png",
     "assets/hardware/board/hardware-board-SX1262.png",
     "assets/hardware/board/hardware-board-esp32.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-display.png",
-    "assets/hardware/board/hardware-board-ttgo-lora32.png",
     "assets/hardware/board/hardware-board-ttgo-lora.jpg",
-    "assets/hardware/board/hardware-board-heltec-esp32lora-pinout.png",
-    "assets/hardware/board/hardware-board-heltec-esp32lora.jpg",
     "meetups/meetup 005/meet 005 - slides.md",
-    "assets/hardware/board/hardware-board-removebg.png",
     "assets/hardware/things",
     "assets/hardware/sensors",
     "assets/hardware/power",

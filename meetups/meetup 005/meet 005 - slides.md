@@ -100,29 +100,12 @@ h1, h2 {
 --
 
 <grid drag="100 10" drop="0 0" bg="#111"  >
- Hardware aktuell - *Boards*
-</grid>
-
-<grid drag="20 90" drop="0 10" bg="#222"  >
-![[hardware-controller-removebg-preview.png|200]]
-</grid>
-
-<grid drag="80 90" drop="20 10" bg="#333">
-| Bezeichnung | Chip        |
-| ----------- | ----------- |
-| Heltec         | ESP32        |
-| Paragraph   | Text           |
-</grid>
-
---
-
-<grid drag="100 10" drop="0 0" bg="#111"  >
- Hardware aktuell - *Boards*
+Hardware aktuell - *Boards*
 </grid>
 
 <grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
 <grid drag="100 30" drop="0 0" pad="4px">
-![[hardware-board-ttgo-lora32.png]]
+![[hardware-board-ttgo-lora32-moo.png]]
 </grid>
 
 <grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
