@@ -195,7 +195,10 @@ Hardware aktuell - *Sensoren*
 **[HC-SR04](https://amzn.to/3OekS6e)**
 
 **Type:** Super Sonic
-**Preis:**  €
+**Preis:** 4,99 €
+
+**Features:**<br>
+2 - 300 mm
 </grid>
 </grid>
 
@@ -208,9 +211,10 @@ Hardware aktuell - *Sensoren*
 **[VL53L0X ToF](https://amzn.to/3Mmzj6X)**
 
 **Type:** Laser ToF
-**Preis:**  €
+**Preis:** 7,49  €
 
-**Extra Features:**<br>
+**Features:**<br>
+0 - 1000m
 </grid>
 </grid>
 
@@ -225,15 +229,25 @@ Hardware aktuell - *Sensoren*
 **Type:** Drucksensor
 **Preis:** 16,50 €
 
-**Extra Features:**<br>
+**Features:**<br>
 </grid>
 </grid>
 
 <grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-sensor-sonic-waterproof-removebg-preview.png]]
+<grid drag="100 30" drop="0 0" pad="24px">
+![[hardware-sensor-sonic-LiebeWH15qopc9evw.png]]
 </grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px"></grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
+**[JSN - SR04 T](https://amzn.to/42sP2qO)**
+
+**Type:** Drucksensor
+**Preis:** 8,99 €
+
+**Features:**<br>
+Maximal 4,5m
+Wasserfest
+
+</grid>
 </grid>
 
 <grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">

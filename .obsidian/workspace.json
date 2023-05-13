@@ -6,7 +6,7 @@
       {
         "id": "ef165ab19f462f06",
         "type": "tabs",
-        "dimension": 63.771186440677965,
+        "dimension": 50.495049504950494,
         "children": [
           {
             "id": "490f77132a24744d",
@@ -61,18 +61,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5928d0ffc5d8361c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -80,7 +68,7 @@
       {
         "id": "07f0bfaab7f19267",
         "type": "tabs",
-        "dimension": 36.228813559322035,
+        "dimension": 49.504950495049506,
         "children": [
           {
             "id": "a18d157866bb796d",
@@ -148,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 428.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -229,7 +217,8 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
-    "assets/hardware/sensors/hardware-sensor-sonic-waterproof-removebg-preview.png",
+    "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
+    "meetups/meetup 005/meet 005 - slides.md",
     "assets/hardware/sensors/hardware-sensor-weight.png",
     "assets/hardware/sensors/hardware-sensor-pressure.png",
     "assets/hardware/sensors/hardware-sensor-HCSR04 .png",
@@ -239,11 +228,9 @@
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 001/meetup 001 - Kickoff.md",
-    "meetups/meetup 005/meet 005 - slides.md",
     "assets/hardware/board/hardware-board-ttgo-lora32.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-moo.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-.png",
-    "assets/hardware/board/hardware-board-ttgo-lora32-removebg-preview.png",
     "assets/hardware/things",
     "assets/hardware/sensors",
     "assets/hardware/power",
