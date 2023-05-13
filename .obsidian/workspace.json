@@ -66,9 +66,11 @@
             "id": "5928d0ffc5d8361c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/hardware/board/hardware-board-ttgo-lora32-display.png"
+                "file": "meetups/meetup 002/meetup 002 - slides.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -146,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 413.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -227,26 +229,27 @@
   },
   "active": "38635a848a721ef4",
   "lastOpenFiles": [
+    "assets/hardware/sensors/hardware-sensor-sonic-waterproof-removebg-preview.png",
+    "assets/hardware/sensors/hardware-sensor-weight.png",
+    "assets/hardware/sensors/hardware-sensor-pressure.png",
+    "assets/hardware/sensors/hardware-sensor-HCSR04 .png",
+    "assets/hardware/sensors/hardware-sensor-VL53L0X.png",
+    "assets/hardware/board/hardware-sensor-VL53L0X.png",
+    "assets/hardware/board/hardware-sensor-VL53L0X-removebg-preview.png",
+    "meetups/meetup 002/meetup 002 - slides.md",
+    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
+    "meetups/meetup 001/meetup 001 - Kickoff.md",
+    "meetups/meetup 005/meet 005 - slides.md",
     "assets/hardware/board/hardware-board-ttgo-lora32.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-moo.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-.png",
     "assets/hardware/board/hardware-board-ttgo-lora32-removebg-preview.png",
-    "assets/hardware/board/hardware-board-heltec-esp32lora.png",
-    "assets/hardware/board/hardware-board-heltec-lora32-removebg-preview.png",
-    "assets/hardware/board/hardware-board-esp32 copy.png",
-    "assets/hardware/board/hardware-board-SX1262.png",
-    "assets/hardware/board/hardware-board-esp32.png",
-    "assets/hardware/board/hardware-board-ttgo-lora32-display.png",
-    "assets/hardware/board/hardware-board-ttgo-lora.jpg",
-    "meetups/meetup 005/meet 005 - slides.md",
     "assets/hardware/things",
     "assets/hardware/sensors",
     "assets/hardware/power",
     "assets/hardware/displays",
     "assets/hardware/board",
     "assets/hardware/batteries",
-    "meetups/meetup 002/meetup 002 - slides.md",
-    "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
@@ -266,7 +269,6 @@
     "meetups/meetup 002/assets/Meetup.md",
     "presentation/E-Mail Footer.md",
     "assets/LoRaWan Meetup.md",
-    "meetups/meetup 001/meetup 001 - Kickoff.md",
     "meetups/meetup 002/assets/LoRaWan Meetup.md",
     "politics/meetings/001.md"
   ]

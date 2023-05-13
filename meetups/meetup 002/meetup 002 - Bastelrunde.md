@@ -13,10 +13,10 @@ Im ersten Meetup haben wir uns ein Plan gemacht, was wir in den kommenden Meetup
 
 **Die Projekt-Idee**
 
-1.  Ein Sensor misst den Pegel in einer Regentonne
-2.  Die Werte werden durch einen Mikrocontroller regelmäßig gemessen und via LoRaWAN übertragen    
-3.  Nach einer Datenverarbeitung bei TTN
-4.  erstellen wir Regeln für eine Benachrichtigung auf einem Handy bei Node-RED
+1. Ein Sensor misst den Pegel in einer Regentonne
+2. Die Werte werden durch einen Mikrocontroller regelmäßig gemessen und via LoRaWAN übertragen    
+3. Nach einer Datenverarbeitung bei TTN
+4. erstellen wir Regeln für eine Benachrichtigung auf einem Handy bei Node-RED
 
 **Themen**
 

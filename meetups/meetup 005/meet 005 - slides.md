@@ -183,47 +183,62 @@ Batterie Management
 --
 
 <grid drag="100 10" drop="0 0" bg="#111"  >
- Hardware aktuell - *Sensoren*
+Hardware aktuell - *Sensoren*
 </grid>
 
-<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px" >
-![[hardware-sensor-removebg-preview.png|200]]
-HXXX
-
-**Type:** Ultraschall<br>
-**Preis:** 12 €
+<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-sensor-HCSR04 .png]]
 </grid>
 
-<grid drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px" >
-![[hardware-sensor-removebg-preview.png|200]]
-HXXX
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
+**[HC-SR04](https://amzn.to/3OekS6e)**
 
-**Type:** Ultraschall<br>
-**Preis:** 12 €
+**Type:** Super Sonic
+**Preis:**  €
 </grid>
+</grid>
+
+
+<grid  drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-sensor-VL53L0X.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
+**[VL53L0X ToF](https://amzn.to/3Mmzj6X)**
+
+**Type:** Laser ToF
+**Preis:**  €
+
+**Extra Features:**<br>
+</grid>
+</grid>
+
 
 <grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-![[hardware-sensor-removebg-preview.png|200]]
-HXXX
+<grid drag="100 30" drop="0 0" pad="18px">
+![[hardware-sensor-pressure.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
+**[Heltec LORA32](https://amzn.to/3o08Vqf)**
 
-**Type:** Ultraschall<br>
-**Preis:** 12 €
+**Type:** Drucksensor
+**Preis:** 16,50 €
+
+**Extra Features:**<br>
+</grid>
 </grid>
 
 <grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-![[hardware-sensor-removebg-preview.png|200]]
-HXXX
-
-**Type:** Ultraschall<br>
-**Preis:** 12 €
+<grid drag="100 30" drop="0 0" pad="12px">
+![[hardware-sensor-sonic-waterproof-removebg-preview.png]]
+</grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px"></grid>
 </grid>
 
 <grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-![[hardware-sensor-removebg-preview.png|200]]
-HXXX
-
-**Type:** Ultraschall<br>
-**Preis:** 12 €
+<grid drag="100 30" drop="0 0" pad="12px"></grid>
+<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px"></grid>
 </grid>
 
 ---
