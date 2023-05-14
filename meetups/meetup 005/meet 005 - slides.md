@@ -103,7 +103,7 @@ h1, h2 {
 Hardware aktuell - *Boards*
 </grid>
 
-<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="20 80" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
 <grid drag="100 30" drop="0 0" pad="4px">
 ![[hardware-board-ttgo-lora32-moo.png]]
 </grid>
@@ -117,7 +117,7 @@ Hardware aktuell - *Boards*
 </grid>
 
 
-<grid  drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
+<grid  drag="20 80" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-board-ttgo-lora32-display.png]]
 </grid>
@@ -133,7 +133,7 @@ OLED display
 </grid>
 
 
-<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="18px">
 ![[hardware-board-heltec-esp32lora.png]]
 </grid>
@@ -149,7 +149,7 @@ Batterie Management
 </grid>
 </grid>
 
-<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-board-esp32.png]]
 </grid>
@@ -164,7 +164,7 @@ LoRaWAN not included
 </grid>
 </grid>
 
-<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-board-SX1262.png]]
 </grid>
@@ -186,7 +186,7 @@ Batterie Management
 Hardware aktuell - *Sensoren*
 </grid>
 
-<grid drag="20 90" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
+<grid drag="20 80" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-sensor-HCSR04 .png]]
 </grid>
@@ -203,7 +203,7 @@ Hardware aktuell - *Sensoren*
 </grid>
 
 
-<grid  drag="20 90" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
+<grid  drag="20 80" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-sensor-VL53L0X.png]]
 </grid>
@@ -219,7 +219,7 @@ Hardware aktuell - *Sensoren*
 </grid>
 
 
-<grid drag="20 90" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="18px">
 ![[hardware-sensor-pressure.png]]
 </grid>
@@ -233,7 +233,7 @@ Hardware aktuell - *Sensoren*
 </grid>
 </grid>
 
-<grid drag="20 90" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="24px">
 ![[hardware-sensor-sonic-LiebeWH15qopc9evw.png]]
 </grid>
@@ -250,7 +250,7 @@ Wasserfest
 </grid>
 </grid>
 
-<grid drag="20 90" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
+<grid drag="20 80" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
 <grid drag="100 30" drop="0 0" pad="12px">
 ![[hardware-sensor-XKCY25NPN.png]]
 </grid>
