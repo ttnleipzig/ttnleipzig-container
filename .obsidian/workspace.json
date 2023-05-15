@@ -6,7 +6,6 @@
       {
         "id": "ef165ab19f462f06",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "490f77132a24744d",
@@ -27,10 +26,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/drawings/regenfass.excalidraw"
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -76,12 +73,11 @@
         "currentTab": 3
       },
       {
-        "id": "40b5a32b3b049830",
+        "id": "d2313b0905cc4550",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "e4120ec72826b496",
+            "id": "99d0696a0b78338c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
