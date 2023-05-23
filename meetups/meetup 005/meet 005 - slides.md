@@ -21,6 +21,15 @@ h1, h2 {
 ## #005 Regenfass
 <!-- element style="text-shadow: 4px 4px 2px 2px #000" -->
 
+<!--
+**Checkliste bevor es losgeht:**
+
+- [ ] Foto gemacht
+- [ ] Tweet gesendet
+- [ ] Hochkant Video
+
+-->
+
 ---
 
 ## Onbording
@@ -308,3 +317,13 @@ Let's go!
 	- 🚪 Türen zu
 	- 🗑️ Müll mitnehmen
 	- 🪑 Stühle ranstellen
+
+<!--
+**Checkliste nach der Veranstaltung:**
+
+- [ ] Hardware zusammengesucht und eingepackt
+- [ ] Nacher Foto
+- [ ] Folgetermin Termin steht fest
+- [ ] Hochkant Video - Zusammenfassung, Folgetermin
+
+-->

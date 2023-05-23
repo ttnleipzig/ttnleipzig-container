@@ -8,3 +8,21 @@ Wenn Du uns bei dieser Reise begleiten möchtest, komm zum LoRaWAN Meetup in Lei
 
 
 Aktuell lesen wir schon Daten mit unseren Sensoren ein. Beim kommenden Meetup senden wir die Daten ins The Things Network. Um zum aktuellen Stand aufzuholen, folge unserer Dokumentation. Der Link ist in der Beschreibung.
+
+
+---
+
+## Outro
+
+#### Was wir heute geschafft haben
+
+Beim 5. LoRaWAN Meetup am 08. Juni in Leipzig haben wir heute unsere verschiedenen Controller an das The Things Network angeschlossen indem wir Sensordaten Codiert, und auf der The Thinks Network Plattform decodiert haben. Damit haben wir die Grundlage geschaffen mit den Daten weit zu arbeiten und sie ggf. auf einem Dashboard abzubilden, oder uns via Handy-Notification informieren zu lassen. Das alles und noch viel mehr, in folgenden Meetups.
+
+#### Wo man den Quellcode findet
+
+Einen Link zum Quelltext und unserer Dokumentation zum Projekt findest Du in der Videobeschreibung.
+
+
+#### Wann wir uns das nächste Mal treffen
+
+Das nächste Mal treffen wir uns am XX. Juli, warscheinlich wieder hier im Basislager. Den Link zur Meetup-Anmeldung findest Du auch in der Videobeschreibung. Bis dahin!
