@@ -34,8 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0b94c780d27cc8b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/meetup 005 - ads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/meetup 005 - ads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md"
+                "file": "meetups/meetup 005/meetup 005 - ads.md"
               }
             }
           }
@@ -172,11 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38635a848a721ef4",
+  "active": "13f95ea048b066d5",
   "lastOpenFiles": [
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
-    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 005/meetup 005 - ads.md",
+    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png",
