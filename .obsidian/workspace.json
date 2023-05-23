@@ -8,51 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "490f77132a24744d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6ba52265f1a0dfc9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "329acba53f856900",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 002/meetup 002 - slides.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "38635a848a721ef4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 005/meet 005 - slides.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "mode": "source",
                 "source": false
               },
@@ -60,30 +22,17 @@
             }
           },
           {
-            "id": "1cd886df9f920fc5",
+            "id": "13f95ea048b066d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meetup 005 - ads.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "37172eaf730590ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "064db84064d893a3",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              },
+              "pinned": true
             }
           }
         ]
@@ -160,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md"
+                "file": "meetups/meetup 005/meetup 005 - slides.md"
               }
             }
           }
@@ -223,11 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cd886df9f920fc5",
+  "active": "38635a848a721ef4",
   "lastOpenFiles": [
-    "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
-    "meetups/meetup 005/meet 005 - slides.md",
+    "meetups/meetup 005/meetup 005 - slides.md",
+    "meetups/meetup 005/meetup 005 - ads.md",
+    "meetups/meetup 002/meetup 002 - slides.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png",
     "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
     "assets/hardware/sensors/hardware-sensor-weight.png",
@@ -236,7 +187,6 @@
     "assets/hardware/sensors/hardware-sensor-VL53L0X.png",
     "assets/hardware/board/hardware-sensor-VL53L0X.png",
     "assets/hardware/board/hardware-sensor-VL53L0X-removebg-preview.png",
-    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 001/meetup 001 - Kickoff.md",
     "assets/hardware/board/hardware-board-ttgo-lora32.png",
