@@ -9,7 +9,6 @@
 - [ ] Video schneiden
 	- [ ] 30-Sekunden-Clip
 
-
 ## 📆 Kanäle
 
 - [ ] Twitter
