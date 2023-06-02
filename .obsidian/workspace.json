@@ -68,23 +68,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28a4c4b42ce380eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png"
+              }
+            }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "9c56f7e60e336a49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a943f9041425bb0f",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -223,25 +219,25 @@
   },
   "active": "7e780189b2caf3a1",
   "lastOpenFiles": [
-    "meetups/meetup 005/meetup 005 - ads.md",
-    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "assets/drawings/regenfass.excalidraw",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "meetups/meetup 005/meetup 005 - slides.md",
-    "meetups/meetup 002/meetup 002 - slides.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
+    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__114e507d-034f-4f59-859e-aae2caedfbba.png",
+    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__1b9ba0c1-8753-48cf-9fb4-82581da539d8.png",
+    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_2cc15ec4-9b74-40de-ab7c-a48e7c206855.png",
+    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_14d6c660-a105-4061-abb2-6bdc193e250f.png",
+    "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_79396a4f-b568-4b02-87cc-927c1b0579ce.png",
+    "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_fc16e796-2f53-49be-8f98-7ee0d6aba0f8.png",
+    "meetups/assets/ai-02/vergissberlin_young_man_sits_at_a_table_in_a_garden_with_a_sold_12fd85e6-70bd-4294-bcd4-ca792899bec5.png",
+    "meetups/assets/ai-02/vergissberlin_young_man_sits_at_a_table_in_a_garden_with_a_sold_31131ca9-ebd4-4d90-b4a7-49cc57ba1127.png",
+    "meetups/assets/ai-02/vergissberlin_Young_man_with_a_water_can_in_a_small_garden_cybe_c35db88b-fb6f-45a6-9f0a-fb8ba481b18b.png",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
-    "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png",
-    "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
-    "assets/hardware/sensors/hardware-sensor-weight.png",
-    "assets/hardware/sensors/hardware-sensor-pressure.png",
-    "assets/hardware/sensors/hardware-sensor-HCSR04 .png",
-    "assets/hardware/sensors/hardware-sensor-VL53L0X.png",
-    "assets/hardware/board/hardware-sensor-VL53L0X.png",
-    "assets/hardware/board/hardware-sensor-VL53L0X-removebg-preview.png",
+    "meetups/meetup 005/meetup 005 - ads.md",
+    "meetups/meetup 005/meetup 005 - slides.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
     "meetups/meetup 001/meetup 001 - Kickoff.md",
-    "assets/hardware/board/hardware-board-ttgo-lora32.png",
-    "assets/hardware/board/hardware-board-ttgo-lora32-moo.png",
     "assets/hardware/things",
     "assets/hardware/sensors",
     "assets/hardware/power",

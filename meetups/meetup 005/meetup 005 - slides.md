@@ -14,7 +14,7 @@ h1, h2 {
 }
 </style>
 
-<!-- slide bg="[[vergissberlin_young_person_in_a_garden_with_a_microcontroller_e_4b8f3925-109e-4348-b8c7-eceac7ae8b4e.png]]" data-auto-animate     -->
+<!-- slide bg="[[vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png]]" data-auto-animate     -->
 
 # Bastelrunde 
 <!-- element style="padding-top: 30%; text-shadow: 4px 4px 2px 2px #000;" -->

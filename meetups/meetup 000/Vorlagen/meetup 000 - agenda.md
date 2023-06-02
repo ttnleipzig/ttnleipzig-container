@@ -1,4 +1,17 @@
 
+## Vorbereitung
+
+- **An die Wand**
+	- Regenfass
+	- Mikrocontroller
+	- Abstands-Sensor
+	- LoRa GateWay
+	- TTN Server
+	- MQTT Broker
+	- Node-RED
+	- Pfeile
+
+
 
 ## Intro
 
