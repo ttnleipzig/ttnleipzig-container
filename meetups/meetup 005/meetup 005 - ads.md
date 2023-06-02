@@ -1,4 +1,4 @@
-## 👩‍💻 Üben bevor es logeht
+## 👩‍💻 Üben bevor es losgeht
 
 - [ ] **Twitter**
 	- [ ] Hochkant Video Tweet - Intro
