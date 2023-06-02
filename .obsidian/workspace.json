@@ -46,9 +46,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bdb540917eec171",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/drawings/regenfass.excalidraw"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md",
+                "file": "assets/drawings/regenfass.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md",
+                "file": "assets/drawings/regenfass.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md"
+                "file": "assets/drawings/regenfass.excalidraw"
               }
             }
           }
@@ -185,11 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13f95ea048b066d5",
+  "active": "1bdb540917eec171",
   "lastOpenFiles": [
-    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
-    "meetups/meetup 005/meetup 005 - ads.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "meetups/meetup 005/meetup 005 - slides.md",
+    "meetups/meetup 005/meetup 005 - ads.md",
+    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "assets/hardware/sensors/hardware-sensor-XKCY25NPN.png",
@@ -218,7 +229,6 @@
     "meetups/meetup 000/Vorlagen",
     "meetups/meetup 000",
     "meetups/meetup 003/Einladung.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded",
     "presentation/Cooperate Identity.md",
     "assets/projects/regenfass.md",
