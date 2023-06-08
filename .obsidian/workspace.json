@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/meetup 005 - ads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/meetup 005 - ads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md"
+                "file": "meetups/meetup 005/meetup 005 - ads.md"
               }
             }
           }
@@ -216,14 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38635a848a721ef4",
+  "active": "13f95ea048b066d5",
   "lastOpenFiles": [
+    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 005/meetup 005 - ads.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
-    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__114e507d-034f-4f59-859e-aae2caedfbba.png",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__1b9ba0c1-8753-48cf-9fb4-82581da539d8.png",
     "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_2cc15ec4-9b74-40de-ab7c-a48e7c206855.png",
