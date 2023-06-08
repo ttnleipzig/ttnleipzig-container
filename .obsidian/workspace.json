@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,21 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "4dbf07c7df96d784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c87a1389dc85c1",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md",
+                "file": "meetups/meetup 005/meetup 005 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - ads.md"
+                "file": "meetups/meetup 005/meetup 005 - slides.md"
               }
             }
           }
@@ -217,12 +231,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13f95ea048b066d5",
+  "active": "0b94c780d27cc8b9",
   "lastOpenFiles": [
-    "meetups/meetup 005/meetup 005 - slides.md",
-    "meetups/meetup 005/meetup 005 - ads.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
+    "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
     "assets/drawings/regenfass.excalidraw",
+    "meetups/meetup 005/meetup 005 - ads.md",
+    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__114e507d-034f-4f59-859e-aae2caedfbba.png",
@@ -251,7 +266,6 @@
     "meetups/meetup 000/Vorlagen",
     "meetups/meetup 000",
     "meetups/meetup 003/Einladung.md",
-    "Excalidraw/Scripts/Downloaded",
     "presentation/Cooperate Identity.md",
     "assets/projects/regenfass.md",
     "assets/projects/ideas.md",
