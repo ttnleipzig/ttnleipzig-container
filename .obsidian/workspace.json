@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md",
+                "file": "meetups/meetup 005/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 005/meetup 005 - slides.md"
+                "file": "meetups/meetup 005/Notes.md"
               }
             }
           }
@@ -233,11 +233,12 @@
   },
   "active": "0b94c780d27cc8b9",
   "lastOpenFiles": [
+    "meetups/meetup 005/meetup 005 - slides.md",
+    "meetups/meetup 005/Notes.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 005/meetup 005 - ads.md",
-    "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__114e507d-034f-4f59-859e-aae2caedfbba.png",
