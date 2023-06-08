@@ -12,7 +12,6 @@
 	- Pfeile
 
 
-
 ## Intro
 
 - [ ] Was ist LoRaWAN Leipzig
@@ -29,6 +28,7 @@
 	- [ ] Wie man mitmachen kann
 	- [ ] Was wir heute vorhaben
 
+Alle Folien findet ihr in einem Repository unserer GitHub-Organisation
 
 ## Outro
 
