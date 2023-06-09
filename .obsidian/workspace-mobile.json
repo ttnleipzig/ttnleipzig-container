@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5de9c3b57ae88ad4",
+        "id": "ae0daccec01c79c5",
         "type": "tabs",
         "children": [
           {
-            "id": "7f1feefc076339c2",
+            "id": "736477e57e988f75",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/drawings/regenfass.excalidraw"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,6 +67,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "603e8e9e8ae5bd24",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -83,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "assets/drawings/regenfass.excalidraw",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "assets/drawings/regenfass.excalidraw",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "assets/drawings/regenfass.excalidraw"
-          }
+          "state": {}
         }
       }
     ],
@@ -130,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f1feefc076339c2",
+  "active": "736477e57e988f75",
   "lastOpenFiles": [
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 002/meetup 002 - slides.md",
