@@ -72,6 +72,7 @@ h1, h2 {
 ### wire GmbH
 
 - So verlassen wie vorgefunden<!-- element class="fragment" -->
+- Nichts mitnehmen<!-- element class="fragment" -->
 
 ---
 
@@ -91,173 +92,7 @@ h1, h2 {
 1) ✅ Microcontroller
 1) ✅ LoRaWAN Chip
 1) ✅ Energieversorgung
-1) 🤷‍♂️ OLED Display
-
---
-
-<grid drag="100 10" drop="0 0" bg="#111"  >
-Hardware aktuell - *Boards*
-</grid>
-
-<grid drag="20 80" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
-<grid drag="100 30" drop="0 0" pad="4px">
-![[hardware-board-ttgo-lora32-moo.png]]
-</grid>
-
-<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
-**[TTGO LORA32](https://amzn.to/3W2Zi6W)**
-
-**Controller:** ESP32
-**Preis:** 30,99 €
-</grid>
-</grid>
-
-
-<grid  drag="20 80" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-board-ttgo-lora32-display.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
-**[LILYGO T-Beam](https://amzn.to/41w2BV1)**
-
-**Controller:** ESP32
-**Preis:** 38 €
-
-**Extra Features:**<br>
-OLED display
-</grid>
-</grid>
-
-
-<grid drag="20 80" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="18px">
-![[hardware-board-heltec-esp32lora.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
-**[Heltec LORA32](https://amzn.to/3o08Vqf)**
-
-**Controller:** ESP32
-**Preis:** 29,99 €
-
-**Extra Features:**<br>
-OLED display
-Batterie Management
-</grid>
-</grid>
-
-<grid drag="20 80" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-board-esp32.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
-**[NodeMCU ESP-32](https://amzn.to/3nQV05Y)**
-
-**Controller:** ESP32
-**Preis:** 11,49 € + Lora
-
-**Extra Features:**<br>
-LoRaWAN not included
-</grid>
-</grid>
-
-<grid drag="20 80" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-board-SX1262.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#0000dd33" align="topleft" pad="12px">
-**[SX1262 LoRa](https://amzn.to/3o08Vqf)**
-
-**Controller:** ASR6501
-**Preis:** 25,99 €
-
-**Extra Features:**<br>
-OLED display
-Batterie Management
-</grid>
-</grid>
-
---
-
-<grid drag="100 10" drop="0 0" bg="#111"  >
-Hardware aktuell - *Sensoren*
-</grid>
-
-<grid drag="20 80" drop="0 10" bg="#222" style="font-size: 1.2rem;"  align="topleft">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-sensor-HCSR04 .png]]
-</grid>
-
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
-**[HC-SR04](https://amzn.to/3OekS6e)**
-
-**Type:** Super Sonic
-**Preis:** 4,99 €
-
-**Features:**<br>
-2 - 300 mm
-</grid>
-</grid>
-
-
-<grid  drag="20 80" drop="20 10" bg="#333" style="font-size: 1.2rem;"  align="topleft">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-sensor-VL53L0X.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
-**[VL53L0X ToF](https://amzn.to/3Mmzj6X)**
-
-**Type:** Laser ToF
-**Preis:** 7,49  €
-
-**Features:**<br>
-0 - 1000m
-</grid>
-</grid>
-
-
-<grid drag="20 80" drop="40 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="18px">
-![[hardware-sensor-pressure.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
-**[Heltec LORA32](https://amzn.to/3o08Vqf)**
-
-**Type:** Drucksensor
-**Preis:** 16,50 €
-
-**Features:**<br>
-</grid>
-</grid>
-
-<grid drag="20 80" drop="60 10" bg="#333" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="24px">
-![[hardware-sensor-sonic-LiebeWH15qopc9evw.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
-**[JSN - SR04 T](https://amzn.to/42sP2qO)**
-
-**Type:** Drucksensor
-**Preis:** 8,99 €
-
-**Features:**<br>
-Maximal 4,5m
-Wasserfest
-
-</grid>
-</grid>
-
-<grid drag="20 80" drop="80 10" bg="#222" style="font-size: 1.2rem;"  align="topleft" pad="24px">
-<grid drag="100 30" drop="0 0" pad="12px">
-![[hardware-sensor-XKCY25NPN.png]]
-</grid>
-<grid drag="100 70" drop="0 30" bg="#00aa0077" align="topleft" pad="12px">
-**[XKC Y25 NPN](https://amzn.to/3Mli4TM)**
-**Preis:** 10,39 €
-
-**Features:**
-
-</grid>
-</grid>
+1) ✅ OLED Display
 
 ---
 
@@ -287,11 +122,6 @@ Wasserfest
 
 </grid>
 
-
----
-
-Let's go!
-
 ---
 
 ## Offboarding
@@ -310,6 +140,6 @@ Let's go!
 ## Checkliste nach der Veranstaltung
 
 -  Hardware zusammengesucht und eingepackt
-- Nacher Foto
+- Nachher Foto
 - Folgetermin Termin steht fest
 - Hochkant Video - Zusammenfassung, Folgetermin
