@@ -309,7 +309,7 @@ Let's go!
 
 ## Checkliste nach der Veranstaltung
 
-- [ ] Hardware zusammengesucht und eingepackt
-- [ ] Nacher Foto
-- [ ] Folgetermin Termin steht fest
-- [ ] Hochkant Video - Zusammenfassung, Folgetermin
+-  Hardware zusammengesucht und eingepackt
+- Nacher Foto
+- Folgetermin Termin steht fest
+- Hochkant Video - Zusammenfassung, Folgetermin
