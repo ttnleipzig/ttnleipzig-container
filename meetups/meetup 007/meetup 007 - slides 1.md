@@ -1,7 +1,7 @@
 ---
 
-title: Bastelrunde - #007 HELTEC HELL
-	description: Debuggin mit IoT
+title: Bastelrunde - #006 Hardware & Software
+description: Refactoring, TTN, Node-RED
 tags: slide,programming,lorawan
 type: slide
   
@@ -15,11 +15,11 @@ h1, h2 {
 }
 </style>
 
-<!-- slide bg="[[https://cdn.discordapp.com/attachments/1056551364441940049/1136076710194970624/vergissberlin_Devil_microcontroller_0ebc82f9-3e65-48d8-9dc1-4ceaf1cb3063.png]]" data-auto-animate     -->
+<!-- slide bg="[[vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png]]" data-auto-animate     -->
 
 # Bastelrunde 
 <!-- element style="padding-top: 30%; text-shadow: 4px 4px 2px 2px #000;" -->
-## #007 Regenfass
+## #006 Regenfass
 <!-- element style="text-shadow: 4px 4px 2px 2px #000" -->
 
 <!--
@@ -36,7 +36,7 @@ h1, h2 {
 ## Onboarding
 
 1) Was ist LoRaWAN Leipzig
-2) Wo wir uns befinden - Thinkport ist Sponsor
+2) Wo wir uns befinden
 3) Wo die Toiletten sind
 4) Wo gibt es Getränke?
 
@@ -50,10 +50,32 @@ h1, h2 {
 -->
 
 --
-<!-- slide bg="#ffffff"  data-auto-animate     -->
-![Thinkport](https://thinkport.digital/wp-content/uploads/elementor/thumbs/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png)
+
+## Hausregeln 
+### Basislager
+
+1) So verlassen wie vorgefunden
+2) Getränke gegen Spende in die Box
+3) Nicht löten
+4) Keine sexistischen Zeichnungen an den Wänden
 
 --
+
+## Hausregeln 
+### Glühende Kohlen
+
+- So verlassen wie vorgefunden<!-- element class="fragment" -->
+
+--
+
+## Hausregeln 
+### wire GmbH
+
+- So verlassen wie vorgefunden<!-- element class="fragment" -->
+- Nichts mitnehmen<!-- element class="fragment" -->
+
+---
+
 ## Projektübersicht
 
 1) ✅ Hardware Prototyp
@@ -62,8 +84,31 @@ h1, h2 {
 4) Datenmonitoring und Visualisierung
 5) Veröffentlichung
 
+---
+
+## Hardware
+
+1) ✅ Sensor
+1) ✅ Microcontroller
+1) ✅ LoRaWAN Chip
+1) ✅ Energieversorgung
+1) ✅ OLED Display
 
 ---
+
+## Software
+
+1. ✅ Platform.io<!-- element class="fragment" -->
+1. ✅ C, C++<!-- element class="fragment" -->
+1. ✅ Libraries<!-- element class="fragment" -->
+1. TTN Platform<!-- element class="fragment" -->
+1. Node-RED<!-- element class="fragment" -->
+1. Grafana<!-- element class="fragment" -->
+1. GitHub & GitHub Actions<!-- element class="fragment" -->
+
+---
+
+<!-- slide bg="[[vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_e44ef266-6099-429c-9568-ba914be8a7e6.png]]" data-auto-animate     -->
 
 <grid drag="60 30" bg="#000000cc" style="border-radius: 12px;backdrop-filter: blur(10px);" pad="1em 2em 1em 1em">
 
@@ -71,7 +116,7 @@ h1, h2 {
 
 👩‍💻🧑🏼‍💻👨🏻‍💻
 
-1. Möglichlkeiten des Debuggins
+1. Teams bilden
 2. Probleme lösen
 3. Ergebnisse teilen
 
