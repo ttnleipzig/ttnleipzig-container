@@ -1,7 +1,7 @@
 ---
 
-title: Bastelrunde - #007 HELTEC HELL
-	description: Debuggin mit IoT
+title: Bastelrunde - 007 HELTEC HELL
+description: Debugging mit IoT
 tags: slide,programming,lorawan
 type: slide
   
@@ -54,6 +54,8 @@ h1, h2 {
 ![Thinkport](https://thinkport.digital/wp-content/uploads/elementor/thumbs/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png)
 
 --
+
+
 ## Projektübersicht
 
 1) ✅ Hardware Prototyp
@@ -64,6 +66,7 @@ h1, h2 {
 
 
 ---
+<!-- slide bg="[[https://cdn.discordapp.com/attachments/1056551364441940049/1136072662469328986/vergissberlin_Devil_microcontroller_21016b77-976d-4091-9a03-bd8a3bd594a3.png]]" data-auto-animate="false"    -->
 
 <grid drag="60 30" bg="#000000cc" style="border-radius: 12px;backdrop-filter: blur(10px);" pad="1em 2em 1em 1em">
 
@@ -71,7 +74,7 @@ h1, h2 {
 
 👩‍💻🧑🏼‍💻👨🏻‍💻
 
-1. Möglichlkeiten des Debuggins
+1. [Möglichkeiten](https://github.com/ttnleipzig/regenfass-experiment-lora) des Debuggings
 2. Probleme lösen
 3. Ergebnisse teilen
 
