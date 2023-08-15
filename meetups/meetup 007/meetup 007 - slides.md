@@ -52,7 +52,6 @@ h1, h2 {
 --
 <!-- slide bg="#ffffff"  data-auto-animate     -->
 ![Thinkport](https://thinkport.digital/wp-content/uploads/elementor/thumbs/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png)
-
 --
 
 
