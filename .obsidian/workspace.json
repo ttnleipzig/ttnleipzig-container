@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef165ab19f462f06",
+        "id": "901b6493162cd291",
         "type": "tabs",
         "children": [
           {
-            "id": "0b94c780d27cc8b9",
+            "id": "ff92923396b07ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 007/meetup 007 - slides.md",
+                "file": "meetups/meetup 008/meetup 008 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "40d7864dec2ddba1",
+        "id": "bd70bf1949a196c5",
         "type": "tabs",
         "children": [
           {
-            "id": "d20a9060c3aab83d",
+            "id": "b5f9c162e8beb728",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 007/meetup 007 - slides.md",
+                "file": "meetups/meetup 008/meetup 008 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 007/meetup 007 - slides.md",
+                "file": "meetups/meetup 008/meetup 008 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 007/meetup 007 - slides.md"
+                "file": "meetups/meetup 008/meetup 008 - slides.md"
               }
             }
           }
@@ -170,16 +170,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b94c780d27cc8b9",
+  "active": "ff92923396b07ece",
   "lastOpenFiles": [
-    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
+    "meetups/meetup 008/assets/vergissberlin_microcontroller_flying_through_clouds_e4ca3e11-4904-4bfb-a259-0a4fbf2dee4e.png",
+    "meetups/meetup 008/assets/vergissberlin_god_of_microcontroller_in_heaven_3ba27328-77e5-4cc9-b1df-8db4d07900d8.png",
+    "meetups/meetup 008/meetup 008 - slides.md",
     "meetups/meetup 007/meetup 007 - slides.md",
+    "meetups/meetup 008/assets/Meetup #008 - TTN.jpg",
+    "meetups/meetup 008/assets/Meetup #008 - Twitter.png",
+    "meetups/meetup 008/assets/MeetUp 008.png",
+    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_with_a_soldering_iron_scifi_6a7397be-e6ca-481f-9092-5a0c5a72af34.png",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 005/meetup 005 - ads.md",
     "meetups/meetup 006/meetup 006 - slides.md",
-    "meetups/meetup 007/meetup 007 - slides 1.md",
     "meetups/meetup 006/assets/Meetup #006 - Twitter.png",
     "meetups/meetup 006/assets/Meetup #006 - TTN.png",
     "meetups/meetup 006/assets/MeetUp 006.png",
@@ -188,10 +193,6 @@
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
     "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__114e507d-034f-4f59-859e-aae2caedfbba.png",
-    "meetups/assets/ai-02/vergissberlin_boy_sits_at_a_table_in_a_garden_with_a_soldering__1b9ba0c1-8753-48cf-9fb4-82581da539d8.png",
-    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_2cc15ec4-9b74-40de-ab7c-a48e7c206855.png",
-    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_14d6c660-a105-4061-abb2-6bdc193e250f.png",
-    "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_79396a4f-b568-4b02-87cc-927c1b0579ce.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/meetup 002 - Bastelrunde.md",
