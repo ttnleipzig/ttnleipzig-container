@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "c8f57bf0fa382862",
+        "id": "40d7864dec2ddba1",
         "type": "tabs",
         "children": [
           {
-            "id": "d8383870538637fd",
+            "id": "d20a9060c3aab83d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 319.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
