@@ -19,3 +19,9 @@ Hello World
 	- SIGLENT
 	- EEW Blog
 - Logic Analyser
+
+---
+
+## Nächstes Mal
+
+- RTL - SDR zum Debuggen der Funksignale
