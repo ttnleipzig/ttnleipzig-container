@@ -24,4 +24,4 @@ Hello World
 
 ## Nächstes Mal
 
-- RTL - SDR zum Debuggen der Funksignale
+- RTL - SDR zum Debuggen der Funksignaleede
