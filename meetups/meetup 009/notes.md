@@ -8,10 +8,6 @@ tags:
 type: slide
 slideOptions:
 ---
-Hello World
-
----
-
 # Geräte
 
 - Oszi
