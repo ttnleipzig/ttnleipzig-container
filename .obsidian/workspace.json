@@ -11,10 +11,26 @@
             "id": "c17a3442c832c99c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "meetups/meetup 009/notes.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57807db012a89470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20624c26025629b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -91,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
+                "file": "meetups/meetup 009/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
+                "file": "meetups/meetup 009/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf"
+                "file": "meetups/meetup 009/notes.md"
               }
             }
           }
@@ -154,7 +170,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb23514f1d68fa25",
+  "active": "c17a3442c832c99c",
   "lastOpenFiles": [
     "meetups/meetup 009/meetup 009 - slides.md",
     "meetups/meetup 009/notes.md",

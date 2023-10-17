@@ -12,3 +12,10 @@ Hello World
 
 ---
 
+# Geräte
+
+- Oszi
+	- RIGOL
+	- SIGLENT
+	- EEW Blog
+- Logic Analyser
