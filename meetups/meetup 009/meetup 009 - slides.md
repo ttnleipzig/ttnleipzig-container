@@ -1,6 +1,6 @@
 ---
 title: Bastelrunde - 009
-description: Heltec genauer unter die Lupe
+description: Heltec genauer unter die Lupe mit einem Oszylographen
 tags:
   - slide
   - programming
