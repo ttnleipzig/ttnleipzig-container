@@ -13,20 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 008/meetup 008 - slides.md",
+                "file": "meetups/meetup 009/meetup 009 - slides.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c17a3442c832c99c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "0f23d8de945d571c",
+        "id": "2893b04f19388c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "48fc07ab6c74ad1c",
+            "id": "6cb01a4cb4104646",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -62,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hardware-controller-removebg-preview",
+                "query": "tag:lorawan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 008/meetup 008 - slides.md",
+                "file": "meetups/meetup 009/meetup 009 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 008/meetup 008 - slides.md",
+                "file": "meetups/meetup 009/meetup 009 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 008/meetup 008 - slides.md"
+                "file": "meetups/meetup 009/meetup 009 - slides.md"
               }
             }
           }
@@ -170,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff92923396b07ece",
+  "active": "c17a3442c832c99c",
   "lastOpenFiles": [
-    "meetups/meetup 008/assets/MeetUp 008.png",
+    "meetups/meetup 009/assets/vergissberlin_Detektiv_auf_der_Suche_nach_Signalen_89282657-424b-47f3-9aa9-875cbb086689.png",
+    "meetups/meetup 009/meetup 009 - slides.md",
     "meetups/meetup 008/meetup 008 - slides.md",
+    "meetups/meetup 008/assets/MeetUp 008.png",
     "meetups/meetup 008/assets/vergissberlin_microcontroller_flying_through_clouds_e4ca3e11-4904-4bfb-a259-0a4fbf2dee4e.png",
     "meetups/meetup 008/assets/vergissberlin_god_of_microcontroller_in_heaven_3ba27328-77e5-4cc9-b1df-8db4d07900d8.png",
     "meetups/meetup 007/meetup 007 - slides.md",
@@ -188,7 +202,6 @@
     "meetups/meetup 006/assets/Meetup #006 - Twitter.png",
     "meetups/meetup 006/assets/Meetup #006 - TTN.png",
     "meetups/meetup 006/assets/MeetUp 006.png",
-    "meetups/meetup 006/assets/01_source/antenna.jpeg",
     "meetups/meetup 005/Notes.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
     "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
@@ -215,7 +228,6 @@
     "README.md",
     "meetups/meetup 002/assets/Meetup.md",
     "presentation/E-Mail Footer.md",
-    "assets/LoRaWan Meetup.md",
-    "meetups/meetup 002/assets/LoRaWan Meetup.md"
+    "assets/LoRaWan Meetup.md"
   ]
 }
