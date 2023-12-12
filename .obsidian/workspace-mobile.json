@@ -11,9 +11,9 @@
             "id": "736477e57e988f75",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf"
+                "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png"
               }
             }
           }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
+            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
+            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf"
+            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png"
           }
         }
       }
@@ -140,28 +140,29 @@
   },
   "active": "736477e57e988f75",
   "lastOpenFiles": [
-    "assets/hardware/board/hardware-board-ttgo-lora32.png",
-    "assets/hardware/board/hardware-board-SX1262.png",
-    "meetups/meetup 006/assets/MeetUp 006.png",
-    "meetups/assets/ai-02/vergissberlin_microcontroller_with_an_antenna_27cdff09-4abf-47c8-8f87-e98922b6136e.png",
-    "assets/hardware/sensors/hardware-sensor-sonic-LiebeWH15qopc9evw.png",
-    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_2cc15ec4-9b74-40de-ab7c-a48e7c206855.png",
-    "presentation/assets/panorama.png",
-    "meetups/meetup 002/assets/some/Meetup-002.png",
-    "meetups/assets/ai-01/vergissberlin_25_year_old_girl_sits_at_a_table_with_a_soldering_c4d44b6c-daa3-46de-a4f6-25c183600289.png",
-    "assets/hardware/sensors/hardware-sensor-VL53L0X.png",
-    "meetups/assets/ai-01/vergissberlin_32_year_old_man_sits_at_a_table_with_a_soldering__9a090293-b275-4872-b621-37b0b0d7b202.png",
-    "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
-    "meetups/meetup 000/Basislager/Nutzungsvereinbarung Meetups.pdf",
-    "politics/meetings/001.md",
-    "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
-    "blog/blog 002/warum-lora-in-leipzig.md",
-    "meetups/meetup 008/assets/Meetup #008 - Flyer - Sponsor.pdf",
-    "assets/drawings/regenfass.excalidraw",
+    "meetups/meetup 008/assets/MeetUp 008.png",
+    "presentation/assets/logo/ttnle-logo-500.jpg",
+    "assets/drawings/regenfass.png",
+    "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_5e65ba14-4e14-44b9-856f-deb57fcee9e3.png",
+    "assets/hardware/board/hardware-board-heltec-esp32lora-pinout.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "presentation/assets/logo/ttnle-logo.svg",
+    "meetups/meetup 003/assets/Meetup #003 - Twitter.png",
+    "Pasted image 20230323181604.png",
+    "meetups/meetup 005/assets/Meetup #005 - Flyer.png",
+    "meetups/meetup 006/assets/01_source/antenna.jpeg",
+    "meetups/meetup 005/assets/Meetup #005 - TTN.png",
     "meetups/meetup 007/assets/Meetup #007 - Flyer - Tunnel.pdf",
     "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 007/assets/Meetup #007 - Flyer - Sponsor.pdf",
+    "meetups/meetup 000/Basislager/Nutzungsvereinbarung Meetups.pdf",
+    "meetups/meetup 009/notes.md",
+    "meetups/meetup 009/assets/Meetup #009 - Flyer - Sponsor.pdf",
+    "blog/blog 002/warum-lora-in-leipzig.md",
+    "meetups/meetup 008/assets/Meetup #008 - Flyer - Sponsor.pdf",
+    "meetups/meetup 005/assets/Meetup #005 - Short.mp4",
+    "politics/meetings/001.md",
+    "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 002/Bauanleitung.md",
     "assets/projects/regenfass.md",
