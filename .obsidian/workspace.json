@@ -6,6 +6,7 @@
       {
         "id": "44d97d32184898d1",
         "type": "tabs",
+        "dimension": 43.44473007712082,
         "children": [
           {
             "id": "f9e9510b0d58ce3a",
@@ -24,6 +25,7 @@
       {
         "id": "54009d560699a4ff",
         "type": "tabs",
+        "dimension": 56.555269922879184,
         "children": [
           {
             "id": "0d71af5280de2a56",
@@ -172,8 +174,9 @@
   },
   "active": "f9e9510b0d58ce3a",
   "lastOpenFiles": [
-    "meetups/meetup 011/meetup 010 - slides 1.md",
+    "meetups/meetup 007/meetup 007 - slides.md",
     "meetups/meetup 011/meetup 011 - slides.md",
+    "meetups/meetup 011/meetup 010 - slides 1.md",
     "meetups/meetup 011/assets/vergissberlin_cyberpunk_3e98344b-b0f0-48aa-8c17-9559679d5694.png",
     "meetups/meetup 010/meetup 010 - slides.md",
     "meetups/meetup 008/meetup 008 - slides.md",
@@ -191,7 +194,6 @@
     "meetups/meetup 010/assets/untitled folder",
     "meetups/meetup 010/assets/banner",
     "meetups/meetup 009/meetup 009 - slides.md",
-    "meetups/meetup 007/meetup 007 - slides.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "assets/drawings/regenfass.excalidraw",
     "meetups/meetup 005/meetup 005 - slides.md",
