@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 012/Ankündigung.md",
+                "file": "meetups/meetup 012/meetup 012 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "a8bb0d9d3366dde9",
+        "id": "8758cbf21f0ce06b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8348f34f9d00b9c",
+            "id": "a4b9cdee9d871ff7",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 012/Ankündigung.md",
+                "file": "meetups/meetup 012/meetup 012 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 012/Ankündigung.md",
+                "file": "meetups/meetup 012/meetup 012 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 012/Ankündigung.md"
+                "file": "meetups/meetup 012/meetup 012 - slides.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "f9e9510b0d58ce3a",
   "lastOpenFiles": [
-    "meetups/meetup 012/meetup 012 - slides.md",
     "meetups/meetup 012/Ankündigung.md",
+    "meetups/meetup 012/meetup 012 - slides.md",
     "meetups/meetup 012/assets/andrelademann_22433_constructors_build_a_futuristic_pipeline_th_13717e9c-dc02-411a-bcfb-912d36a06e31.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_b32790be-9ead-4fd9-b323-627c914a6af7.png",
     "meetups/meetup 012/assets/03_product/Meetup #012 - TTN.jpg",

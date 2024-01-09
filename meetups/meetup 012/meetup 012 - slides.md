@@ -1,5 +1,5 @@
 ---
-title: Bastelrunde - 010 Debug Funksignale
+title: Bastelrunde - 012 Build Pipeline
 description: Debugging mit IoT
 tags:
   - slide
@@ -38,7 +38,7 @@ h1, h2 {
 ## Onboarding
 
 1) Was ist LoRaWAN Leipzig
-2) Wo wir uns befinden - Thinkport ist Sponsor
+2) Wo wir uns befinden
 3) Wo die Toiletten sind
 4) Wo gibt es Getränke?
 
@@ -64,7 +64,7 @@ sponsored by
 
 1) ✅ Hardware Prototyp
 2) 👩‍💻 Verbindung mit TTN
-3) Automatisierte Releases auf GitHub
+3) 👩‍💻 Automatisierte Releases auf GitHub
 4) Datenverarbeitung in NodeRED
 5) Datenmonitoring und Visualisierung
 
