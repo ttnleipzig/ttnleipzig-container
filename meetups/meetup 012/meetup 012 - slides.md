@@ -52,7 +52,7 @@ h1, h2 {
 -->
 
 --
-<!-- slide bg="#ffffff"  data-auto-animate     -->
+
 <!-- element style=" text-shadow: 4px 4px 2px 2px #000; color: #999; font-size: 1rem;" -->
 sponsored by
 
@@ -70,7 +70,7 @@ sponsored by
 
 
 ---
-<!-- slide bg="[[vergissberlin_microcontroller_flying_through_clouds_e4ca3e11-4904-4bfb-a259-0a4fbf2dee4e.png]]" data-auto-animate="false"    -->
+<!-- slide bg="[[vergissberlin_microcontroller_flying_through_clouds_e4ca3e11-4904-4bfb-a259-0a4fbf2dee4e.png]]" -->
 
 <grid drag="60 30" bg="#000000cc" style="border-radius: 12px;backdrop-filter: blur(10px);" pad="1em 2em 1em 1em">
 
@@ -78,22 +78,51 @@ sponsored by
 
 👩‍💻🧑🏼‍💻👨🏻‍💻
 
-1. Review - Display, Button und Sensors
-2. Refactoring - LoRaWAN
-3. Refactoring - Build file
-4. Weitere Schritte besprechen
+1) Pipeline - Wie machen das Andere (WLED)
+2) Pipeline - Wie wollen wir das machen
+3) Pipeline - Erster Prototyp
+4) Weitere Schritte besprechen
 
 </grid>
 
 ---
+<!-- slide bg="#112" data-auto-animate -->
+### Main branch (Stable branch)
 
-## Offboarding
+> Beim setzen eines Tags wird
 
-- 🏁 Was wir heute geschafft haben<!-- element class="fragment" -->
-- 🔎 Wo man den Quellcode findet<!-- element class="fragment" -->
-- 🙋‍♂️ Fragen, Nöte oder Anregungen?<!-- element class="fragment" -->
-- 📆 Wann wir uns das nächste Mal treffen<!-- element class="fragment" -->
-- 🫥 Nothing left behind<!-- element class="fragment" -->
+1) Werden die Tests durchgeführt
+2) Werden automatisch die binaries gebaut
+3) Automatisch eine Release page erstellt
+4) Werden die Binaries automatisch zur Release page hochgeladen
+
+--
+<!-- slide bg="#111" data-auto-animate -->
+![[Pasted image 20240109181349.png]]
+
+---
+<!-- slide bg="#112" data-auto-animate -->
+### Feature branch
+
+> Bei jedem commit
+
+1) Werden die Tests durchgeführt
+2) Werden binaries erstellt
+3) Werden die Binaries automatisch dem dazugehörigem Ticket hochgeladen
+
+--
+<!-- slide bg="#111" data-auto-animate -->
+![[Pasted image 20240109181739.png]]
+
+---
+
+## Off-boarding
+
+1) 🏁 Was wir heute geschafft haben
+2) 🔎 Wo man den Quellcode findet
+3) 🙋‍♂️ Fragen, Nöte oder Anregungen?
+4) 📆 Wann wir uns das nächste Mal treffen
+5) 🫥 Nothing left behind
 	- 🚪 Türen zu
 	- 🗑️ Müll mitnehmen
 	- 🪑 Stühle ranstellen

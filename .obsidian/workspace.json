@@ -6,6 +6,7 @@
       {
         "id": "44d97d32184898d1",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "f9e9510b0d58ce3a",
@@ -18,15 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06d53b2b6bf3b8ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "meetups/meetup 012/build-pipeline-feature.excalidraw.md"
+              }
+            }
           }
         ]
       },
       {
-        "id": "8758cbf21f0ce06b",
+        "id": "d40fd6ac75fd8ea6",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "a4b9cdee9d871ff7",
+            "id": "b2824914a372b634",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -172,8 +184,14 @@
   },
   "active": "f9e9510b0d58ce3a",
   "lastOpenFiles": [
-    "meetups/meetup 012/Ankündigung.md",
+    "meetups/meetup 012/assets/Pasted image 20240109181739.png",
+    "meetups/meetup 012/build-pipeline-feature.excalidraw.md",
+    "meetups/meetup 012/build-pipeline.excalidraw.md",
     "meetups/meetup 012/meetup 012 - slides.md",
+    "meetups/meetup 012/assets/Pasted image 20240109181349.png",
+    "meetups/meetup 012/assets/Pasted image 20240109181259.png",
+    "Pasted image 20230323181604.png",
+    "meetups/meetup 012/Ankündigung.md",
     "meetups/meetup 012/assets/andrelademann_22433_constructors_build_a_futuristic_pipeline_th_13717e9c-dc02-411a-bcfb-912d36a06e31.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_b32790be-9ead-4fd9-b323-627c914a6af7.png",
     "meetups/meetup 012/assets/03_product/Meetup #012 - TTN.jpg",
@@ -191,10 +209,8 @@
     "meetups/meetup 012",
     "meetups/meetup 007/meetup 007 - slides.md",
     "meetups/meetup 011/meetup 010 - slides 1.md",
-    "meetups/meetup 011/assets/vergissberlin_cyberpunk_3e98344b-b0f0-48aa-8c17-9559679d5694.png",
     "meetups/meetup 010/meetup 010 - slides.md",
     "meetups/meetup 008/meetup 008 - slides.md",
-    "meetups/meetup 010/assets/banner/Meetup #010 - Flyer - Sponsor.png",
     "meetups/meetup 009/notes.md",
     "meetups/meetup 010/assets/ai",
     "meetups/meetup 010/assets/untitled folder",
@@ -213,9 +229,6 @@
     "meetups/meetup 001/meetup 001 - Kickoff.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - slides.md",
     "meetups/meetup 002/test slide.md",
-    "meetups/meetup 002/Bauanleitung.md",
-    "meetups/meetup 004/Slides.md",
-    "meetups/meetup 003/Einladung.md",
-    "presentation/Cooperate Identity.md"
+    "meetups/meetup 002/Bauanleitung.md"
   ]
 }
