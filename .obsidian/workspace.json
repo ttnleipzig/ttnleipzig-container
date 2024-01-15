@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
-                "mode": "preview",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/promotion.md"
+                "file": "meetups/meetup 013/meetup 013 - slides.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "cb5425596f102c79",
   "lastOpenFiles": [
-    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 013/promotion.md",
+    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 013/assets/01_source/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
     "meetups/meetup 013/assets/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
