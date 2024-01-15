@@ -132,6 +132,77 @@ sponsored by
 
 -->
 
+--
+### Planung
+
+1) Definieren des Ziel der Produktseite.
+2) Bestimmen der Zielgruppe für das Produkt.
+3) Entscheiden, welche Informationen und Funktionen auf der Seite vorhanden sein sollen (z. B. Produktbeschreibungen, Bilder, Preise, Bewertungen).
+--
+
+### Design
+
+1) Erstellen eines Layout für die Seite.
+2) Wählen eines Farbschemas und Typografie aus, die zum Branding passen.
+3) Entwerfen einer Benutzerführung und Navigation.
+
+--
+
+### Werkzeuge und Technologien auswählen
+
+1) Entscheiden für eine CSS Frameworks.
+2) WebInstaller heraussuchen
+
+--
+### Entwicklung
+
+1) Erstellen der HTML-Struktur der Webseite.
+2) Stilisieren der Seite mit CSS.
+3) Hinzufügen des Web-Installers.
+
+--
+### Webhosting
+
+1) Suchen eines Hosting-Anbieters.
+2) Konfiguration der Domain.
+
+--
+### Installation
+
+1) Upload der Webseite auf den Server.
+
+--
+### Inhaltserstellung
+
+1) Hinzufügen weiterer Inhalte – dies umfasst Texte, Bilder und Videos über das Produkt.
+2) Optimalerweise sollten SEO-Praktiken berücksichtigt werden (Stichwortrecherche, Meta-Tags).
+
+--
+### Testen
+
+1) Überprüfen der Funktionalität und des Designs auf verschiedenen Geräten und Browsern.
+2) Testen der Ladegeschwindigkeit.
+
+--
+### Launch
+1) Veröffentlichen der Seite im Internet nach abschließenden Tests.
+
+--
+### Marketing & SEO
+1) Vermarkten der Seite über soziale Medien
+2) Kontinuierliche Suchmaschinenoptimierung betreiben.
+
+--
+### Wartung & Updates
+ 1) Regelmäßige Aktualisierung des Inhalts sowie Sicherheitsupdates durch GitHub Pipelines.
+
+--
+### Analyse
+ 1) Nutzen von Google Analytics oder anderen Tools zur Überwachung des Traffics und zur Verbesserung der User Experience basierend auf Nutzerdaten.
+
+--
+
+
 ---
 <!-- slide bg="#112" data-auto-animate -->
 ### Main branch (Stable branch)
