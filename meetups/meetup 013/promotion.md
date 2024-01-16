@@ -46,3 +46,29 @@ Hier ist ein grundlegender Fahrplan:
      - Regelmäßige Aktualisierung des Inhalts sowie Sicherheitsupdates durch GitHub Pipelines.
 12. **Analyse**
      - Nutzen von Google Analytics oder anderen Tools zur Überwachung des Traffics und zur Verbesserung der User Experience basierend auf Nutzerdaten.
+
+## Video
+
+Titel:
+`Arduino Projekt Booster`
+
+Kurzbeschreibung: 
+`So einfach können Nutzer:innen deinen Code auf ihren Mikrocontrollern installieren.`
+
+Untertitel:
+```
+Gib deinem Arduino Projekt einem Boost
+
+Lass Deine Software über eine Webseite installieren
+
+Über einen Webinstaller
+
+Stellen deinen Nutzer:innen anschließen auch eine Konfigurationsmöglichkeit zur Verfügung 
+
+Mit einem Klick ist die Anwendung installiert
+
+Wie Du das machst, zeigen wir Dir beim Meetup des TTN Leipzig 
+
+Komm am 13.02.2024 um 19 Uhr zum Floßplatz 6 in Leipzig
+```
+

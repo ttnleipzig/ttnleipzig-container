@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "file": "meetups/meetup 013/promotion.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0afb5bf796c8831",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5e31cc47f805a2b",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "file": "meetups/meetup 013/promotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "file": "meetups/meetup 013/promotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md"
+                "file": "meetups/meetup 013/promotion.md"
               }
             }
           }
@@ -172,20 +158,19 @@
   },
   "active": "cb5425596f102c79",
   "lastOpenFiles": [
+    "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
+    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 013/assets/01_source/audio/Meetup13 - Komm zum Floßplatz.m4a",
     "meetups/meetup 013/assets/01_source/audio",
     "meetups/meetup 013/assets/01_source/untitled folder",
     "meetups/meetup 013/assets/01_source/Meetup13 - Komm zum Floßplatz.m4a",
-    "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media/Meetup #013 - Youtube Short_{3AE4D80C-3686-40F0-839F-87923C4FE98D}.mp4",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/ScreenFlowDocument.dat",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/version.plist",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/thumbnail.jpg",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow",
-    "meetups/meetup 013/assets/02_development",
     "meetups/meetup 013/promotion.md",
-    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 013/assets/01_source/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
     "meetups/meetup 013/assets/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
