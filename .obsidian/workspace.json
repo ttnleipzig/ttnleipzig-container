@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d098a7e4d6949017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube - Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "Youtube - Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "Youtube - Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/promotion.md"
+                "file": "Youtube - Info.md"
               }
             }
           }
@@ -156,8 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb5425596f102c79",
+  "active": "d098a7e4d6949017",
   "lastOpenFiles": [
+    "meetups/meetup 013/promotion.md",
+    "Youtube - Info.md",
+    "presentation/youtube",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 013/assets/01_source/audio/Meetup13 - Komm zum Floßplatz.m4a",
@@ -169,8 +185,6 @@
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/version.plist",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/thumbnail.jpg",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow",
-    "meetups/meetup 013/promotion.md",
     "meetups/meetup 013/assets/01_source/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
     "meetups/meetup 013/assets/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
