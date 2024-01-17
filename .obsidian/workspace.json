@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/promotion.md"
+                "file": "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "cb5425596f102c79",
   "lastOpenFiles": [
+    "meetups/meetup 013/promotion.md",
     "Pasted image 20230323181604.png",
     "Youtube - Info.md",
-    "meetups/meetup 013/promotion.md",
     "presentation/youtube",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "meetups/meetup 013/meetup 013 - slides.md",
@@ -181,7 +181,6 @@
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_2a8941ce-2e0e-4796-81e4-a0ce7135eb1a.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0e6c67c5-3631-457b-89dd-239b771b130d.png",
-    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1 (1).png",
     "meetups/meetup 012/build-pipeline-feature.excalidraw.md",
     "meetups/meetup 012/Ankündigung.md",
     "meetups/meetup 012/meetup 012 - slides.md",
