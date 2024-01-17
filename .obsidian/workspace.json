@@ -25,16 +25,13 @@
             "id": "fe530af0a175a3b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
-                "mode": "source",
-                "source": false
+                "file": "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_79396a4f-b568-4b02-87cc-927c1b0579ce.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 489.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/promotion.md"
+                "file": "presentation/youtube/Youtube - Channel texts.md"
               }
             }
           }
@@ -171,19 +168,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe530af0a175a3b6",
+  "active": "cb5425596f102c79",
   "lastOpenFiles": [
+    "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_79396a4f-b568-4b02-87cc-927c1b0579ce.png",
+    "assets/youtube/ttn-youtube-banner.jpg",
+    "assets/youtube",
+    "meetups/assets/ai-02/vergissberlin_young_man_at_a_table_in_a_garden_with_a_soldering_fc16e796-2f53-49be-8f98-7ee0d6aba0f8.png",
+    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_14d6c660-a105-4061-abb2-6bdc193e250f.png",
+    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_2cc15ec4-9b74-40de-ab7c-a48e7c206855.png",
+    "meetups/assets/ai-02/vergissberlin_puddle_in_a_small_garden_5924f72c-28c2-45dc-aadb-f79d4a1e9be2.png",
+    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_17ba6cf4-1d1b-4eba-b3ee-30b9431dd2c1.png",
+    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_dd380b68-6006-4ff5-9b7c-7f333dc09e6b.png",
+    "meetups/assets/ai-02/vergissberlin_Microcontroller_mit_einer_Giekanne_87519b91-2b22-486e-9dc3-92faf2575cad.png",
+    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_28dbc693-41c3-4bd7-8590-8c14004b3c67.png",
+    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_0b307019-e15b-4f1f-a5eb-87524cecbafd.png",
+    "meetups/meetup 013/promotion.md",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube.mp4",
     "meetups/meetup 012/assets/build-pipeline.excalidraw.md",
     "meetups/meetup 012/assets/build-pipeline-feature.excalidraw.md",
     "meetups/meetup 012/Ankündigung.md",
     "presentation/youtube/Youtube - Channel texts.md",
     "presentation/youtube/Youtube - Info.md",
-    "Pasted image 20230323181604.png",
     "presentation/E-Mail Footer.md",
     "presentation/Cooperate Identity.md",
     "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
-    "meetups/meetup 013/promotion.md",
     "presentation/youtube",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "meetups/meetup 013/meetup 013 - slides.md",
@@ -193,17 +201,6 @@
     "meetups/meetup 013/assets/01_source/Meetup13 - Komm zum Floßplatz.m4a",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media/Meetup #013 - Youtube Short_{3AE4D80C-3686-40F0-839F-87923C4FE98D}.mp4",
     "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/ScreenFlowDocument.dat",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/version.plist",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/thumbnail.jpg",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media",
-    "meetups/meetup 013/assets/01_source/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
-    "meetups/meetup 013/assets/vergissberlin_Microcontroller_with_a_happy_ending_49de1ac8-6ebf-45f3-aae3-9a6c13817ca2.png",
-    "meetups/meetup 013/assets/03_product/Meetup #013 - Twitter.png",
-    "meetups/meetup 013/assets/03_product/Meetup #013 - TTN.jpg",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_2a8941ce-2e0e-4796-81e4-a0ce7135eb1a.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0e6c67c5-3631-457b-89dd-239b771b130d.png",
     "meetups/meetup 012/meetup 012 - slides.md",
     "meetups/meetup 011/meetup 011 - slides.md",
     "meetups/meetup 012/assets.md",
