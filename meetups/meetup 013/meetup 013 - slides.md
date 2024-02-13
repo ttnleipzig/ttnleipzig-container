@@ -53,20 +53,26 @@ h1, h2 {
 
 --
 
-<!-- element style=" text-shadow: 4px 4px 2px 2px #000; color: #999; font-size: 1rem;" -->
-sponsored by
+<!-- slide bg="[[vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_17ba6cf4-1d1b-4eba-b3ee-30b9431dd2c1.png]]" -->
+
+<grid drag="60 30" bg="#ffffff88" style="border-radius: 12px;backdrop-filter: blur(20px);" pad="1em 2em 1em 1em">
+
+<small>sponsored by</small>
 
 ![Thinkport](https://thinkport.digital/wp-content/uploads/elementor/thumbs/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png)
---
 
+</grid>
+
+--
 
 ## Projektübersicht
 
 1) ✅ Hardware Prototyp
-2) 👩‍💻 Verbindung mit TTN
-3) 👩‍💻 Automatisierte Releases auf GitHub
-4) Datenverarbeitung in NodeRED
-5) Datenmonitoring und Visualisierung
+2) ✅ Verbindung mit TTN
+3) ✅ Automatisierte Releases auf GitHub
+4) 👩‍💻 Veröffentlichung
+5) Datenverarbeitung in NodeRED
+6) Datenmonitoring und Visualisierung
 
 
 ---
@@ -74,22 +80,18 @@ sponsored by
 
 <grid drag="60 30" bg="#000000cc" style="border-radius: 12px;backdrop-filter: blur(10px);" pad="1em 2em 1em 1em">
 
-## Today
+## Today 👩‍💻🧑🏼‍💻👨🏻‍💻
 
-👩‍💻🧑🏼‍💻👨🏻‍💻
-
-1. **Planung**
-2. **Design**
-3. **Werkzeuge und Technologien auswählen**
-4. **Entwicklung**
-5. **Webhosting**
-6. **Installation**
-7. **Inhaltserstellung**
-8. **Testen**
-9. **Launch**
-10. **Marketing & SEO**
-11. **Wartung & Updates**
-12. **Analyse**
+1) **Planung**
+1) **Inhalte und Design**
+1) **Werkzeuge und Technologien auswählen**
+1) **Entwicklung**
+1) **Webhosting**
+1) **Installation**
+1) **Inhaltserstellung**
+1) **Testen**
+1) **Launch**
+2) **Marketing & SEO**
 </grid>
 
 <!--
@@ -203,50 +205,6 @@ sponsored by
 --
 
 
----
-<!-- slide bg="#112" data-auto-animate -->
-### Main branch (Stable branch)
-
-> Beim setzen eines Tags wird
-
-1) Werden die Tests durchgeführt
-2) Werden automatisch die binaries gebaut
-3) Automatisch eine Release page erstellt
-4) Werden die Binaries automatisch zur Release page hochgeladen
-
---
-<!-- slide bg="#111" data-auto-animate -->
-![[Pasted image 20240109181349.png]]
-
----
-<!-- slide bg="#112" data-auto-animate -->
-### Feature branch
-
-> Bei jedem commit
-
-1) Werden die Tests durchgeführt
-2) Werden binaries erstellt
-3) Werden die Binaries automatisch dem dazugehörigem Ticket hochgeladen
-
---
-<!-- slide bg="#111" data-auto-animate -->
-![[Pasted image 20240109181739.png]]
-
----
-
-## Off-boarding
-
-1) 🏁 Was wir heute geschafft haben
-2) 🔎 Wo man den Quellcode findet
-3) 🙋‍♂️ Fragen, Nöte oder Anregungen?
-4) 📆 Wann wir uns das nächste Mal treffen
-5) 🫥 Nothing left behind
-	- 🚪 Türen zu
-	- 🗑️ Müll mitnehmen
-	- 🪑 Stühle ranstellen
-
----
-
 ```mermaid
 gitGraph:
     commit "Ashish"
@@ -263,8 +221,19 @@ gitGraph:
     commit
 ```
 
----
+--
+## Off-boarding
 
+1) 🏁 Was wir heute geschafft haben
+2) 🔎 Wo man den Quellcode findet
+3) 🙋‍♂️ Fragen, Nöte oder Anregungen?
+4) 📆 Wann wir uns das nächste Mal treffen
+5) 🫥 Nothing left behind
+	- 🚪 Türen zu
+	- 🗑️ Müll mitnehmen
+	- 🪑 Stühle ranstellen
+
+---
 ## Checkliste nach der Veranstaltung
 
 -  Hardware zusammengesucht und eingepackt
