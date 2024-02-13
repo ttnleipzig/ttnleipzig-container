@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/promotion.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/promotion.md"
+                "file": "meetups/meetup 013/meetup 013 - slides.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "10396ce69893f56f",
   "lastOpenFiles": [
+    "meetups/meetup 013/promotion.md",
     "presentation/youtube/Youtube - Channel texts.md",
     "presentation/youtube/Youtube - Info.md",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
@@ -187,7 +188,6 @@
     "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_dd380b68-6006-4ff5-9b7c-7f333dc09e6b.png",
     "meetups/assets/ai-02/vergissberlin_Microcontroller_mit_einer_Giekanne_87519b91-2b22-486e-9dc3-92faf2575cad.png",
     "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_28dbc693-41c3-4bd7-8590-8c14004b3c67.png",
-    "meetups/meetup 013/promotion.md",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube.mp4",
     "meetups/meetup 012/assets/build-pipeline.excalidraw.md",
     "meetups/meetup 012/assets/build-pipeline-feature.excalidraw.md",
