@@ -7,7 +7,6 @@ tags:
   - lorawan
 type: slide
 ---
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&display=swap');
 h1, h2 {
