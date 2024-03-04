@@ -6,7 +6,6 @@
       {
         "id": "2f52d0a163c26395",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "cb5425596f102c79",
@@ -35,17 +34,28 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "370176f44d13ec7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 014/meetup 014 - slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "5f415a835af9cefd",
+        "id": "593e27656346c833",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "3f7a6b835888586e",
+            "id": "ce9dc08539b6f282",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -110,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 265.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "file": "meetups/meetup 014/meetup 014 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
+                "file": "meetups/meetup 014/meetup 014 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md"
+                "file": "meetups/meetup 014/meetup 014 - slides.md"
               }
             }
           }
@@ -189,20 +199,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91e12b74b58d08c9",
+  "active": "370176f44d13ec7f",
   "lastOpenFiles": [
-    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_17ba6cf4-1d1b-4eba-b3ee-30b9431dd2c1.png",
-    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_dd380b68-6006-4ff5-9b7c-7f333dc09e6b.png",
-    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_28dbc693-41c3-4bd7-8590-8c14004b3c67.png",
-    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_d876b29f-e144-4c48-8494-c1408485a6c7.png",
-    "meetups/assets/ai-02/vergissberlin_Microcontroller_mit_einer_Giekanne_87519b91-2b22-486e-9dc3-92faf2575cad.png",
-    "meetups/assets/ai-02/vergissberlin_microcontroller_with_an_antenna_27cdff09-4abf-47c8-8f87-e98922b6136e.png",
-    "meetups/assets/ai-02/vergissberlin_microcontroller_with_an_antenna_in_a_small_garden_ffa69c0b-235f-4b8b-a15a-468b860a4d8c.png",
-    "meetups/assets/ai-02/vergissberlin_young_couple_with_soldering_irons_14d6c660-a105-4061-abb2-6bdc193e250f.png",
-    "meetups/assets/ai-02/vergissberlin_sad_cat_drinking_from_a_puddle_in_a_small_garden_5a7ea5ee-1154-46a2-8a0f-93ea3470764d.png",
-    "meetups/assets/ai-02/vergissberlin_puddle_in_a_small_garden_5924f72c-28c2-45dc-aadb-f79d4a1e9be2.png",
-    "meetups/assets/ai-01/vergissberlin_Frau_sitzt_mit_einem_Ltkolben_an_einem_Tisch_und__ea176288-f28f-411b-86be-3a631b7e711b.png",
+    "meetups/meetup 014/assets/meetup-014.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_793c1f49-cce9-4e8a-812f-25c45989bea9.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_52486555-24c0-48ac-9737-1fc885d71e4a.png",
+    "presentation/assets/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1 (1).png",
+    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1.png",
+    "meetups/meetup 014/meetup 014 - slides.md",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_fe2dc6f8-c423-4b2f-9022-362e9afe8779.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_d6ae565b-1cff-4e6f-9b85-07ebb5d63a36.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_b32790be-9ead-4fd9-b323-627c914a6af7.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_a3f5965f-f766-4856-8cf2-803b95707bf1.png",
+    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_2a8941ce-2e0e-4796-81e4-a0ce7135eb1a.png",
     "meetups/meetup 013/meetup 013 - slides.md",
+    "meetups/meetup 014/assets",
+    "meetups/meetup 014",
     "meetups/meetup 013/promotion.md",
     "presentation/youtube/Youtube - Channel texts.md",
     "presentation/youtube/Youtube - Info.md",
@@ -220,8 +233,6 @@
     "meetups/meetup 013/assets/01_source/audio",
     "meetups/meetup 013/assets/01_source/untitled folder",
     "meetups/meetup 013/assets/01_source/Meetup13 - Komm zum Floßplatz.m4a",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/Media/Meetup #013 - Youtube Short_{3AE4D80C-3686-40F0-839F-87923C4FE98D}.mp4",
-    "meetups/meetup 013/assets/02_development/Meetup #013 - Youtube Short.screenflow/ScreenFlowDocument.dat",
     "meetups/meetup 012/meetup 012 - slides.md",
     "meetups/meetup 011/meetup 011 - slides.md",
     "meetups/meetup 012/assets.md",
@@ -235,7 +246,6 @@
     "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 005/meetup 005 - ads.md",
     "meetups/meetup 006/meetup 006 - slides.md",
-    "meetups/meetup 005/Notes.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+    "meetups/meetup 005/Notes.md"
   ]
 }
