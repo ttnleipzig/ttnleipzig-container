@@ -194,25 +194,54 @@ Bitte beachten Sie jedoch folgendes:
 
 Um diesen Code in Ihrer Anwendung zu verwenden, müssen HTML-Elemente für `connectButton`, `sendButton` und `commandInput` vorhanden sein. Außerdem muss der Code entsprechend Ihrer spezifischen Anforderungen angepasst werden.
 
+```mermaid
+graph TD;
+    A[Start] --> B{Webanwendung geöffnet}
+    B -- Ja --> C[Verbindungsbutton geklickt]
+    C --> D[Nutzer wählt ESP32 Port]
+    D --> E{Port ausgewählt}
+    E -- Ja --> F[Port wird geöffnet]
+    F --> G[Serielle Kommunikation bereit]
+    G --> H[Befehl wird gesendet]
+    H --> I{Antwort empfangen?}
+    I -- Ja --> J[Antwort anzeigen]
+    I -- Nein --> K[Fehlerbehandlung]
+```
 
 
 
 
 ```mermaid
-gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
+sequenceDiagram
+    participant User as Benutzer
+    participant Browser as Browser (Webanwendung)
+    participant ESP32 as ESP32
+    
+    Note over User,Browser: Benutzer öffnet die Webanwendung im Browser.
+    
+    User->>Browser: Klick auf "Connect"
+    activate Browser
+    Browser->>ESP32: Anfrage, um sich mit dem seriellen Port zu verbinden
+    activate ESP32
+    ESP32-->>Browser: Bestätigung der Verbindung
+    
+    Note over User,Browser: Verbindung ist nun hergestellt.
+    
+    User->>Browser: Gibt Befehl ein und klickt auf "Send"
+    
+    Browser->>ESP32: Sendet Befehl über serielle Schnittstelle
+    activate ESP32
+    ESP32-->>Browser: Führt Befehl aus und sendet Antwort
+    
+    deactivate ESP32
+    
+    Browser-->>User: Zeigt Antwort im Interface an
+    
+    deactivate Browser
+
 ```
+
+
 
 --
 ## Off-boarding
