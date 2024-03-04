@@ -93,115 +93,12 @@ h1, h2 {
 2) **Marketing & SEO**
 </grid>
 
-<!--
-
-1. **Planung**
-   - Definieren des Ziel der Produktseite.
-   - Bestimmen der Zielgruppe für das Produkt.
-   - Entscheiden, welche Informationen und Funktionen auf der Seite vorhanden sein sollen (z. B. Produktbeschreibungen, Bilder, Preise, Bewertungen).
-2. **Design**
-   - Erstellen eines Layout für die Seite.
-   - Wählen eines Farbschemas und Typografie aus, die zum Branding passen.
-   - Entwerfen einer Benutzerführung und Navigation.
-3. **Werkzeuge und Technologien auswählen**
-   - Entscheiden für eine CSS Frameworks.
-   - WebInstaller heraussuchen
-4. **Entwicklung**
-   - Erstellen der HTML-Struktur der Webseite.
-   - Stilisieren der Seite mit CSS.
-   - Hinzufügen des Web-Installers.
-5. **Webhosting**
-   - Suchen eines Hosting-Anbieters.
-   - Konfiguration der Domain.
-6. **Installation**
-    - Upload der Webseite auf den Server.
-7. **Inhaltserstellung**
-    - Hinzufügen weiterer Inhalte – dies umfasst Texte, Bilder und Videos über das Produkt.
-    - Optimalerweise sollten SEO-Praktiken berücksichtigt werden (Stichwortrecherche, Meta-Tags).
-8. **Testen**
-    - Überprüfen der Funktionalität und des Designs auf verschiedenen Geräten und Browsern.
-    - Testen der Ladegeschwindigkeit.
-9. **Launch**
-    - Veröffentlichen der Seite im Internet nach abschließenden Tests.
-10. **Marketing & SEO**
-     - Vermarkten der Seite über soziale Medien
-     - Kontinuierliche Suchmaschinenoptimierung betreiben.
-11. **Wartung & Updates**
-     - Regelmäßige Aktualisierung des Inhalts sowie Sicherheitsupdates durch GitHub Pipelines.
-12. **Analyse**
-     - Nutzen von Google Analytics oder anderen Tools zur Überwachung des Traffics und zur Verbesserung der User Experience basierend auf Nutzerdaten.
-
--->
-
---
-### Planung
-
-1) Definieren des Ziel der Produktseite.
-2) Bestimmen der Zielgruppe für das Produkt.
-3) Entscheiden, welche Informationen und Funktionen auf der Seite vorhanden sein sollen (z. B. Produktbeschreibungen, Bilder, Preise, Bewertungen).
 --
 
-### Design
+## Web-Serial-API
 
-1) Erstellen eines Layout für die Seite.
-2) Wählen eines Farbschemas und Typografie aus, die zum Branding passen.
-3) Entwerfen einer Benutzerführung und Navigation.
+So kann man  der Web-Serial-API Konfigurationen auf einem ESP-32 vornehmen
 
---
-
-### Werkzeuge und Technologien auswählen
-
-1) Entscheiden für eine CSS Frameworks.
-2) WebInstaller heraussuchen
-
---
-### Entwicklung
-
-1) Erstellen der HTML-Struktur der Webseite.
-2) Stilisieren der Seite mit CSS.
-3) Hinzufügen des Web-Installers.
-
---
-### Webhosting
-
-1) Suchen eines Hosting-Anbieters.
-2) Konfiguration der Domain.
-
---
-### Installation
-
-1) Upload der Webseite auf den Server.
-
---
-### Inhaltserstellung
-
-1) Hinzufügen weiterer Inhalte – dies umfasst Texte, Bilder und Videos über das Produkt.
-2) Optimalerweise sollten SEO-Praktiken berücksichtigt werden (Stichwortrecherche, Meta-Tags).
-
---
-### Testen
-
-1) Überprüfen der Funktionalität und des Designs auf verschiedenen Geräten und Browsern.
-2) Testen der Ladegeschwindigkeit.
-
---
-### Launch
-1) Veröffentlichen der Seite im Internet nach abschließenden Tests.
-
---
-### Marketing & SEO
-1) Vermarkten der Seite über soziale Medien
-2) Kontinuierliche Suchmaschinenoptimierung betreiben.
-
---
-### Wartung & Updates
- 1) Regelmäßige Aktualisierung des Inhalts sowie Sicherheitsupdates durch GitHub Pipelines.
-
---
-### Analyse
- 1) Nutzen von Google Analytics oder anderen Tools zur Überwachung des Traffics und zur Verbesserung der User Experience basierend auf Nutzerdaten.
-
---
 
 
 ```mermaid
