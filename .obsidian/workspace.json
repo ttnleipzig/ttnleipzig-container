@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6f5019c99cd3ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - slides.md",
+                "file": "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - slides.md",
+                "file": "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - slides.md"
+                "file": "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md"
               }
             }
           }
@@ -185,10 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "370176f44d13ec7f",
+  "active": "f6f5019c99cd3ad0",
   "lastOpenFiles": [
     "meetups/meetup 014/meetup 014 - short.md",
+    "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
+    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 014/meetup 014 - slides.md",
+    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/assets/meetup-014.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_793c1f49-cce9-4e8a-812f-25c45989bea9.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_52486555-24c0-48ac-9737-1fc885d71e4a.png",
@@ -199,11 +214,9 @@
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_d6ae565b-1cff-4e6f-9b85-07ebb5d63a36.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_b32790be-9ead-4fd9-b323-627c914a6af7.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_a3f5965f-f766-4856-8cf2-803b95707bf1.png",
-    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/assets",
     "meetups/meetup 014",
     "meetups/meetup 013/promotion.md",
-    "presentation/youtube/Youtube - Channel texts.md",
     "presentation/youtube/Youtube - Info.md",
     "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "assets/youtube",
@@ -231,7 +244,6 @@
     "meetups/meetup 000/Vorlagen/meetup 000 - agenda.md",
     "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 005/meetup 005 - ads.md",
-    "meetups/meetup 006/meetup 006 - slides.md",
-    "meetups/meetup 005/Notes.md"
+    "meetups/meetup 006/meetup 006 - slides.md"
   ]
 }
