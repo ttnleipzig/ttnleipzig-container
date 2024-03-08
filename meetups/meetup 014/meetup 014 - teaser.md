@@ -12,6 +12,20 @@ Nächsten Dienstag sprechen wir über die Web Serial API direkt über den Browse
 
 ## Youtube Short
 
+### Youtube Short - Custom
+
+Wenn Du Software für IoT Devices herstellst, stellt sich sehr oft die Frage, wie Du eine Konfigurationsmöglichkeit für die Benutzer:innen schaffst. Oft benötigst Du mindestens die Zugangsdaten zum örtlichen WiFi, oder zum LoRaWAN um eine Verbindung deiner Smarten-Geräte mit dem Internet zu ermöglichen.
+
+Hier gibt es im Wesentlichen 3 Möglichkeiten:
+1. Dein Gerät macht einen WiFi Access Point auf mit dem Du dich z.B. mit deinem Smartphone verbinden kannst. Auf einer vom IOT Gerät bereitgestellten Webseite kannst Du dann entsprechende  Einstellungen vornehmen.
+2. **Bluetooth** Dein IOT-Gerät lässt sich über Bluetooth konfigurieren. Das setzt aber voraus, dass Du zuvor eine spezielle App auf deinem Smartphone installierst.
+3. **USB** mit einer USB Kabelverbindung zwischen Deinem Computer und deinem Mikrocontroller. Durch die Web Serial API ist es mit dem Chrome Browser möglich, eine direkte Kommunikation herzustellen. Über die JavaScript API kannst Du Daten senden und empfangen. Also Auch Konfigurationen und Zugangsdaten.
+
+In unserem Meetup "Bastelrunde #014" beschäftigen wir  uns diesmal intensiv mit der dritten Variante.
+
+
+### Youtube Short - Generated
+
 Kernpunkte der Web Serial API hervorhebt und wie sie für die Kommunikation zwischen Webanwendungen und seriellen Geräten verwendet werden kann. Hier ist ein Beispiel-Skript für einen YouTube Short:
 
 ---
