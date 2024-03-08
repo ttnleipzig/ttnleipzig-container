@@ -1,3 +1,17 @@
+## Platforms Teaser
+
+Die Web Serial API eröffnet direkte Kommunikationswege zwischen Webanwendungen und seriellen Geräten. Im kommenden Meetup zeigen wir dir, wie du mit einfachem JavaScript Code eine Verbindung zu Geräten wie einem Arduino herstellen kannst. Dies ermöglicht vielfältige Interaktionen ohne den Umweg über zusätzliche Software. Perfekt für Hobbyprojekte, Bildung oder Prototyping. Wir werden die experimentieren und die Web Serial API selbst verwenden, um mit unserem Mikrocontroller zu kommunizieren.
+
+Hier geht es schon mal zu einer Demo:
+[Web Serial Example (ttnleipzig.github.io)](https://ttnleipzig.github.io/experimental-serial-web-api/)
+
+Nächsten Dienstag sprechen wir über die Web Serial API direkt über den Browser, mit unserem Mikrocontroller. Warum? So schaffen wir die Möglichkeit unseren IOT Code auf einfache Art **kon­fi­gu­rier­bar** zu machen. Hier gehts zu einer Demo: https://ttnleipzig.github.io/experimental-serial-web-api/
+
+**#leipzig** **#meetup** **#iot**
+
+
+## Youtube Short
+
 Kernpunkte der Web Serial API hervorhebt und wie sie für die Kommunikation zwischen Webanwendungen und seriellen Geräten verwendet werden kann. Hier ist ein Beispiel-Skript für einen YouTube Short:
 
 ---

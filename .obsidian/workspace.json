@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - slides.md",
+                "file": "meetups/meetup 014/meetup 014 - teaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md",
+                "file": "meetups/meetup 014/meetup 014 - teaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md",
+                "file": "meetups/meetup 014/meetup 014 - teaser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md"
+                "file": "meetups/meetup 014/meetup 014 - teaser.md"
               }
             }
           }
@@ -186,13 +185,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ac02882f14e73b0",
+  "active": "370176f44d13ec7f",
   "lastOpenFiles": [
+    "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
+    "meetups/meetup 014/meetup 014 - teaser.md",
+    "presentation/youtube/Youtube - Channel texts.md",
     "assets/logo/ttn-logo.svg",
     "Pasted image 20230323181604.png",
-    "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
-    "meetups/meetup 014/meetup 014 - short.md",
-    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 014/meetup 014 - slides.md",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/assets/meetup-014.png",
@@ -203,7 +202,6 @@
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_fe2dc6f8-c423-4b2f-9022-362e9afe8779.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_d6ae565b-1cff-4e6f-9b85-07ebb5d63a36.png",
-    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_b32790be-9ead-4fd9-b323-627c914a6af7.png",
     "meetups/meetup 014/assets",
     "meetups/meetup 014",
     "meetups/meetup 013/promotion.md",
