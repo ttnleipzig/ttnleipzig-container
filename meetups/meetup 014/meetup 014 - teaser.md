@@ -9,7 +9,6 @@ Nächsten Dienstag sprechen wir über die Web Serial API direkt über den Browse
 
 **#leipzig** **#meetup** **#iot**
 
-
 ## Youtube Short
 
 ### Youtube Short - Custom
