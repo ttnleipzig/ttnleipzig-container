@@ -81,31 +81,22 @@ h1, h2 {
 
 ## Today 👩‍💻🧑🏼‍💻👨🏻‍💻
 
+1) **Vorstellung Prototyp**
 1) **Planung**
-1) **Inhalte und Design**
 1) **Werkzeuge und Technologien auswählen**
-1) **Entwicklung**
-1) **Webhosting**
-1) **Installation**
-1) **Inhaltserstellung**
-1) **Testen**
-1) **Launch**
-2) **Marketing & SEO**
+1) **Integration bei regenfass**
 </grid>
 
 --
-
 ## Web-Serial-API
 
 Die Web-Serial-API ist eine Browser-basierte Schnittstelle, die es ermöglicht, mit Hardware-Geräten über die serielle Schnittstelle zu kommunizieren. Sie wird hauptsächlich für die Kommunikation mit Entwicklungsboards wie dem ESP32 verwendet, um Daten zu senden und zu empfangen.
 
----
+--
 
 Wenn Sie Konfigurationen auf einem ESP32 über die Web-Serial-API vornehmen möchten, müssen Sie zunächst sicherstellen, dass der ESP32 so programmiert ist, dass er Befehle über seine serielle Schnittstelle empfangen und entsprechend darauf reagieren kann. Dies erfordert normalerweise eine Firmware, die speziell dafür entwickelt wurde, Befehle zu interpretieren und Einstellungen oder Aktionen auf dem Gerät umzusetzen.
 
-
 ---
-
 ## Allgemeiner Ansatz
 
 --
