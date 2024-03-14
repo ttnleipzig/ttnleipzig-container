@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "56caadea558314b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 014/meetup 014 - teaser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - teaser.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - teaser.md",
+                "file": "meetups/meetup 013/meetup 013 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 014/meetup 014 - teaser.md"
+                "file": "meetups/meetup 013/meetup 013 - slides.md"
               }
             }
           }
@@ -185,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56caadea558314b6",
+  "active": "91e12b74b58d08c9",
   "lastOpenFiles": [
+    "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 014/assets/Meetup #014 - Short.mp4",
     "meetups/meetup 014/assets/01_source/web-serial-narrow.mov",
     "meetups/meetup 014/assets/01_source/tasmota.mov",
@@ -195,7 +184,6 @@
     "meetups/meetup 014/assets/01_source",
     "meetups/meetup 014/assets/Meetup #014 - Short Final.mp4",
     "meetups/meetup 014/Screen Recording 2024-03-10 at 15.38.41.mov",
-    "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
     "presentation/youtube/Youtube - Channel texts.md",
@@ -214,7 +202,6 @@
     "meetups/meetup 014",
     "meetups/meetup 013/promotion.md",
     "presentation/youtube/Youtube - Info.md",
-    "meetups/meetup 013/assets/03_product/Meetup #013 - Youtube Short.mp4",
     "meetups/meetup 012/assets/build-pipeline.excalidraw.md",
     "meetups/meetup 012/assets/build-pipeline-feature.excalidraw.md",
     "meetups/meetup 012/Ankündigung.md",
