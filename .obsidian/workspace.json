@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - slides.md",
+                "file": "meetups/meetup 015/meetup 015 - teaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 315.5
   },
   "right": {
     "id": "a384de1ae1662d5c",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - slides.md",
+                "file": "meetups/meetup 015/meetup 015 - teaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - slides.md",
+                "file": "meetups/meetup 015/meetup 015 - teaser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - slides.md"
+                "file": "meetups/meetup 015/meetup 015 - teaser.md"
               }
             }
           }
@@ -201,8 +201,10 @@
   },
   "active": "d8113dfad2c3e31e",
   "lastOpenFiles": [
-    "meetups/meetup 015/assets/meetup-015.png",
+    "meetups/meetup 014/meetup 014 - teaser.md",
+    "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 015/meetup 015 - slides.md",
+    "meetups/meetup 015/assets/meetup-015.png",
     "meetups/meetup 014/meetup 014 - slides.md",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d.png",
@@ -213,7 +215,6 @@
     "meetups/meetup 014/assets/Meetup #014 - Clip.mp4",
     "meetups/meetup 015/assets",
     "meetups/meetup 015",
-    "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/assets/Meetup #014 - Short.mp4",
     "meetups/meetup 014/assets/01_source/web-serial-narrow.mov",
