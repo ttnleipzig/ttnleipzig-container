@@ -192,6 +192,25 @@ void loop() {
 ```
 
 --
+## Reduces example - write
+
+```cpp
+#include <Arduino.h>
+#include <LittleFS.h>
+
+void setup() {
+	Serial.begin(115200);
+	LittleFS.begin()
+	File file = LittleFS.open("/example.txt", "w");
+	file.print("Hello World!");
+	file.close();
+}
+
+void loop() {
+}
+```
+
+--
 ## Off-boarding
 
 1) 🏁 Was wir heute geschafft haben

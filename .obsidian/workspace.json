@@ -6,6 +6,7 @@
       {
         "id": "2f52d0a163c26395",
         "type": "tabs",
+        "dimension": 64.93506493506493,
         "children": [
           {
             "id": "cb5425596f102c79",
@@ -22,37 +23,24 @@
             }
           },
           {
-            "id": "91e12b74b58d08c9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 013/meetup 013 - slides.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d8113dfad2c3e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
+                "file": "meetups/meetup 015/meetup 015 - slides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "eb4027bfb7a0a79e",
         "type": "tabs",
+        "dimension": 35.064935064935064,
         "children": [
           {
             "id": "a5ff0bdccd27d593",
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
+                "file": "meetups/meetup 015/meetup 015 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
+                "file": "meetups/meetup 015/meetup 015 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md"
+                "file": "meetups/meetup 015/meetup 015 - slides.md"
               }
             }
           }
@@ -201,8 +189,10 @@
   },
   "active": "d8113dfad2c3e31e",
   "lastOpenFiles": [
-    "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 015/meetup 015 - teaser.md",
+    "presentation/youtube/Youtube - Channel texts.md",
+    "meetups/meetup 013/meetup 013 - slides.md",
+    "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 015/meetup 015 - slides.md",
     "meetups/meetup 015/assets/meetup-015.png",
     "meetups/meetup 014/meetup 014 - slides.md",
@@ -215,7 +205,6 @@
     "meetups/meetup 014/assets/Meetup #014 - Clip.mp4",
     "meetups/meetup 015/assets",
     "meetups/meetup 015",
-    "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/assets/Meetup #014 - Short.mp4",
     "meetups/meetup 014/assets/01_source/web-serial-narrow.mov",
     "meetups/meetup 014/assets/01_source/tasmota.mov",
@@ -223,7 +212,6 @@
     "meetups/meetup 014/assets/01_source/web-serial.mov",
     "meetups/meetup 014/assets/01_source",
     "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
-    "presentation/youtube/Youtube - Channel texts.md",
     "assets/logo/ttn-logo.svg",
     "Pasted image 20230323181604.png",
     "meetups/meetup 014/assets/meetup-014.png",
