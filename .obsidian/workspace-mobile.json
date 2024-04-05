@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png"
+                "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png"
               }
             }
           }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
+            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
+            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png"
+            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png"
           }
         }
       }
@@ -129,29 +129,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "736477e57e988f75",
   "lastOpenFiles": [
+    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d.png",
+    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
+    "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
+    "meetups/assets/ai-04/vergissberlin_software_5f235f4b-5c1b-4b82-b211-a16373d3a6f8.png",
+    "meetups/assets/ai-04/vergissberlin_microcontroller_cdda940d-b490-4980-8f1a-49d15d5d0d5f.png",
+    "meetups/assets/ai-04/vergissberlin_matrix_computer_ca057a7f-a53f-4209-a2cb-c52ffdcb47ea.png",
+    "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
     "meetups/meetup 008/assets/MeetUp 008.png",
     "presentation/assets/logo/ttnle-logo-500.jpg",
     "assets/drawings/regenfass.png",
     "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_5e65ba14-4e14-44b9-856f-deb57fcee9e3.png",
-    "assets/hardware/board/hardware-board-heltec-esp32lora-pinout.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "presentation/assets/logo/ttnle-logo.svg",
-    "meetups/meetup 003/assets/Meetup #003 - Twitter.png",
-    "Pasted image 20230323181604.png",
-    "meetups/meetup 005/assets/Meetup #005 - Flyer.png",
-    "meetups/meetup 006/assets/01_source/antenna.jpeg",
-    "meetups/meetup 005/assets/Meetup #005 - TTN.png",
     "meetups/meetup 007/assets/Meetup #007 - Flyer - Tunnel.pdf",
     "meetups/meetup 005/meetup 005 - slides.md",
     "meetups/meetup 007/assets/Meetup #007 - Flyer - Sponsor.pdf",
