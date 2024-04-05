@@ -63,12 +63,6 @@ Erzähler: "Sind Sie bereit, Ihr nächstes Projekt mit LittleFS anzupacken? Scha
 
 ### LinkedIn Carousel
 
-Erstelle ein Skript für ein seriöses LinkedIn Carousel der LittleFS erklärt:
-
- LinkedIn Carousels sind eine beliebte Methode, um Informationen in einem visuell ansprechenden und leicht verdaulichen Format zu präsentieren. Für ein seriöses LinkedIn Carousel, das LittleFS erklärt – ein Dateisystem für Mikrocontroller, das speziell für die Verwendung in Umgebungen mit wenig Speicher ausgelegt ist – könnten wir folgendes Skript erstellen:
-
----
-
 **Slide 1: Titelseite**
 - Bild: Ein repräsentatives Icon oder Bild von einem Mikrocontroller oder Speicherchip.
 - Überschrift: "Einführung in LittleFS - Das robuste Dateisystem für IoT-Geräte"
