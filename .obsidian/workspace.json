@@ -6,7 +6,7 @@
       {
         "id": "2f52d0a163c26395",
         "type": "tabs",
-        "dimension": 64.93506493506493,
+        "dimension": 50,
         "children": [
           {
             "id": "cb5425596f102c79",
@@ -33,17 +33,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a423ed013bac2b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "eb4027bfb7a0a79e",
+        "id": "b07b277683b6f86d",
         "type": "tabs",
-        "dimension": 35.064935064935064,
+        "dimension": 50,
         "children": [
           {
-            "id": "a5ff0bdccd27d593",
+            "id": "47a3c2a7c2237505",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -187,7 +197,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8113dfad2c3e31e",
+  "active": "2a423ed013bac2b5",
   "lastOpenFiles": [
     "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",
     "meetups/meetup 015/meetup 015 - slides.md",
