@@ -1,13 +1,16 @@
-x# Media
+# Media
+
+## Text
+
+Diesmal sprechen wir über LittleFS, das robuste Filesystem für Mikrocontroller. Im Speziellen schauen wir uns an, wie es zum Lesen und Schreiben von Konfigurationsdaten geeignet ist.
+LittleFS ist ein Dateisystem, das speziell für Mikrocontroller und andere Systeme mit eingeschränkten Ressourcen entwickelt wurde. Es zeichnet sich durch seine Robustheit und Einfachheit aus. LittleFS ist besonders nützlich in Anwendungsfällen, bei denen es auf die Integrität der Daten ankommt, wie beispielsweise bei Stromausfällen oder anderen unerwarteten Unterbrechungen.
 
 ## Youtube
  
  Erstelle ein Skript für einen seriösen Youtube Short der LittleFS erklärt:
 
- [Ein kurzer Titelbildschirm erscheint mit dem Text "LittleFS Explained"]
-
+[Ein kurzer Titelbildschirm erscheint mit dem Text "LittleFS Explained"]
 [Eine angenehme Hintergrundmusik setzt ein, nicht zu aufdringlich]
-
 [Der Erzähler beginnt freundlich und klar zu sprechen]
 
 Erzähler: "Willkommen, Tech-Enthusiasten! Heute werfen wir einen kurzen Blick auf LittleFS, das kleine Dateisystem, das in der Welt der eingebetteten Systeme große Wellen schlägt."
@@ -588,3 +591,5 @@ Stellen Sie sicher, dass alle Verbindungen korrekt sind und dass Ihr Chip ordnun
     - **Nicht mischbar**: SPIFFS und LittleFS haben zwar eine kompatible API, aber inkompatible Implementierungen auf dem Flash-Speicher. Du musst dich für eines entscheiden und kannst sie nicht mischen.
 
 **Fazit**: Für speicherarme ESP8266-Geräte kann SPIFFS eine Option sein, während für neuere Chips mit größerem Speicher LittleFS empfohlen wird. [Es ist wichtig, die Anforderungen deiner Anwendung zu berücksichtigen und das geeignete Dateisystem auszuwählen](https://github.com/RalphBacon/203-SPIFFS-vs-LITTLEFS)[1](https://github.com/RalphBacon/203-SPIFFS-vs-LITTLEFS)[2](https://randomnerdtutorials.com/esp32-littlefs-arduino-ide/)[3](https://blog.csdn.net/tjcwt2011/article/details/112372524).
+
+
