@@ -59,15 +59,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "16dbc560cf83c14a",
+        "id": "9d1168fb48524234",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "28f4da2b4b406a3c",
+            "id": "4da1a70df8cafc23",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info.md",
+                "file": "meetups/meetup 015/meetup 015 - teaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info.md",
+                "file": "meetups/meetup 015/meetup 015 - teaser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info.md"
+                "file": "meetups/meetup 015/meetup 015 - teaser.md"
               }
             }
           }
@@ -211,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3b0bdb6b4e0c6ee",
+  "active": "2a423ed013bac2b5",
   "lastOpenFiles": [
-    "meetups/meetup 015/meetup 015 - teaser.md",
     "Info.md",
+    "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 015/assets/Meetup #015 - Youtube Short.mp4",
     "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",
     "meetups/meetup 015/meetup 015 - slides.md",
