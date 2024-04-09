@@ -6,7 +6,6 @@
       {
         "id": "2f52d0a163c26395",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "cb5425596f102c79",
@@ -32,46 +31,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2a423ed013bac2b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b0bdb6b4e0c6ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8e6a6082ede8d97a",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "b306fa2056fabe94",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -148,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 015/meetup 015 - teaser.md"
+                "file": "presentation/youtube/Youtube - Channel texts.md"
               }
             }
           }
@@ -211,14 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a423ed013bac2b5",
+  "active": "cb5425596f102c79",
   "lastOpenFiles": [
+    "meetups/meetup 015/meetup 015 - slides.md",
     "Info.md",
+    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 015/assets/Meetup #015 - Youtube Short.mp4",
     "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",
-    "meetups/meetup 015/meetup 015 - slides.md",
-    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/meetup 014 - teaser.md",
     "meetups/meetup 015/assets/meetup-015.png",
