@@ -33,6 +33,21 @@
               }
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ed754c1ed56a5b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6dd2a2c8b8ee6d",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
         ]
       }
     ],
@@ -107,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md",
+                "file": "meetups/meetup 015/meetup 015 - slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md",
+                "file": "meetups/meetup 015/meetup 015 - slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md"
+                "file": "meetups/meetup 015/meetup 015 - slides.md"
               }
             }
           }
@@ -170,11 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb5425596f102c79",
+  "active": "d8113dfad2c3e31e",
   "lastOpenFiles": [
+    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 015/meetup 015 - slides.md",
     "Info.md",
-    "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 015/assets/Meetup #015 - Youtube Short.mp4",
     "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",

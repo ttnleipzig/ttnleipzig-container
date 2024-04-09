@@ -123,8 +123,9 @@ Verfügbare **Dateisysteme** für **Mikrocontroller**:
     - YAFFS ist ein speziell für NAND-Flash-Speicher entwickeltes Dateisystem.
     - Es bietet hohe Zuverlässigkeit und Wear-Leveling-Funktionen.
     -->
-5) **JFFS2 (Journalling Flash File System 2)**
+5) **JFFS2**
     <!--
+    (Journalling Flash File System 2)
     - JFFS2 ist ein Linux-Dateisystem, das für NOR-Flash-Speicher optimiert ist.
     - Es verwendet ein Journaling-System, um Datenintegrität sicherzustellen.
     -->
