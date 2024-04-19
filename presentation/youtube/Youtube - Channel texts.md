@@ -12,7 +12,6 @@ TTN Meetup Leipzig - Bastelrunde mit Microcontrollern
 **Beschreibung**
 
 ```
-
 👥 MeetUp Leipzig
 
 Hallo! Den Einstieg in das *Internet der Dinge* zu finden ist oft nicht einfach. Es gibt viele Themen mit denen man in Berührung kommt und jedesmal stößt man auf Probleme, die es zu lösen gilt. Wir vom LoRaWAN Meetup in Leipzig bieten Dir als Einsteiger zu lernen einen Microkontroller zu Programmieren, Sensoren anzuschließen und über Funk an das *The Things Network* zu übertragen. Anhand eines Beispielprojektes gehen wir von Anfang an bis zum Ende und lassen uns auch Zeit für Details; Niemand bleibt zurück.
@@ -36,7 +35,6 @@ Homepage: https://ttn-leipzig.de
 Meetup:   https://www.meetup.com/de-DE/lorawan-leipzig-usergroup/
 TTN:      https://www.thethingsnetwork.org/community/leipzig/
 X:        twitter.com/ttnleipzig
-
 ```
 
 **Beschreibung lang**
