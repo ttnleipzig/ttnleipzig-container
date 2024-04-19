@@ -20,31 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d8113dfad2c3e31e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "meetups/meetup 016/assets/meetup-016.png"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ead108c6f4f1d794",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f54b4589ddc2e00",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 016/assets/meetup-016.png",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 016/assets/meetup-016.png",
+                "file": "presentation/youtube/Youtube - Channel texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 016/assets/meetup-016.png"
+                "file": "presentation/youtube/Youtube - Channel texts.md"
               }
             }
           }
@@ -185,6 +160,9 @@
   },
   "active": "eb23514f1d68fa25",
   "lastOpenFiles": [
+    "meetups/meetup 016/assets/Meetup #016 - Flyer - Sponsor.pdf",
+    "meetups/meetup 016/assets/Meetup #016 - TTN.jpg",
+    "meetups/meetup 016/assets/Meetup #016 - Twitter.png",
     "meetups/meetup 016/meetup 016 - slides.md",
     "meetups/meetup 016/assets/meetup-016.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_793c1f49-cce9-4e8a-812f-25c45989bea9.png",
@@ -194,7 +172,6 @@
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0e6c67c5-3631-457b-89dd-239b771b130d.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
     "meetups/meetup 016/Untitled.canvas",
     "meetups/meetup 016/assets",
     "meetups/meetup 015/meetup 015 - teaser.md",
@@ -206,7 +183,6 @@
     "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",
     "meetups/meetup 013/meetup 013 - slides.md",
     "meetups/meetup 014/meetup 014 - teaser.md",
-    "meetups/meetup 015/assets/meetup-015.png",
     "meetups/meetup 014/meetup 014 - slides.md",
     "meetups/meetup 015/assets/Meetup #015 - Flyer - Sponsor.pdf",
     "meetups/meetup 014/assets/Meetup #014 - Clip.mp4",
