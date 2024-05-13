@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 016/meetup 016 - slides.md",
+                "file": "meetups/meetup 016/meetup 016 - teaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 016/meetup 016 - slides.md",
+                "file": "meetups/meetup 016/meetup 016 - teaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 016/meetup 016 - slides.md",
+                "file": "meetups/meetup 016/meetup 016 - teaser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 016/meetup 016 - slides.md"
+                "file": "meetups/meetup 016/meetup 016 - teaser.md"
               }
             }
           }
@@ -189,12 +189,12 @@
   },
   "active": "22175bdd4b345268",
   "lastOpenFiles": [
+    "meetups/meetup 015/meetup 015 - teaser.md",
+    "meetups/meetup 016/meetup 016 - slides.md",
     "meetups/meetup 016/meetup 016 - teaser.md",
     "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 016/assets/meetup-016.png",
-    "meetups/meetup 016/meetup 016 - slides.md",
     "meetups/meetup 016/Untitled.canvas",
-    "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 016/assets/Meetup #016 - Flyer - Sponsor.pdf",
     "meetups/meetup 016/assets/Meetup #016 - TTN.jpg",
     "meetups/meetup 016/assets/Meetup #016 - Twitter.png",

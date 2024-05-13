@@ -83,7 +83,7 @@ h1, h2 {
 1) Konfiguration über die Weboberfläche
 1) Web: Daten codieren und senden
 1) Controller: Decoding und Speicherung
-2) Controller: Lesen und verwenden
+1) Controller: Lesen und verwenden
 </grid>
 
 ---
