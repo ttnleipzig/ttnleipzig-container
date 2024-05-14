@@ -17,9 +17,9 @@ h1, h2 {
 
 <!-- slide bg="[[meetup-016.png]]" data-auto-animate     -->
 
-# Bastelrunde 
+# Bastelrunde
 <!-- element style="padding-top: 30%; text-shadow: 4px 4px 2px 2px #000;" -->
-## #016 Konfigurationsdaten mit dem Browser bearbeiten
+## #016 Config im Browser
 
 <!-- element style="text-shadow: 4px 4px 2px 2px #000" -->
 
@@ -85,6 +85,10 @@ h1, h2 {
 1) Controller: Decoding und Speicherung
 1) Controller: Lesen und verwenden
 </grid>
+
+---
+
+![[website-config.png]]
 
 ---
 ## Off-boarding
