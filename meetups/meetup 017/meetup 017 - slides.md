@@ -15,7 +15,7 @@ h1, h2 {
 }
 </style>
 
-<!-- slide bg="[[meetup-016.png]]" data-auto-animate     -->
+<!-- slide bg="[[meetup-017.png]]" data-auto-animate     -->
 
 # Bastelrunde
 <!-- element style="padding-top: 30%; text-shadow: 4px 4px 2px 2px #000;" -->

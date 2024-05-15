@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/meetup 016/016 Meetup - ToDo.md",
+                "file": "meetups/meetup 017/regenfass short.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 016/016 Meetup - ToDo.md",
+                "file": "meetups/meetup 017/regenfass short.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 016/016 Meetup - ToDo.md",
+                "file": "meetups/meetup 017/regenfass short.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 016/016 Meetup - ToDo.md"
+                "file": "meetups/meetup 017/regenfass short.md"
               }
             }
           }
@@ -173,19 +173,22 @@
   },
   "active": "3e2803ff0a27cc4b",
   "lastOpenFiles": [
-    "meetups/meetup 016/meetup 016 - slides.md",
+    "meetups/meetup 017/meetup 017 - teaser.md",
+    "meetups/meetup 017/regenfass short.md",
+    "meetups/meetup 017/meetup 017 - slides.md",
+    "meetups/meetup 016/assets/03_product/meetup-016.png",
+    "meetups/meetup 016/assets/03_product/Meetup #016 - TTN.jpg",
     "meetups/meetup 016/016 Meetup - ToDo.md",
+    "meetups/meetup 016/meetup 016 - slides.md",
     "presentation/youtube/Youtube - Channel texts.md",
     "meetups/meetup 016/assets/02_source/website-config.png",
     "Pasted image 20230323181604.png",
-    "meetups/meetup 016/assets/03_product/meetup-016.png",
     "meetups/meetup 016/assets/03_product/Meetup #016 - Twitter.png",
     "meetups/meetup 016/assets/03_product/Meetup #016 - Short.mp4",
     "meetups/meetup 016/meetup 016 - teaser.md",
     "meetups/meetup 015/meetup 015 - teaser.md",
     "meetups/meetup 016/Untitled.canvas",
     "meetups/meetup 016/assets/03_product/Meetup #016 - Flyer - Sponsor.pdf",
-    "meetups/meetup 016/assets/03_product/Meetup #016 - TTN.jpg",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_793c1f49-cce9-4e8a-812f-25c45989bea9.png",
     "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1.png",
     "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
@@ -216,9 +219,6 @@
     "meetups/meetup 012/meetup 012 - slides.md",
     "meetups/meetup 011/meetup 011 - slides.md",
     "meetups/meetup 012/assets.md",
-    "meetups/meetup 007/meetup 007 - slides.md",
-    "meetups/meetup 011/meetup 010 - slides 1.md",
-    "meetups/meetup 010/meetup 010 - slides.md",
-    "meetups/meetup 008/meetup 008 - slides.md"
+    "meetups/meetup 007/meetup 007 - slides.md"
   ]
 }

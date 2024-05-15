@@ -6,7 +6,7 @@
 
 ---
 
-## Bastelrunde 016
+## Bastelrunde 017
 
 Über den universellen seriellen Anschluss kann man mit der Serial Web API Daten von einem Browser zu einem Microcontroller übertragen. Diesen Umstand können wir nutzen, um  
 
