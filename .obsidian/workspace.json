@@ -1,54 +1,37 @@
 {
   "main": {
-    "id": "d4d90aa4ae77fa57",
+    "id": "7885e1707e1e3cff",
     "type": "split",
     "children": [
       {
-        "id": "2f52d0a163c26395",
+        "id": "99c1738f143a9371",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5425596f102c79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "presentation/youtube/Youtube - Channel texts.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3e2803ff0a27cc4b",
+            "id": "c75e1da2c0e59abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "meetups/meetup 017/regenfass short.md",
-                "mode": "source",
-                "source": false
+                "file": "meetups/meetup 017/Drawing 2024-05-22 12.52.17.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "932f14f633134849",
+    "id": "072efbeffe4fbb1d",
     "type": "split",
     "children": [
       {
-        "id": "06f0dbcd5af2e8de",
+        "id": "26683d5f78360c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "eb23514f1d68fa25",
+            "id": "a01cd2afddfbd34f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +41,12 @@
             }
           },
           {
-            "id": "0ac02882f14e73b0",
+            "id": "010985bfdc331c93",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "device",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,15 +56,7 @@
             }
           },
           {
-            "id": "118618ad7963c6eb",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9967d27d90cdf4d",
+            "id": "3096e7c3094b6d77",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,27 +67,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 300
   },
   "right": {
-    "id": "a384de1ae1662d5c",
+    "id": "72db0b5349a62976",
     "type": "split",
     "children": [
       {
-        "id": "3b99f0f39de5e148",
+        "id": "eef3ba0100803e83",
         "type": "tabs",
         "children": [
           {
-            "id": "337e60c0c4eef271",
+            "id": "251f5ab46600e97d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 017/regenfass short.md",
+                "file": "meetups/meetup 017/Drawing 2024-05-22 12.52.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -120,19 +95,19 @@
             }
           },
           {
-            "id": "229ad2be21f2832e",
+            "id": "3c0e363f9ab69eba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/meetup 017/regenfass short.md",
+                "file": "meetups/meetup 017/Drawing 2024-05-22 12.52.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "455a85ea86b2c617",
+            "id": "e39f0b2293382857",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,12 +118,12 @@
             }
           },
           {
-            "id": "377b554e71893249",
+            "id": "5d603f26c2a55c8a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/meetup 017/regenfass short.md"
+                "file": "meetups/meetup 017/Drawing 2024-05-22 12.52.17.excalidraw.md"
               }
             }
           }
@@ -156,69 +131,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3e2803ff0a27cc4b",
+  "active": "c75e1da2c0e59abd",
   "lastOpenFiles": [
-    "meetups/meetup 017/meetup 017 - teaser.md",
-    "meetups/meetup 017/regenfass short.md",
     "meetups/meetup 017/meetup 017 - slides.md",
-    "meetups/meetup 016/assets/03_product/meetup-016.png",
-    "meetups/meetup 016/assets/03_product/Meetup #016 - TTN.jpg",
-    "meetups/meetup 016/016 Meetup - ToDo.md",
-    "meetups/meetup 016/meetup 016 - slides.md",
-    "presentation/youtube/Youtube - Channel texts.md",
-    "meetups/meetup 016/assets/02_source/website-config.png",
-    "Pasted image 20230323181604.png",
-    "meetups/meetup 016/assets/03_product/Meetup #016 - Twitter.png",
-    "meetups/meetup 016/assets/03_product/Meetup #016 - Short.mp4",
-    "meetups/meetup 016/meetup 016 - teaser.md",
-    "meetups/meetup 015/meetup 015 - teaser.md",
-    "meetups/meetup 016/Untitled.canvas",
-    "meetups/meetup 016/assets/03_product/Meetup #016 - Flyer - Sponsor.pdf",
-    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_793c1f49-cce9-4e8a-812f-25c45989bea9.png",
-    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_248946c9-3233-4bf4-9b03-50cb103d68d1.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_96ad1191-b9be-42a5-946b-2125051f74a4.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_2a8941ce-2e0e-4796-81e4-a0ce7135eb1a.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0e6c67c5-3631-457b-89dd-239b771b130d.png",
-    "meetups/meetup 016/assets",
-    "meetups/meetup 016",
-    "meetups/meetup 015/meetup 015 - slides.md",
-    "Info.md",
-    "meetups/meetup 015/assets/Meetup #015 - Youtube Short.mp4",
-    "meetups/meetup 015/assets/Meetup #015 - LinkedIn.pdf",
-    "meetups/meetup 013/meetup 013 - slides.md",
-    "meetups/meetup 014/meetup 014 - teaser.md",
-    "meetups/meetup 014/meetup 014 - slides.md",
-    "meetups/meetup 015/assets/Meetup #015 - Flyer - Sponsor.pdf",
-    "meetups/meetup 014/assets/Meetup #014 - Clip.mp4",
-    "meetups/meetup 015/assets",
-    "meetups/meetup 015",
-    "meetups/meetup 014/Web Serial API und ESP32 Tutorial.md",
-    "meetups/meetup 013/promotion.md",
-    "presentation/youtube/Youtube - Info.md",
-    "meetups/meetup 012/assets/build-pipeline.excalidraw.md",
-    "meetups/meetup 012/assets/build-pipeline-feature.excalidraw.md",
-    "meetups/meetup 012/Ankündigung.md",
-    "presentation/E-Mail Footer.md",
-    "presentation/Cooperate Identity.md",
-    "meetups/meetup 000/Vorlagen/meetup 000 - advertisement.md",
-    "meetups/meetup 012/meetup 012 - slides.md",
-    "meetups/meetup 011/meetup 011 - slides.md",
-    "meetups/meetup 012/assets.md",
-    "meetups/meetup 007/meetup 007 - slides.md"
+    "meetups/meetup 017/Drawing 2024-05-22 12.52.17.excalidraw.md"
   ]
 }
