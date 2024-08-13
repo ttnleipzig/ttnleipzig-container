@@ -13,9 +13,52 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png"
+                "file": "meetups/assets/ai-03/Meetup-018.png"
               }
-            }
+            },
+            "group": "1154ca3e09d04b8a"
+          }
+        ]
+      },
+      {
+        "id": "5aad41f71e1a82f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143f676e0a35888c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "meetups/assets/ai-03/Meetup-018.png",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "1154ca3e09d04b8a"
           }
         ]
       }
@@ -91,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
+            "file": "meetups/assets/ai-03/Meetup-018.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
+            "file": "meetups/assets/ai-03/Meetup-018.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png"
+            "file": "meetups/assets/ai-03/Meetup-018.png"
           }
         }
       }
@@ -138,19 +181,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "736477e57e988f75",
+  "active": "2a4c1e785f8bb6e2",
   "lastOpenFiles": [
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_waiting_on_a_bus_stop_0c650baa-915b-4785-b186-f4650ea7810d 1.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
-    "meetups/assets/ai-04/vergissberlin_software_5f235f4b-5c1b-4b82-b211-a16373d3a6f8.png",
-    "meetups/assets/ai-04/vergissberlin_microcontroller_cdda940d-b490-4980-8f1a-49d15d5d0d5f.png",
-    "meetups/assets/ai-04/vergissberlin_matrix_computer_ca057a7f-a53f-4209-a2cb-c52ffdcb47ea.png",
-    "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
-    "meetups/meetup 008/assets/MeetUp 008.png",
-    "presentation/assets/logo/ttnle-logo-500.jpg",
-    "assets/drawings/regenfass.png",
+    "meetups/meetup 018/assets/01_source",
+    "meetups/meetup 018/assets",
+    "meetups/meetup 018",
+    "meetups/assets/ai-03/vergissberlin_young_engineers_with_soldering_irons_in_a_casual__84d63705-0490-4050-9b33-b816de57448e.png",
+    "meetups/assets/ai-03/Meetup-018.png",
+    "meetups/assets/ai-03/vergissberlin_young_engineers_with_soldering_irons_in_a_casual__a91a0132-b446-4765-a4a6-f60c266eea84.png",
+    "meetups/assets/ai-03/vergissberlin_young_engineers_with_soldering_irons_in_a_casual__1f2e9176-9abe-4f66-bf48-7e44b0824b96.png",
+    "meetups/assets/ai-03/vergissberlin_people_in_a_Meeting_room_with_water_drops_from_th_8563bd67-a566-421e-862f-590c1f67f9ac.png",
+    "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_673992ed-f331-4029-9c5c-5a4412d3ad0f.png",
     "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_5e65ba14-4e14-44b9-856f-deb57fcee9e3.png",
+    "meetups/assets/ai-10/vergissberlin_Microcontroller_with_a_happy_ending_fe2dc6f8-c423-4b2f-9022-362e9afe8779.png",
+    "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
+    "meetups/assets/ai-04/vergissberlin_matrix_computer_ca057a7f-a53f-4209-a2cb-c52ffdcb47ea.png",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "meetups/meetup 007/assets/Meetup #007 - Flyer - Tunnel.pdf",
     "meetups/meetup 005/meetup 005 - slides.md",

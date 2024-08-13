@@ -1,25 +1,21 @@
 
-1. Web: Konfiguration über die Weboberfläche
-2. Web: Daten codieren und senden
-3. Controller: Decoding und Speicherung
-4. Controller: Lesen und verwenden
+1. Controller: Decoding und Speicherung
+2. Controller: Lesen und verwenden
 
 ---
 
-## Bastelrunde 017
+## Bastelrunde 017 - Mit dem eigenem Protokoll arbeiten
 
-Über den universellen seriellen Anschluss kann man mit der Serial Web API Daten von einem Browser zu einem Microcontroller übertragen. Diesen Umstand können wir nutzen, um  
+Wir haben unser eigenes Protokoll definiert. Nun gilt es mit dem Mikrocontroller die codierten Daten über den Serial Port zu empfangen und damit zu arbeiten. Für unsere Konfigurationsdaten heißt dies konkret, dass wir die Daten speichern und im Programmablauf zu verwenden. Im nächsten Schritt werden wir dann vom Mikrocontroller wieder über die serielle Schnittstelle Statusmeldungen an den Browser senden, um dort über den Erfolg, oder Misserfolg der Operation zu informieren. Auch soll es möglich sein, die aktuelle Programmversion abzufragen, die auf dem Mikrocontroller installiert ist.
 
-1. in einem Webformular Daten einzugeben, 
-2. sie zu kodieren, 
-3. sie über die API zu versenden,
-4. auf dem Microcontroller zu dekodieren,
-5. und zu verwenden.
-
-Für das Kodieren und Dekodieren ist es notwendig, das wir uns Regeln definieren, wie diese Daten strukturiert sein sollen. Wir definieren unser eigenes Protokoll. Auf der Seite des Mikrocontrollers dekodieren wir die Daten, speichern sie im lokalen Dateisystem und verwenden sie anschließend im Programmablauf.
+Wie immer beim #LoRaWAN #Meetup #Leipzig nehmen wir uns die Zeit um tiefer in die Materie einzusteigen, um ein genaues Verständnis von den Vorgängen zu erlangen.
 
 **#meetup** **#lora** **#leipzig**
 
+
 ---
-### Meetup
-In diesem Meetup schauen wir uns speziell die ersten vier Schritte genauer an. 
+
+Wenn Du möchtest, dass sich ein Browser und ein Microcontroller unterhalten, dann müssen sie die gleiche Sprache sprechen um sich zu verstehen. Die Web Serial API des Browser ermöglicht Dir generell einen Kommunkationskanal zu öffnen, doch ist damit nicht geregelt wie die Unterhaltung ablaufen kann und soll. Hier musst Du selbst aktiv werden und Dir überlegen wie Du die Daten Strukturierst, damit sie die Gegenstelle entziffern kann.
+Für unser Projekt Regenfass haben wir uns ein spezielles Format überlegt, damit wir die Konfigurationdaten die wir im Browser eingegeben haben, im Microcontroller auch speichern und im Programmablauf verwenden können.
+
+Die Kommunikation über die Serielle Schnittstelle ist keine Einbahnstraße. Du kannst auch Daten vom Mikrocontroller an deinen Browser schicken. Inhalte können hier z.B. Statusmeldungen, Softwareversionsnummer, oder auch Sensordaten sein.
