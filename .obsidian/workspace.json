@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "99c1738f143a9371",
+        "id": "e2f9d209dda04a64",
         "type": "tabs",
         "children": [
           {
-            "id": "c75e1da2c0e59abd",
+            "id": "2b2711c60b105634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "politics/networking/Partner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43aebb0782f24c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EDEKA Solace.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politics/networking/Partner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politics/networking/Partner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "politics/networking/Partner.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +140,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c75e1da2c0e59abd",
+  "active": "2b2711c60b105634",
   "lastOpenFiles": [
-    "politics/networking/WasserTanke.md",
+    "Info.md",
+    "EDEKA Solace.md",
     "politics/networking/Partner.md",
+    "assets/Pasted image 20230323181604.png",
+    "politics/networking/WasserTanke.md",
     "meetups/meetup 019/meetup 019 - teaser.md",
     "meetups/meetup 018/meetup 018 - teaser.md",
     "meetups/meetup 019/meetup 019 - slides.md",
@@ -171,7 +154,6 @@
     "meetups/meetup 019/assets/03_product/Meetup #019 - TTN.jpg",
     "meetups/meetup 019/assets/03_product/Meetup #019 - Flyer - Sponsor.pdf",
     "meetups/meetup 019/assets/03_product",
-    "EDEKA Solace.md",
     "meetups/meetup 019/assets/meetup-019.png",
     "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_673992ed-f331-4029-9c5c-5a4412d3ad0f.png",
     "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_5e65ba14-4e14-44b9-856f-deb57fcee9e3.png",
@@ -179,7 +161,6 @@
     "meetups/assets/ai-04/vergissberlin_matrix_computer_ca057a7f-a53f-4209-a2cb-c52ffdcb47ea.png",
     "meetups/assets/ai-04/vergissberlin_microcontroller_cdda940d-b490-4980-8f1a-49d15d5d0d5f.png",
     "meetups/assets/ai-04/vergissberlin_software_5f235f4b-5c1b-4b82-b211-a16373d3a6f8.png",
-    "meetups/assets/ai-10/vergissberlin_micro_controller_laying_on_snow_in_the_wood_night_44319f27-7ce0-4b3c-b4c6-24bf05fd2342.png",
     "meetups/meetup 018/meetup 018 - slides.md",
     "meetups/meetup 019/assets",
     "meetups/meetup 019",
