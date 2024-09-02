@@ -11,7 +11,25 @@
             "id": "2b2711c60b105634",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "presentation/assets/E-Mail Footer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "620e355e26793062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd00f22c657eb8bf",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -65,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 788.5
   },
   "right": {
     "id": "72db0b5349a62976",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "presentation/assets/E-Mail Footer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "presentation/assets/E-Mail Footer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "presentation/assets/E-Mail Footer.md"
+              }
             }
           }
         ]
@@ -140,38 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b2711c60b105634",
+  "active": "a01cd2afddfbd34f",
   "lastOpenFiles": [
+    "presentation/assets/Cooperate Identity.md",
+    "meetups/meetup 021/meetup 021 - teaser.md",
+    "meetups/meetup 021/assets/03_product/Meetup #021 - Flyer - Sponsor.pdf",
+    "meetups/meetup 021/meetup 021 - slides.md",
+    "meetups/meetup 020/meetup 020 - slides.md",
+    "meetups/meetup 021/assets/01_source/meetup-021.png",
+    "meetups/assets/ai-02/vergissberlin_Junger_Mann_mit_Regenfass_in_seinem_Schrebergarte_101013a4-0743-49bc-b2b3-1b80bbcf1bfc copy.png",
+    "meetups/assets/ai-02/vergissberlin_Junger_Mann_mit_Regenfass_in_seinem_Schrebergarte_a2544e6d-7edc-4556-8a6b-6e0cec68a079.png",
+    "meetups/assets/ai-02/vergissberlin_lofi_girl_with_a_microcontroller_48ffdb1a-b567-4f37-a7be-8635252da102.png",
+    "meetups/assets/ai-02/vergissberlin_lofi_girl_with_a_microcontroller_55ba74ab-374f-433f-8d59-cf9b3d35869b.png",
+    "meetups/assets/ai-02/vergissberlin_lofi_girl_with_a_microcontroller_e1f7653f-f2c0-452d-b888-e253dfc02cc2.png",
+    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_17ba6cf4-1d1b-4eba-b3ee-30b9431dd2c1.png",
+    "meetups/assets/ai-02/vergissberlin_man_on_a_roof_top_with_an_antenna_and_a_soldering_dd380b68-6006-4ff5-9b7c-7f333dc09e6b.png",
+    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_0b307019-e15b-4f1f-a5eb-87524cecbafd.png",
+    "meetups/assets/ai-02/vergissberlin_microcontroller_combined_with_a_bug_28dbc693-41c3-4bd7-8590-8c14004b3c67.png",
+    "meetups/meetup 020/meetup 020 - teaser.md",
+    "meetups/meetup 021/assets/03_product",
+    "meetups/meetup 021/assets/01_source",
+    "meetups/meetup 021/assets",
+    "meetups/meetup 021",
+    "meetups/meetup 019/meetup 019 - slides.md",
+    "meetups/meetup 020/assets/01_source",
+    "meetups/meetup 020/assets/untitled folder",
+    "meetups/meetup 020/assets/03_product/Meetup #020 - Flyer - Sponsor.pdf",
+    "meetups/meetup 020/assets/03_product",
+    "meetups/meetup 020/assets",
     "Info.md",
     "EDEKA Solace.md",
     "politics/networking/Partner.md",
-    "assets/Pasted image 20230323181604.png",
     "politics/networking/WasserTanke.md",
     "meetups/meetup 019/meetup 019 - teaser.md",
     "meetups/meetup 018/meetup 018 - teaser.md",
-    "meetups/meetup 019/meetup 019 - slides.md",
-    "meetups/meetup 019/assets/03_product/Meetup #019 - Twitter.png",
-    "meetups/meetup 019/assets/03_product/Meetup #019 - TTN.jpg",
-    "meetups/meetup 019/assets/03_product/Meetup #019 - Flyer - Sponsor.pdf",
-    "meetups/meetup 019/assets/03_product",
-    "meetups/meetup 019/assets/meetup-019.png",
-    "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_673992ed-f331-4029-9c5c-5a4412d3ad0f.png",
-    "meetups/assets/ai-03/vergissberlin_Meetup_with_young_people_with_microcontrollers_in_5e65ba14-4e14-44b9-856f-deb57fcee9e3.png",
-    "meetups/assets/ai-04/vergissberlin_background_image_garden_3e84a53c-008d-47c9-8fe0-894e9f16594c.png",
-    "meetups/assets/ai-04/vergissberlin_matrix_computer_ca057a7f-a53f-4209-a2cb-c52ffdcb47ea.png",
-    "meetups/assets/ai-04/vergissberlin_microcontroller_cdda940d-b490-4980-8f1a-49d15d5d0d5f.png",
-    "meetups/assets/ai-04/vergissberlin_software_5f235f4b-5c1b-4b82-b211-a16373d3a6f8.png",
     "meetups/meetup 018/meetup 018 - slides.md",
-    "meetups/meetup 019/assets",
-    "meetups/meetup 019",
-    "meetups/meetup 018/assets/03_product/Meetup #018 - LinkedIn.mp4",
     "meetups/meetup 017/meetup 017 - slides.md",
-    "meetups/meetup 018/assets/03_product/Meetup #018 - Flyer - Sponsor.pdf",
-    "meetups/meetup 018/assets/03_product",
     "meetups/meetup 017/meetup 017 - teaser.md",
-    "meetups/meetup 018/assets/01_source",
-    "meetups/meetup 018/assets",
-    "meetups/meetup 018",
     "meetups/meetup 017/ExcallySlide.excalidraw.md",
     "meetups/meetup 017/017 Meetup - ToDo.md",
     "meetups/meetup 017/regenfass short.md"
