@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4096df0f212598d7",
+        "id": "77c3ddfbbfc74c98",
         "type": "tabs",
         "children": [
           {
-            "id": "02a582d8a7e3c5bc",
+            "id": "2cf5370e94c09861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/regenfass/Deutschland Gießt Workshop.md",
+                "file": "projects/kieks.me slides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutschland Gießt Workshop"
+              "title": "kieks.me slides"
+            }
+          }
+        ]
+      },
+      {
+        "id": "76028f8cc0a39fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc50f2c5971d563",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/regenfass/Deutschland Gießt Workshop.md",
+                "file": "meetups/meetup 024/meetup 024 - teaser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deutschland Gießt Workshop"
+              "title": "Backlinks for meetup 024 - teaser"
             }
           },
           {
@@ -165,16 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02a582d8a7e3c5bc",
+  "active": "7cc50f2c5971d563",
   "lastOpenFiles": [
+    "projects/kieks.me slides.md",
+    "Excalidraw/Scripts/Downloaded/GPT-Draw-a-UI.svg",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/GPT-Draw-a-UI.md",
+    "meetups/meetup 024/meetup 024 - teaser.md",
+    "meetups/meetup 024/meetup 024 - slides.md",
+    "projects/regenfass/Deutschland Gießt Workshop.md",
     "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
     "regenfass/Deutschland Gießt Workshop.md",
     "projects/regenfass/Regenfass UML.md",
     "projects/regenfass/Regenfass Flow 2.0.0.md",
-    "projects/regenfass/Deutschland Gießt Workshop.md",
     "projects/regenfass",
     "projects",
-    "meetups/meetup 024/meetup 024 - teaser.md",
     "meetups/meetup 023/meetup 023 - teaser.md",
     "meetups/meetup 023/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
     "regenfass/Regenfass UML.md",
@@ -189,10 +211,8 @@
     "projects/regenfass/planning/ima_95b1541.jpeg",
     "projects/regenfass/planning/ima_9e5f11d.jpeg",
     "projects/regenfass/planning/ima_9b4687e.jpeg",
-    "projects/regenfass/planning/ima_7e78caf.jpeg",
     "meetups/meetup 024/assets/03_product/Meetup #024 - Flyer - Sponsor.pdf",
     "projects/regenfass/planning",
-    "meetups/meetup 024/meetup 024 - slides.md",
     "meetups/meetup 024/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
     "meetups/meetup 023/meetup 023 - slides.md",
     "meetups/meetup 024/assets/03_product",
@@ -208,9 +228,6 @@
     "presentation/assets/Cooperate Identity.md",
     "presentation/assets/E-Mail Footer.md",
     "meetups/meetup 020/meetup 020 - slides.md",
-    "meetups/meetup 020/meetup 020 - teaser.md",
-    "meetups/meetup 019/meetup 019 - slides.md",
-    "Info.md",
-    "EDEKA Solace.md"
+    "meetups/meetup 020/meetup 020 - teaser.md"
   ]
 }
