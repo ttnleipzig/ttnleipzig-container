@@ -11,12 +11,14 @@
             "id": "02a582d8a7e3c5bc",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3"
+                "file": "projects/regenfass/Deutschland Gießt Workshop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z"
+              "icon": "lucide-file",
+              "title": "Deutschland Gießt Workshop"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
+                "file": "projects/regenfass/Deutschland Gießt Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z"
+              "title": "Backlinks for Deutschland Gießt Workshop"
             }
           },
           {
@@ -163,15 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a01cd2afddfbd34f",
+  "active": "02a582d8a7e3c5bc",
   "lastOpenFiles": [
+    "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
     "regenfass/Deutschland Gießt Workshop.md",
     "projects/regenfass/Regenfass UML.md",
     "projects/regenfass/Regenfass Flow 2.0.0.md",
     "projects/regenfass/Deutschland Gießt Workshop.md",
     "projects/regenfass",
     "projects",
-    "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
     "meetups/meetup 024/meetup 024 - teaser.md",
     "meetups/meetup 023/meetup 023 - teaser.md",
     "meetups/meetup 023/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
@@ -209,7 +211,6 @@
     "meetups/meetup 020/meetup 020 - teaser.md",
     "meetups/meetup 019/meetup 019 - slides.md",
     "Info.md",
-    "EDEKA Solace.md",
-    "politics/networking/Partner.md"
+    "EDEKA Solace.md"
   ]
 }

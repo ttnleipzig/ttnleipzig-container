@@ -2,7 +2,8 @@
 Open Source Software für Deutschland gießt. Wasserstände messen mit LoRaWAN, dem offenen Funknetzwerk für Sensordaten.
 
 ### Thema und Inhalte
-Wir haben ein vollständiges Konzept für einen smarten Wassertank entwickelt, das von der Messung des Wasserstands über die Datenübertragung per LoRaWAN bis zur Steuerung der Pumpe via Web-Interface und Telegram-Bot reicht. In diesem Workshop stellen wir unser Konzept vor und diskutieren gemeinsam mit den Teilnehmenden, wie es an verschiedene Anforderungen angepasst werden kann.
+
+Wir haben ein Konzept für einen smarten Wassertank entwickelt, das die Messung des Wasserstands über die Datenübertragung per LoRaWAN ermöglichet. In diesem Workshop stellen wir unser Konzept vor und diskutieren gemeinsam mit den Teilnehmenden, wie es an verschiedene Anforderungen angepasst werden kann.
 
 #### Der Workshop gliedert sich in zwei Teile
 
