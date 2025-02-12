@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>regenfass - documentation</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description"
+        content="regenfass enables you to mesure the water level in you tank and send it to LoRanWAN">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <link rel="shortcut icon" href="_media/barrel-transparent.png" type="image/png">
+
+    <!-- OpenGraph -->
+    <meta property="og:title" content="regenfass - documentation" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ttnleipzig.github.io/regenfass-docs/" />
+    <meta property="og:image" content="_media/regenfass-opengraph.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ttnleipzig">
+    <meta name="twitter:creator" content="@ttnleipzig">
+    <meta name="twitter:title" content="regenfass - documentation">
+    <meta name="twitter:description"
+        content="regenfass enables you to mesure the water level in you tank and send it to LoRanWAN">
+    <meta name="twitter:image" content="_media/regenfass-opengraph.png">
+
+    <!-- Google -->
+    <meta itemprop="name" content="regenfass - documentation">
+    <meta itemprop="description"
+        content="regenfass enables you to mesure the water level in you tank and send it to LoRanWAN">
+    <meta itemprop="image" content="_media/regenfass-opengraph.png">
+
+    <!-- Plugins -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+</head>
+
+<body>
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            themeColor: '#209DAD',
+            coverpage: true,
+            maxLevel: 3,
+            mergeNavbar: false,
+            name: 'regenfass',
+            coverpage: ['/', '/de/'],
+            repo: 'https://github.com/ttnleipzig/regenfass-docs',
+            loadSidebar: false,
+            plugins: [
+                EditOnGithubPlugin.create('https://github.com/ttnleipzig/regenfass-docs/blob/main/', null, 'Edit on GitHub')
+            ]
+        }
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+    <!-- ESP Web Tools -->
+    <script type="module" src="https://unpkg.com/esp-web-tools@9/dist/web/install-button.js?module"></script>
+    <link rel="stylesheet" href="_source/styles.css">
+    <style>
+        td:has(img) {
+            width: 50%;
+            vertical-align: top;
+        }
+
+        @media screen and (min-width: 1024px) {
+            td:has(img) {
+                width: 36%;
+            }
+        }
+
+        @media screen and (min-width: 1296px) {
+            td:has(img) {
+                width: 20%;
+            }
+        }
+
+    </style>
+</body>
+
+</html>

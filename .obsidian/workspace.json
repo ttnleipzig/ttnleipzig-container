@@ -4,31 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "77c3ddfbbfc74c98",
+        "id": "ef437e4472986e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf5370e94c09861",
+            "id": "6ec86c622aeec84e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/kieks.me slides.md",
+                "file": "projects/regenfass/Leipzig Gießt/Leipzig Gießt - Slides.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "kieks.me slides"
+              "title": "Leipzig Gießt - Slides"
+            }
+          },
+          {
+            "id": "c46db224ad0ca986",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "projects/regenfass/Leipzig Gießt/media/ttn-gateway.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ttn-gateway"
             }
           }
         ]
       },
       {
-        "id": "76028f8cc0a39fc8",
+        "id": "f1486acd1c0e3031",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc50f2c5971d563",
+            "id": "ab4a5e0678057e61",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -94,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 229.5
   },
   "right": {
     "id": "72db0b5349a62976",
@@ -181,53 +195,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc50f2c5971d563",
+  "active": "ab4a5e0678057e61",
   "lastOpenFiles": [
+    "projects/regenfass/Leipzig Gießt/media/ttn-gateway.md",
+    "projects/regenfass/Leipzig Gießt/media/lora.md",
+    "projects/regenfass/Leipzig Gießt/media/lorawan.md",
+    "projects/regenfass/Leipzig Gießt/Leipzig Gießt - Slides.md",
+    "projects/regenfass/Leipzig Gießt/TTN Leipzig.md",
+    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.light.png",
+    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.md",
+    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.dark.png",
+    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.light.svg",
+    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.dark.svg",
+    "projects/regenfass/Leipzig Gießt/media/lorawan.light.svg",
+    "projects/regenfass/Leipzig Gießt/media/lorawan.dark.png",
+    "projects/regenfass/Leipzig Gießt/media/lorawan.light.png",
+    "projects/regenfass/Leipzig Gießt/media/lorawan.dark.svg",
+    "projects/regenfass/Leipzig Gießt/media/lora.light.png",
+    "projects/regenfass/Leipzig Gießt/media/lora.light.svg",
+    "projects/regenfass/Regenfass UML.md",
+    "projects/regenfass/Leipzig Gießt/test-slide.md",
+    "projects/regenfass/Regenfass Flow 2.0.0.md",
+    "projects/regenfass/Leipzig Gießt",
+    "projects/regenfass/Leipzig Gießt/media",
+    "presentation/slides/Was ist TTN Leipzig/Was ist TTN Leipzig.md",
+    "projects/regenfass/Deutschland Gießt Workshop.md",
+    "meetups/meetup 024/meetup 024 - slides.md",
     "projects/kieks.me slides.md",
-    "Excalidraw/Scripts/Downloaded/GPT-Draw-a-UI.svg",
     "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.md",
     "Excalidraw/Scripts/Downloaded/GPT-Draw-a-UI.md",
     "meetups/meetup 024/meetup 024 - teaser.md",
-    "meetups/meetup 024/meetup 024 - slides.md",
-    "projects/regenfass/Deutschland Gießt Workshop.md",
     "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
     "regenfass/Deutschland Gießt Workshop.md",
-    "projects/regenfass/Regenfass UML.md",
-    "projects/regenfass/Regenfass Flow 2.0.0.md",
     "projects/regenfass",
     "projects",
     "meetups/meetup 023/meetup 023 - teaser.md",
     "meetups/meetup 023/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
     "regenfass/Regenfass UML.md",
     "regenfass/Regenfass Flow 2.0.0.md",
-    "meetups/meetup 024/assets/03_product/regenfass-flow-chart.png",
     "regenfass",
-    "projects/regenfass/planning/ima_15802e4.jpeg",
-    "projects/regenfass/planning/ima_9019ac7.jpeg",
-    "projects/regenfass/planning/ima_2623b38.jpeg",
-    "projects/regenfass/planning/ima_673c7da.jpeg",
-    "projects/regenfass/planning/ima_463e64e.jpeg",
-    "projects/regenfass/planning/ima_95b1541.jpeg",
-    "projects/regenfass/planning/ima_9e5f11d.jpeg",
-    "projects/regenfass/planning/ima_9b4687e.jpeg",
     "meetups/meetup 024/assets/03_product/Meetup #024 - Flyer - Sponsor.pdf",
     "projects/regenfass/planning",
     "meetups/meetup 024/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
     "meetups/meetup 023/meetup 023 - slides.md",
-    "meetups/meetup 024/assets/03_product",
-    "meetups/meetup 024/assets/01_source",
     "meetups/meetup 002/meetup 002 - slides.md",
     "meetups/meetup 022/meetup 022 - teaser.md",
     "meetups/meetup 022/meetup 022 - slides.md",
-    "politics/meetings/001.md",
-    "Excalidraw/Drawing 2024-12-09 13.54.31.excalidraw.md",
-    "meetups/meetup 021/meetup 021 - slides.md",
-    "presentation/slides/Was ist TTN Leipzig/Was ist TTN Leipzig.md",
-    "meetups/meetup 021/meetup 021 - teaser.md",
-    "presentation/assets/Cooperate Identity.md",
-    "presentation/assets/E-Mail Footer.md",
-    "meetups/meetup 020/meetup 020 - slides.md",
-    "meetups/meetup 020/meetup 020 - teaser.md"
+    "politics/meetings/001.md"
   ]
 }

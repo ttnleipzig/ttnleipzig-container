@@ -29,3 +29,27 @@ Die Teilnehmer:innen erhalten Einblicke in die Entwicklung eines durchdachten Io
 
 #### Maximale Teilnehmerzahl
 - 10–15 Personen für eine effektive Diskussion
+
+---
+
+
+## Todo
+
+- 21.03
+- **Präsentation**
+	- Was ist LoRa und LoRanWAN
+	- Welches Problem wollen wir lösen
+- PoC
+
+### App
+
+- Karte mit
+	- Containern
+	- Bäumen
+	- Adresssuche
+- Baum
+	- Gießstatus
+	- Gießpatenschaft (Adoptieren)
+- Events
+	- Gießveranstaltungen
+	- Gießgruppen
