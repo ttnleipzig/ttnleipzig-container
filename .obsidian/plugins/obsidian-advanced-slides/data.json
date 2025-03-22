@@ -8,8 +8,8 @@
   "enablePointer": true,
   "enableTimeBar": true,
   "theme": "black",
-  "highlightTheme": "zenburn",
-  "transition": "slide",
+  "highlightTheme": "css/mattropolis.css",
+  "transition": "zoom",
   "transitionSpeed": "fast",
   "controls": true,
   "progress": true,
@@ -17,5 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2025-02-03T12:01:54.741Z"
+  "motm": "2025-03-06T12:45:51.886Z"
 }

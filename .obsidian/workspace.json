@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ec86c622aeec84e",
+            "id": "c516d269bfc20799",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/regenfass/Leipzig Gießt/Leipzig Gießt - Slides.md",
+                "file": "presentation/slides/Leipzig Gießt/Leipzig Gießt - Slides.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,34 +24,71 @@
             }
           },
           {
-            "id": "c46db224ad0ca986",
+            "id": "b620d14aafc1d1da",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "projects/regenfass/Leipzig Gießt/media/ttn-gateway.md"
+                "file": "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ttn-gateway"
+              "title": "leipzig-giesst-karte"
             }
-          }
-        ]
-      },
-      {
-        "id": "f1486acd1c0e3031",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ab4a5e0678057e61",
+            "id": "f9743c2dca826e3e",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
+              "type": "image",
+              "state": {
+                "file": "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.light.svg"
+              },
+              "icon": "lucide-image",
+              "title": "leipzig-giesst-karte.light"
+            }
+          },
+          {
+            "id": "eaf247a7e0c879b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte-animation.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "leipzig-giesst-karte-animation"
+            }
+          },
+          {
+            "id": "b3138a0fce02f84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 026/03_product/meetup 026 - slides.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "meetup 026 - slides"
+            }
+          },
+          {
+            "id": "a1bf1f48fffe717a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetups/meetup 026/meetup 026 - teaser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meetup 026 - teaser"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 372.5
   },
   "right": {
     "id": "72db0b5349a62976",
@@ -185,63 +222,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab4a5e0678057e61",
+  "active": "a1bf1f48fffe717a",
   "lastOpenFiles": [
-    "projects/regenfass/Leipzig Gießt/media/ttn-gateway.md",
-    "projects/regenfass/Leipzig Gießt/media/lora.md",
-    "projects/regenfass/Leipzig Gießt/media/lorawan.md",
-    "projects/regenfass/Leipzig Gießt/Leipzig Gießt - Slides.md",
-    "projects/regenfass/Leipzig Gießt/TTN Leipzig.md",
-    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.light.png",
-    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.md",
-    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.dark.png",
-    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.light.svg",
-    "projects/regenfass/Leipzig Gießt/media/leipzig-giesst.dark.svg",
-    "projects/regenfass/Leipzig Gießt/media/lorawan.light.svg",
-    "projects/regenfass/Leipzig Gießt/media/lorawan.dark.png",
-    "projects/regenfass/Leipzig Gießt/media/lorawan.light.png",
-    "projects/regenfass/Leipzig Gießt/media/lorawan.dark.svg",
-    "projects/regenfass/Leipzig Gießt/media/lora.light.png",
-    "projects/regenfass/Leipzig Gießt/media/lora.light.svg",
+    "meetups/meetup 026/03_product/meetup 026 - slides.md",
+    "meetups/meetup 026/meetup 026 - teaser.md",
+    "presentation/slides/Leipzig Gießt/Leipzig Gießt - Slides.md",
+    "meetups/meetup 025/meetup 025 - slides.md",
+    "meetups/meetup 026/01_source/meetup-026.jpg",
+    "meetups/meetup 026/03_product/assets/Meetup #026 - Flyer - Sponsor.pdf",
+    "meetups/meetup 026/03_product/assets/Meetup #026 - TTN.jpg",
+    "meetups/meetup 026/03_product/assets/Meetup #026 - Twitter.png",
+    "meetups/meetup 026/03_product/assets",
+    "meetups/meetup 026/03_product",
+    "meetups/meetup 026/01_source",
+    "meetups/meetup 026",
+    "presentation/slides/Leipzig Gießt/Leipzig Gießt.md",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-hardware-2d.md",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte-animation.md",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.light.svg",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-hardware.md",
+    "presentation/slides/Leipzig Gießt/TTN Leipzig.md",
+    "presentation/slides/Leipzig Gießt/media/lorawan.dark.png",
+    "presentation/slides/Leipzig Gießt/media/lorawan.md",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte-animation.light.png",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte-animation.light.svg",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.md",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.light.png",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.dark.png",
+    "presentation/slides/Leipzig Gießt/media/leipzig-giesst-karte.dark.svg",
+    "presentation/slides/Leipzig Gießt/media/lora-smartcity.md",
+    "presentation/slides/Leipzig Gießt/media/lora-reichweite.md",
+    "presentation/slides/Leipzig Gießt/media/lora.md",
+    "presentation/slides/Was ist TTN Leipzig/Was ist TTN Leipzig.md",
+    "presentation/slides/Leipzig Gießt/media/ttn-gateway.md",
+    "meetups/meetup 025/meetup 025 - teaser.md",
+    "projects/regenfass/Leipzig Gießt/lg.md",
+    "meetups/meetup 024/meetup 024 - teaser.md",
+    "meetups/meetup 024/assets/03_product/Meetup #024 - Flyer - Sponsor.pdf",
+    "meetups/meetup 025/03_product/Meetup #025 - Flyer - Sponsor.pdf",
+    "meetups/meetup 025/03_product",
+    "meetups/meetup 025/01_source",
+    "meetups/meetup 025",
     "projects/regenfass/Regenfass UML.md",
     "projects/regenfass/Leipzig Gießt/test-slide.md",
     "projects/regenfass/Regenfass Flow 2.0.0.md",
-    "projects/regenfass/Leipzig Gießt",
-    "projects/regenfass/Leipzig Gießt/media",
-    "presentation/slides/Was ist TTN Leipzig/Was ist TTN Leipzig.md",
     "projects/regenfass/Deutschland Gießt Workshop.md",
     "meetups/meetup 024/meetup 024 - slides.md",
     "projects/kieks.me slides.md",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/GPT-Draw-a-UI.md",
-    "meetups/meetup 024/meetup 024 - teaser.md",
-    "meetups/meetup 023/assets/Nova_tts-1-hd_1x_2025-02-07T11_34_06-873Z.mp3",
-    "regenfass/Deutschland Gießt Workshop.md",
-    "projects/regenfass",
-    "projects",
-    "meetups/meetup 023/meetup 023 - teaser.md",
-    "meetups/meetup 023/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
-    "regenfass/Regenfass UML.md",
-    "regenfass/Regenfass Flow 2.0.0.md",
-    "regenfass",
-    "meetups/meetup 024/assets/03_product/Meetup #024 - Flyer - Sponsor.pdf",
-    "projects/regenfass/planning",
-    "meetups/meetup 024/assets/03_product/Meetup #023 - Flyer - Sponsor.pdf",
-    "meetups/meetup 023/meetup 023 - slides.md",
-    "meetups/meetup 002/meetup 002 - slides.md",
-    "meetups/meetup 022/meetup 022 - teaser.md",
-    "meetups/meetup 022/meetup 022 - slides.md",
-    "politics/meetings/001.md"
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md"
   ]
 }
